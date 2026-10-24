@@ -1,0 +1,5 @@
+,CV_Accuracy,Test_Accuracy,F1_macro
+Logistic Regression,0.7588,0.775,0.7695
+Decision Tree,0.6325,0.6675,0.6669
+Random Forest,0.69,0.69,0.6763
+Gradient Boosting,0.7262,0.7275,0.724

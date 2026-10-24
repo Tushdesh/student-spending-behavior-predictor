@@ -1,0 +1,4 @@
+,CV_R2,Test_R2,MAE,RMSE
+Linear Regression,0.9347,0.9386,817.3,1013.8
+Random Forest,0.8701,0.8986,1040.9,1302.7
+Gradient Boosting,0.9188,0.9286,858.8,1093.2

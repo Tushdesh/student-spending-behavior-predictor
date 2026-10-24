@@ -1,0 +1,2001 @@
+age,gender,year_of_study,course,city_tier,living_situation,monthly_allowance,part_time_income,transport_mode,food_orders_per_week,outings_per_month,online_shopping_orders,subscriptions,social_media_hours,tracks_budget,uses_bnpl,upi_txn_per_week,monthly_spending,spending_category
+18,Male,1,Science,Tier 2,PG / Rented,4300,0,Own Bike,5,2,3,0,2.4,No,No,15,9250,Overspender
+23,Male,4,Commerce,Tier 1,With Family,12600,7700,Cab / Auto,1,2,0,2,4.9,No,No,16,12620,Saver
+22,Male,4,Management,Tier 2,Hostel,13600,3900,Own Bike,1,6,1,4,2.6,Yes,No,18,10210,Saver
+21,Male,4,Engineering,Tier 1,Hostel,8700,0,Public Transport,4,2,4,0,2.1,Yes,No,12,9440,Overspender
+21,Female,3,Arts,Tier 1,With Family,9600,0,Own Bike,3,1,1,4,3.3,No,No,19,9690,Balanced
+24,Male,4,Engineering,Tier 2,With Family,5100,0,Cab / Auto,3,4,1,3,5.8,Yes,No,12,7060,Overspender
+18,Female,1,Commerce,Tier 2,PG / Rented,11200,0,Walk / Cycle,0,2,2,1,1.3,Yes,No,16,7380,Saver
+22,Male,4,Engineering,Tier 3,With Family,2500,0,Public Transport,1,3,3,0,2.2,Yes,No,16,2300,Balanced
+19,Female,1,Engineering,Tier 3,With Family,5600,0,Walk / Cycle,2,2,4,3,1.7,No,No,19,6440,Overspender
+18,Male,1,Arts,Tier 3,PG / Rented,3600,0,Cab / Auto,2,7,0,2,1.1,No,No,12,5410,Overspender
+21,Female,3,Engineering,Tier 2,With Family,2500,6400,Cab / Auto,3,8,1,0,1.8,Yes,No,13,7170,Balanced
+24,Female,4,Engineering,Tier 2,With Family,5300,0,Own Bike,6,1,1,4,0.8,No,No,8,7190,Overspender
+23,Male,4,Medical,Tier 1,With Family,6900,0,Public Transport,1,2,3,5,0.7,Yes,No,11,6530,Balanced
+23,Female,4,Engineering,Tier 2,PG / Rented,11300,0,Cab / Auto,2,1,1,2,7.6,No,No,15,10520,Balanced
+23,Male,4,Arts,Tier 1,Hostel,8100,0,Walk / Cycle,8,2,0,2,1.0,Yes,No,7,9450,Overspender
+23,Male,4,Arts,Tier 1,Hostel,25200,0,Walk / Cycle,0,3,1,5,3.9,No,No,8,14510,Saver
+21,Female,3,Engineering,Tier 1,With Family,8100,9100,Own Bike,9,5,5,2,9.2,No,No,9,17770,Balanced
+18,Female,1,Commerce,Tier 3,With Family,4700,0,Own Bike,0,3,1,1,5.5,No,No,14,3930,Balanced
+23,Male,4,Engineering,Tier 2,Hostel,8700,6500,Cab / Auto,4,4,2,5,3.8,Yes,No,10,10260,Saver
+21,Male,4,Science,Tier 3,PG / Rented,11800,0,Public Transport,3,4,3,3,4.3,No,No,11,10830,Balanced
+21,Female,3,Engineering,Tier 3,Hostel,7800,0,Public Transport,2,3,1,5,1.7,No,No,12,9290,Overspender
+20,Female,2,Engineering,Tier 3,Hostel,7300,8700,Public Transport,2,3,0,5,5.6,No,No,13,10330,Saver
+19,Other,1,Engineering,Tier 1,With Family,10500,0,Walk / Cycle,2,8,5,4,8.0,No,No,14,12480,Overspender
+24,Female,4,Medical,Tier 3,PG / Rented,3300,4400,Own Bike,1,2,3,2,2.0,No,No,12,7710,Balanced
+23,Female,4,Management,Tier 3,Hostel,2700,0,Public Transport,0,5,1,4,0.6,No,No,11,2790,Balanced
+22,Male,4,Medical,Tier 3,PG / Rented,7200,0,Walk / Cycle,1,2,2,2,4.8,Yes,No,14,7990,Overspender
+20,Female,2,Science,Tier 1,PG / Rented,12400,0,Public Transport,3,3,5,4,10.0,Yes,No,13,12230,Balanced
+23,Male,4,Science,Tier 1,With Family,9800,0,Own Bike,0,6,2,5,1.1,No,No,16,9160,Balanced
+21,Female,4,Commerce,Tier 3,With Family,4200,4900,Own Bike,3,4,1,4,0.2,No,No,15,7550,Balanced
+21,Male,3,Medical,Tier 1,PG / Rented,17500,0,Walk / Cycle,0,3,2,2,2.2,No,No,18,14130,Balanced
+21,Female,4,Arts,Tier 1,PG / Rented,7700,0,Walk / Cycle,2,2,5,5,1.6,No,No,11,11090,Overspender
+19,Female,2,Commerce,Tier 2,PG / Rented,10000,0,Cab / Auto,4,1,3,5,3.0,No,Yes,13,11800,Overspender
+18,Male,1,Science,Tier 1,PG / Rented,7400,0,Public Transport,4,0,2,1,1.4,No,Yes,14,10180,Overspender
+21,Female,4,Arts,Tier 1,Hostel,12900,0,Public Transport,3,3,3,5,2.2,No,No,8,14750,Overspender
+24,Male,4,Engineering,Tier 3,Hostel,2600,0,Walk / Cycle,1,3,2,2,1.0,Yes,No,11,3690,Overspender
+18,Female,1,Commerce,Tier 3,With Family,4900,0,Cab / Auto,1,2,2,1,0.3,Yes,No,12,6660,Overspender
+24,Male,4,Engineering,Tier 3,PG / Rented,3900,0,Own Bike,3,6,3,1,2.4,No,No,12,7410,Overspender
+23,Male,4,Management,Tier 1,PG / Rented,11400,9000,Walk / Cycle,4,4,0,4,4.1,No,No,17,17060,Balanced
+19,Male,1,Commerce,Tier 1,Hostel,16200,1500,Walk / Cycle,1,2,2,2,0.8,Yes,No,10,10090,Saver
+22,Male,4,Management,Tier 2,With Family,6200,0,Walk / Cycle,2,4,3,3,9.9,No,No,8,6840,Overspender
+19,Male,1,Commerce,Tier 2,Hostel,3800,0,Walk / Cycle,5,0,2,2,3.6,No,No,14,8740,Overspender
+23,Female,4,Science,Tier 1,PG / Rented,10000,5900,Walk / Cycle,2,1,6,5,1.7,No,No,10,14080,Balanced
+22,Female,4,Engineering,Tier 2,With Family,2800,0,Walk / Cycle,3,2,1,0,6.2,No,Yes,17,4150,Overspender
+20,Female,3,Medical,Tier 3,PG / Rented,3500,0,Walk / Cycle,3,5,4,3,4.9,Yes,No,10,7930,Overspender
+18,Male,1,Commerce,Tier 2,With Family,5900,0,Public Transport,4,3,1,2,4.0,No,No,11,6690,Overspender
+24,Male,4,Engineering,Tier 1,Hostel,13900,0,Public Transport,3,2,1,4,2.9,No,No,13,12870,Balanced
+21,Male,3,Engineering,Tier 1,With Family,9200,0,Public Transport,3,0,5,5,1.7,No,No,16,8120,Balanced
+24,Female,4,Engineering,Tier 1,With Family,9900,7900,Own Bike,3,2,2,2,3.4,No,No,16,12870,Saver
+22,Female,4,Commerce,Tier 1,PG / Rented,13400,0,Public Transport,1,3,1,5,2.9,Yes,No,16,11350,Balanced
+23,Male,4,Science,Tier 2,With Family,5000,0,Cab / Auto,4,4,1,3,6.0,No,Yes,8,7340,Overspender
+23,Female,4,Medical,Tier 2,PG / Rented,6200,8900,Cab / Auto,2,2,2,0,3.8,No,No,17,11440,Saver
+19,Male,1,Science,Tier 2,With Family,4600,0,Cab / Auto,4,7,1,4,2.0,Yes,No,12,5620,Overspender
+20,Male,2,Arts,Tier 3,With Family,2300,0,Walk / Cycle,3,3,2,3,2.0,Yes,No,15,1000,Saver
+21,Male,3,Commerce,Tier 1,With Family,5200,0,Walk / Cycle,3,1,2,5,1.3,No,No,16,6070,Overspender
+21,Male,4,Management,Tier 1,With Family,7900,0,Own Bike,5,5,2,2,3.0,No,No,12,8730,Overspender
+18,Female,1,Management,Tier 1,PG / Rented,12800,0,Walk / Cycle,2,5,1,1,1.8,Yes,Yes,12,11680,Balanced
+21,Female,3,Engineering,Tier 1,PG / Rented,50000,0,Walk / Cycle,3,7,2,1,0.9,No,No,14,31090,Saver
+19,Male,2,Medical,Tier 2,Hostel,4400,4400,Walk / Cycle,1,2,2,0,4.6,No,No,19,6480,Saver
+23,Female,4,Commerce,Tier 3,With Family,4000,0,Own Bike,2,0,1,4,1.7,Yes,No,8,4520,Overspender
+22,Female,4,Management,Tier 3,With Family,2200,1500,Own Bike,4,3,1,5,2.1,No,No,9,3950,Overspender
+24,Female,4,Medical,Tier 2,PG / Rented,8400,0,Public Transport,3,2,0,3,6.9,No,No,10,8210,Balanced
+23,Female,4,Science,Tier 2,Hostel,6800,0,Cab / Auto,1,5,3,3,5.1,Yes,Yes,9,10410,Overspender
+20,Male,2,Engineering,Tier 1,PG / Rented,19700,0,Own Bike,4,1,5,0,3.7,No,Yes,14,18960,Balanced
+24,Female,4,Arts,Tier 2,With Family,4600,6600,Walk / Cycle,4,6,4,0,3.0,No,No,14,11120,Balanced
+20,Male,2,Engineering,Tier 1,With Family,6900,0,Public Transport,4,5,4,2,7.9,No,No,9,11750,Overspender
+20,Other,2,Management,Tier 3,Hostel,4900,0,Walk / Cycle,2,5,2,3,2.1,No,No,15,5350,Overspender
+24,Male,4,Engineering,Tier 2,Hostel,4300,0,Cab / Auto,3,4,1,2,1.4,No,No,10,6270,Overspender
+20,Female,2,Science,Tier 1,PG / Rented,10100,0,Own Bike,2,4,1,5,6.0,No,Yes,14,11190,Overspender
+18,Male,1,Medical,Tier 1,Hostel,9100,5200,Own Bike,0,1,1,1,3.7,Yes,No,16,9330,Saver
+21,Male,4,Engineering,Tier 1,With Family,7800,0,Own Bike,1,2,2,5,1.1,Yes,No,12,6520,Balanced
+23,Female,4,Commerce,Tier 3,PG / Rented,9600,0,Public Transport,0,5,0,1,3.7,Yes,Yes,7,8130,Balanced
+19,Female,2,Science,Tier 1,PG / Rented,12100,0,Cab / Auto,2,4,3,1,0.6,No,Yes,17,15620,Overspender
+21,Male,4,Commerce,Tier 1,Hostel,9600,3500,Cab / Auto,2,3,1,1,5.2,No,No,17,10460,Saver
+18,Female,1,Engineering,Tier 1,PG / Rented,6200,0,Own Bike,2,3,2,4,3.1,No,No,13,11230,Overspender
+22,Female,4,Engineering,Tier 3,With Family,5400,0,Public Transport,2,2,1,1,3.4,No,No,8,4490,Balanced
+21,Male,3,Commerce,Tier 2,PG / Rented,7300,0,Walk / Cycle,2,4,1,2,3.6,No,No,9,8280,Overspender
+20,Female,2,Science,Tier 2,Hostel,11200,0,Walk / Cycle,5,3,1,0,3.7,No,No,10,9560,Balanced
+19,Male,1,Arts,Tier 1,Hostel,19500,0,Walk / Cycle,1,6,1,2,2.5,No,No,18,12500,Saver
+21,Female,4,Engineering,Tier 1,With Family,6900,9900,Public Transport,4,2,0,1,2.7,No,No,8,10460,Saver
+22,Male,4,Commerce,Tier 3,With Family,2700,0,Own Bike,2,4,1,4,1.8,Yes,No,9,3980,Overspender
+24,Male,4,Commerce,Tier 1,Hostel,10700,0,Cab / Auto,3,1,2,4,3.0,Yes,No,18,9370,Balanced
+21,Female,3,Engineering,Tier 1,PG / Rented,15800,13800,Walk / Cycle,6,5,2,1,2.5,Yes,No,16,20740,Saver
+19,Female,1,Science,Tier 2,Hostel,6900,0,Public Transport,1,1,1,5,2.8,No,No,14,5790,Balanced
+23,Female,4,Engineering,Tier 1,PG / Rented,10500,0,Walk / Cycle,3,3,2,2,0.8,No,No,12,11100,Overspender
+22,Other,4,Arts,Tier 1,Hostel,13900,0,Cab / Auto,3,4,2,5,1.5,No,No,15,11330,Balanced
+22,Female,4,Medical,Tier 3,With Family,5300,0,Own Bike,1,2,0,1,0.3,No,Yes,13,1520,Saver
+18,Female,1,Arts,Tier 2,With Family,4800,0,Public Transport,0,2,0,5,2.3,No,No,11,4590,Balanced
+20,Female,2,Arts,Tier 1,Hostel,5100,0,Public Transport,4,4,3,0,1.0,No,No,12,9030,Overspender
+23,Male,4,Engineering,Tier 1,PG / Rented,16600,0,Public Transport,1,5,4,2,0.5,Yes,Yes,14,12450,Saver
+23,Male,4,Engineering,Tier 2,Hostel,5700,0,Public Transport,3,2,1,2,3.0,Yes,No,13,6120,Overspender
+21,Male,3,Engineering,Tier 1,Hostel,11900,0,Walk / Cycle,7,2,0,1,1.1,Yes,No,14,11020,Balanced
+23,Female,4,Science,Tier 1,Hostel,11600,0,Public Transport,4,4,4,5,1.5,No,No,11,11480,Balanced
+23,Male,4,Management,Tier 2,Hostel,3400,0,Walk / Cycle,2,4,0,1,3.3,No,No,10,5440,Overspender
+20,Male,2,Engineering,Tier 2,With Family,5800,4800,Public Transport,1,1,1,2,4.5,No,No,26,8040,Saver
+24,Female,4,Engineering,Tier 3,Hostel,7600,0,Public Transport,1,6,1,0,1.8,No,No,16,7240,Balanced
+20,Male,3,Commerce,Tier 1,With Family,10100,7400,Own Bike,1,3,0,4,5.2,No,No,12,12660,Saver
+19,Male,2,Arts,Tier 1,Hostel,11400,0,Public Transport,2,2,1,1,6.1,No,No,12,10290,Balanced
+22,Female,4,Science,Tier 2,PG / Rented,4100,0,Public Transport,7,9,0,1,2.4,No,Yes,12,10080,Overspender
+22,Female,4,Science,Tier 2,PG / Rented,17800,3700,Cab / Auto,2,5,3,5,2.4,Yes,No,12,15300,Saver
+18,Male,1,Medical,Tier 1,With Family,9100,0,Public Transport,4,4,1,5,1.5,Yes,Yes,11,9770,Overspender
+23,Male,4,Engineering,Tier 2,Hostel,4700,6800,Own Bike,1,1,3,0,2.8,No,No,15,10750,Balanced
+19,Male,2,Science,Tier 1,Hostel,7600,0,Walk / Cycle,6,2,4,3,4.5,Yes,No,7,9820,Overspender
+23,Female,4,Arts,Tier 3,With Family,4700,0,Own Bike,3,4,0,4,5.8,No,No,8,4780,Balanced
+18,Female,1,Engineering,Tier 3,With Family,5700,0,Public Transport,2,5,4,5,1.1,No,Yes,4,5320,Balanced
+23,Male,4,Medical,Tier 2,With Family,4500,0,Walk / Cycle,4,5,2,1,2.5,No,No,12,6650,Overspender
+23,Female,4,Engineering,Tier 3,Hostel,8700,4400,Walk / Cycle,1,3,1,1,4.0,Yes,No,5,8080,Saver
+23,Male,4,Science,Tier 3,Hostel,2700,0,Own Bike,2,0,2,1,0.5,Yes,No,14,3020,Overspender
+22,Male,4,Science,Tier 1,With Family,4700,0,Own Bike,3,1,1,3,0.2,No,No,7,6570,Overspender
+21,Other,4,Medical,Tier 1,PG / Rented,5300,8700,Own Bike,6,2,4,3,2.4,No,No,18,16410,Overspender
+22,Male,4,Arts,Tier 2,PG / Rented,6700,0,Public Transport,4,1,3,1,1.2,Yes,No,17,6800,Balanced
+19,Male,2,Commerce,Tier 1,Hostel,21300,8400,Own Bike,5,4,2,0,1.0,No,No,14,21060,Saver
+23,Male,4,Management,Tier 1,Hostel,27300,0,Public Transport,6,0,2,0,1.2,No,No,11,16960,Saver
+21,Female,3,Science,Tier 1,With Family,8400,5800,Walk / Cycle,3,2,3,1,1.2,Yes,No,12,9710,Saver
+21,Female,4,Arts,Tier 3,With Family,3200,0,Public Transport,0,2,4,3,3.3,No,No,7,4400,Overspender
+21,Other,3,Science,Tier 2,Hostel,7200,5500,Public Transport,2,4,0,1,0.2,No,No,11,7350,Saver
+21,Male,3,Engineering,Tier 2,With Family,6900,10600,Own Bike,2,4,1,4,3.1,No,No,8,11710,Saver
+18,Male,1,Arts,Tier 1,PG / Rented,6700,0,Public Transport,2,2,3,3,1.9,No,No,11,9280,Overspender
+18,Female,1,Management,Tier 1,Hostel,8300,0,Public Transport,4,0,2,1,0.7,No,Yes,13,11220,Overspender
+19,Male,2,Engineering,Tier 3,PG / Rented,14300,0,Cab / Auto,4,4,2,5,3.7,No,No,10,13440,Balanced
+18,Female,1,Commerce,Tier 1,With Family,4700,0,Cab / Auto,2,3,7,4,3.3,Yes,No,11,6560,Overspender
+21,Female,3,Medical,Tier 1,PG / Rented,9600,0,Walk / Cycle,3,3,4,5,1.3,No,No,13,8940,Balanced
+22,Male,4,Management,Tier 1,PG / Rented,13600,0,Cab / Auto,5,3,2,4,3.6,No,No,18,15640,Overspender
+22,Female,4,Management,Tier 2,With Family,6400,0,Walk / Cycle,3,3,2,3,5.5,Yes,No,7,5620,Balanced
+21,Male,3,Commerce,Tier 1,Hostel,8200,0,Own Bike,0,2,2,2,0.3,Yes,No,8,7960,Balanced
+23,Male,4,Medical,Tier 1,With Family,7800,0,Walk / Cycle,5,3,4,3,1.0,No,No,9,11000,Overspender
+21,Female,3,Engineering,Tier 1,PG / Rented,17700,0,Public Transport,6,2,2,4,0.2,No,No,14,16760,Balanced
+18,Male,1,Arts,Tier 1,PG / Rented,32600,0,Cab / Auto,2,2,3,5,4.2,Yes,No,15,22150,Saver
+23,Female,4,Commerce,Tier 1,With Family,7100,0,Walk / Cycle,4,2,1,3,2.2,Yes,No,13,8160,Overspender
+22,Female,4,Management,Tier 2,PG / Rented,9800,0,Own Bike,1,4,1,4,1.8,No,No,10,10600,Overspender
+22,Other,4,Medical,Tier 1,PG / Rented,26800,0,Public Transport,1,1,2,5,4.0,Yes,No,14,17330,Saver
+21,Other,3,Science,Tier 1,PG / Rented,10500,0,Walk / Cycle,0,0,1,3,1.6,Yes,No,10,7730,Saver
+21,Male,3,Science,Tier 2,With Family,3100,0,Cab / Auto,2,3,1,4,4.1,No,No,15,5950,Overspender
+18,Male,1,Commerce,Tier 2,With Family,6300,0,Public Transport,1,3,2,1,0.9,No,No,11,5560,Balanced
+21,Female,3,Arts,Tier 1,With Family,12300,0,Cab / Auto,1,2,3,5,2.4,No,No,12,11050,Balanced
+23,Other,4,Arts,Tier 1,Hostel,12700,0,Own Bike,2,3,1,5,4.6,No,No,13,10210,Balanced
+20,Male,2,Engineering,Tier 1,PG / Rented,12900,0,Walk / Cycle,3,5,3,2,0.6,No,No,10,14100,Overspender
+22,Male,4,Arts,Tier 3,PG / Rented,3900,5300,Public Transport,1,4,0,5,1.2,Yes,No,8,7080,Saver
+18,Male,1,Management,Tier 1,Hostel,10500,0,Public Transport,9,1,1,4,1.8,No,No,13,13580,Overspender
+20,Male,2,Science,Tier 1,With Family,13200,6300,Public Transport,0,4,3,1,7.4,No,No,21,11350,Saver
+21,Female,3,Management,Tier 2,Hostel,4600,7200,Walk / Cycle,3,2,2,5,3.0,No,No,1,9180,Saver
+24,Male,4,Commerce,Tier 1,Hostel,9700,0,Public Transport,1,3,4,3,0.7,No,No,15,10180,Balanced
+19,Female,1,Arts,Tier 1,Hostel,9100,0,Own Bike,3,0,0,0,8.2,No,No,14,8420,Balanced
+19,Female,2,Engineering,Tier 1,Hostel,7900,8600,Walk / Cycle,2,2,1,0,7.0,Yes,No,13,8850,Saver
+20,Female,3,Commerce,Tier 2,Hostel,8900,0,Own Bike,3,1,0,3,2.9,No,No,14,6630,Saver
+24,Male,4,Commerce,Tier 2,PG / Rented,12200,7500,Public Transport,6,3,2,3,9.7,No,Yes,11,17880,Balanced
+23,Male,4,Engineering,Tier 2,PG / Rented,12200,5700,Walk / Cycle,0,3,1,5,1.5,No,No,9,13130,Saver
+18,Female,1,Engineering,Tier 2,Hostel,5200,0,Walk / Cycle,3,3,3,3,2.0,No,No,11,6660,Overspender
+19,Female,2,Science,Tier 1,Hostel,5100,0,Walk / Cycle,3,2,0,2,1.1,Yes,No,11,5320,Balanced
+23,Male,4,Commerce,Tier 3,With Family,4700,0,Own Bike,3,5,1,1,4.0,No,No,9,6230,Overspender
+18,Female,1,Commerce,Tier 2,Hostel,6400,0,Walk / Cycle,3,7,1,3,8.7,No,Yes,15,8970,Overspender
+23,Male,4,Engineering,Tier 3,PG / Rented,17200,0,Own Bike,2,5,1,1,5.0,No,Yes,9,13790,Balanced
+19,Female,2,Arts,Tier 2,PG / Rented,23400,0,Own Bike,1,2,3,4,1.1,No,No,14,15250,Saver
+24,Male,4,Commerce,Tier 1,PG / Rented,33100,0,Walk / Cycle,4,2,2,0,1.5,No,No,15,21240,Saver
+20,Male,2,Commerce,Tier 1,With Family,5000,0,Cab / Auto,7,5,3,4,4.6,Yes,No,9,10660,Overspender
+21,Female,3,Arts,Tier 2,PG / Rented,12900,0,Cab / Auto,2,5,1,1,1.1,No,No,10,12360,Balanced
+22,Male,4,Engineering,Tier 1,With Family,11200,0,Walk / Cycle,3,3,1,1,2.4,Yes,Yes,8,8720,Saver
+18,Male,1,Medical,Tier 2,With Family,7900,0,Cab / Auto,3,4,1,5,0.5,Yes,Yes,12,7280,Balanced
+21,Male,4,Engineering,Tier 1,Hostel,9200,0,Public Transport,2,4,1,2,1.9,Yes,No,9,6490,Saver
+21,Male,4,Commerce,Tier 1,Hostel,19200,0,Own Bike,3,3,3,4,2.8,No,No,15,13680,Saver
+23,Female,4,Engineering,Tier 3,Hostel,6000,9300,Walk / Cycle,2,3,2,2,2.9,No,No,10,9370,Saver
+24,Male,4,Arts,Tier 2,PG / Rented,10600,0,Own Bike,3,3,3,5,3.7,No,No,14,11400,Overspender
+22,Female,4,Engineering,Tier 2,PG / Rented,5000,7600,Own Bike,3,2,2,0,6.6,No,No,7,9980,Saver
+20,Female,2,Management,Tier 1,Hostel,14400,0,Cab / Auto,5,2,1,2,5.2,Yes,No,10,10890,Saver
+20,Male,2,Commerce,Tier 2,Hostel,7100,0,Cab / Auto,1,4,0,0,4.9,No,No,7,7240,Balanced
+20,Male,2,Science,Tier 3,PG / Rented,9200,0,Walk / Cycle,3,4,1,3,4.4,Yes,No,10,9160,Balanced
+23,Female,4,Engineering,Tier 2,With Family,6200,5200,Own Bike,1,4,2,4,3.0,No,No,12,9520,Balanced
+20,Female,2,Engineering,Tier 2,With Family,6100,0,Public Transport,5,2,0,2,2.4,No,No,14,4770,Saver
+19,Female,2,Commerce,Tier 2,With Family,5500,0,Walk / Cycle,3,1,1,5,5.4,Yes,Yes,12,5880,Overspender
+20,Female,3,Arts,Tier 1,Hostel,15400,0,Walk / Cycle,6,3,1,4,4.5,No,No,5,14530,Balanced
+18,Male,1,Commerce,Tier 2,PG / Rented,9100,0,Cab / Auto,2,1,1,5,1.4,No,Yes,14,10290,Overspender
+18,Male,1,Medical,Tier 3,With Family,2200,0,Own Bike,0,5,2,5,3.9,Yes,Yes,9,3910,Overspender
+18,Female,1,Science,Tier 2,With Family,7200,0,Walk / Cycle,1,5,0,5,3.0,No,No,5,5970,Balanced
+23,Male,4,Medical,Tier 1,PG / Rented,9400,0,Cab / Auto,5,6,0,2,3.5,Yes,No,9,12390,Overspender
+23,Female,4,Engineering,Tier 2,PG / Rented,5500,0,Own Bike,1,2,2,5,5.9,No,No,9,8070,Overspender
+22,Male,4,Management,Tier 2,Hostel,5100,8500,Public Transport,3,1,1,3,1.5,Yes,No,4,9720,Saver
+21,Female,3,Arts,Tier 3,With Family,4800,0,Public Transport,0,3,3,0,1.3,No,No,14,4390,Balanced
+23,Male,4,Arts,Tier 2,PG / Rented,9600,4300,Own Bike,3,3,2,0,3.2,Yes,No,8,10950,Saver
+19,Male,2,Medical,Tier 1,PG / Rented,5200,0,Own Bike,2,2,2,2,1.6,No,No,13,8220,Overspender
+24,Male,4,Science,Tier 1,PG / Rented,11400,0,Public Transport,4,5,3,3,0.7,Yes,No,10,12070,Overspender
+21,Male,4,Management,Tier 2,PG / Rented,16900,0,Public Transport,5,0,1,0,1.0,No,No,12,12410,Saver
+24,Female,4,Science,Tier 1,Hostel,8800,0,Walk / Cycle,3,1,1,3,9.8,Yes,No,7,8570,Balanced
+19,Male,2,Engineering,Tier 2,With Family,5200,0,Public Transport,1,0,4,4,2.8,Yes,No,9,4340,Balanced
+21,Male,3,Science,Tier 3,PG / Rented,12000,6800,Public Transport,3,3,1,4,4.0,Yes,No,5,13140,Saver
+22,Male,4,Commerce,Tier 2,Hostel,11400,9300,Public Transport,0,4,2,5,2.3,Yes,No,19,11220,Saver
+21,Male,3,Medical,Tier 1,PG / Rented,21400,0,Public Transport,2,1,4,2,5.6,No,No,6,16590,Saver
+21,Female,4,Management,Tier 2,With Family,2000,0,Own Bike,0,4,3,0,0.3,No,No,8,3940,Overspender
+19,Male,1,Engineering,Tier 2,PG / Rented,21800,0,Public Transport,6,3,4,5,7.4,No,No,9,18590,Balanced
+20,Other,3,Engineering,Tier 1,PG / Rented,18000,0,Public Transport,4,2,2,3,2.8,No,Yes,12,15300,Balanced
+19,Male,1,Engineering,Tier 2,PG / Rented,30300,0,Walk / Cycle,1,1,3,3,1.6,Yes,No,9,17750,Saver
+20,Female,2,Commerce,Tier 2,With Family,3900,0,Cab / Auto,1,7,0,3,6.7,No,No,9,5070,Overspender
+22,Male,4,Engineering,Tier 3,With Family,2000,0,Walk / Cycle,3,6,3,2,3.8,No,Yes,11,4460,Overspender
+22,Male,4,Science,Tier 1,With Family,7600,10800,Public Transport,5,4,3,0,2.5,Yes,No,15,13810,Saver
+22,Female,4,Arts,Tier 1,Hostel,9500,0,Walk / Cycle,4,1,4,3,0.7,No,No,11,9140,Balanced
+20,Other,2,Management,Tier 2,With Family,7500,0,Own Bike,4,1,2,5,2.6,Yes,Yes,18,8630,Overspender
+24,Female,4,Engineering,Tier 1,With Family,12300,0,Public Transport,3,2,4,0,3.0,No,No,11,11850,Balanced
+18,Male,1,Arts,Tier 2,PG / Rented,9600,0,Public Transport,6,4,2,2,3.3,No,Yes,12,12880,Overspender
+20,Male,3,Engineering,Tier 3,PG / Rented,6700,0,Own Bike,1,3,1,5,1.4,No,No,12,7000,Balanced
+18,Female,1,Management,Tier 1,Hostel,13700,0,Own Bike,1,3,1,2,1.4,No,No,17,10170,Saver
+20,Male,2,Engineering,Tier 2,PG / Rented,8900,0,Public Transport,3,0,2,0,0.9,No,No,9,9950,Overspender
+24,Female,4,Engineering,Tier 3,Hostel,5100,0,Public Transport,0,2,2,5,1.5,No,No,11,4250,Balanced
+20,Female,3,Engineering,Tier 2,Hostel,12800,9900,Cab / Auto,5,5,2,0,4.3,No,No,16,16170,Saver
+24,Female,4,Management,Tier 2,With Family,9900,8000,Cab / Auto,3,4,0,1,8.4,No,No,10,11510,Saver
+21,Female,3,Engineering,Tier 2,Hostel,13000,0,Own Bike,4,11,2,2,2.2,No,No,13,11150,Balanced
+22,Female,4,Arts,Tier 1,PG / Rented,12500,3800,Own Bike,6,7,2,2,3.4,Yes,No,8,16770,Balanced
+21,Male,3,Science,Tier 1,Hostel,4100,9500,Cab / Auto,2,6,3,2,0.9,No,No,17,12180,Balanced
+19,Male,2,Science,Tier 2,PG / Rented,9400,0,Cab / Auto,1,4,3,4,0.9,No,Yes,15,11120,Overspender
+23,Female,4,Engineering,Tier 1,PG / Rented,9600,0,Walk / Cycle,0,4,1,3,5.3,No,Yes,19,10920,Overspender
+24,Male,4,Engineering,Tier 1,Hostel,10200,5800,Cab / Auto,2,3,3,2,0.2,Yes,No,16,11730,Saver
+19,Male,1,Commerce,Tier 1,PG / Rented,10000,0,Own Bike,1,4,2,4,3.8,No,No,10,10590,Overspender
+23,Male,4,Engineering,Tier 3,With Family,4200,0,Public Transport,0,6,2,3,4.0,No,No,12,4960,Overspender
+19,Female,1,Science,Tier 1,PG / Rented,8500,0,Public Transport,4,0,1,3,5.4,Yes,No,9,9630,Overspender
+23,Female,4,Commerce,Tier 2,With Family,3100,0,Public Transport,4,2,5,2,3.5,Yes,No,10,5990,Overspender
+23,Female,4,Commerce,Tier 1,With Family,13100,0,Own Bike,3,3,2,3,0.7,No,No,14,10590,Balanced
+21,Male,3,Engineering,Tier 2,PG / Rented,6500,7200,Own Bike,2,4,1,1,6.3,No,No,14,12600,Balanced
+23,Male,4,Arts,Tier 1,Hostel,10800,0,Walk / Cycle,6,4,1,2,1.8,Yes,No,7,10370,Balanced
+19,Female,2,Engineering,Tier 1,Hostel,16600,8500,Own Bike,4,3,1,0,6.0,Yes,No,15,16080,Saver
+18,Male,1,Science,Tier 2,With Family,8500,0,Walk / Cycle,1,4,1,0,5.1,Yes,No,13,6040,Saver
+18,Female,1,Engineering,Tier 2,PG / Rented,14300,0,Public Transport,1,5,0,5,3.5,No,No,11,10340,Saver
+21,Female,3,Medical,Tier 1,PG / Rented,15500,9900,Public Transport,4,3,6,4,5.1,No,Yes,13,22330,Balanced
+24,Male,4,Science,Tier 2,With Family,7800,8200,Own Bike,2,5,3,1,6.8,Yes,No,16,11150,Saver
+18,Male,1,Engineering,Tier 2,Hostel,14800,0,Walk / Cycle,2,5,5,2,3.8,No,No,13,9970,Saver
+21,Male,3,Engineering,Tier 1,With Family,9200,9600,Walk / Cycle,2,0,3,5,4.7,Yes,No,14,11230,Saver
+22,Female,4,Commerce,Tier 2,Hostel,3500,5700,Public Transport,4,3,3,3,1.3,No,No,16,9230,Balanced
+19,Female,1,Engineering,Tier 1,With Family,6000,0,Own Bike,6,0,4,0,4.5,No,Yes,11,9890,Overspender
+23,Male,4,Engineering,Tier 2,Hostel,10900,0,Cab / Auto,4,5,3,3,1.2,Yes,No,9,9730,Balanced
+20,Female,3,Management,Tier 1,Hostel,8100,0,Own Bike,5,6,1,5,3.2,No,Yes,10,11820,Overspender
+23,Male,4,Arts,Tier 2,With Family,11600,0,Own Bike,5,7,2,1,1.6,No,No,17,10610,Balanced
+22,Male,4,Engineering,Tier 1,Hostel,10500,0,Public Transport,3,3,1,5,1.9,No,No,15,10460,Balanced
+21,Female,3,Arts,Tier 2,With Family,5800,0,Walk / Cycle,2,5,0,4,7.4,Yes,No,10,5950,Balanced
+19,Male,1,Engineering,Tier 2,With Family,9300,0,Cab / Auto,2,2,0,0,2.7,No,No,9,7400,Saver
+21,Male,3,Medical,Tier 3,Hostel,5500,2400,Public Transport,4,2,5,5,3.2,No,No,10,9220,Overspender
+23,Female,4,Engineering,Tier 2,Hostel,8700,0,Walk / Cycle,1,4,2,3,4.6,Yes,No,15,8060,Balanced
+18,Male,1,Science,Tier 3,With Family,6300,0,Public Transport,0,2,1,1,3.0,No,No,12,4680,Saver
+23,Female,4,Science,Tier 1,PG / Rented,7000,9000,Own Bike,1,6,1,4,4.4,No,No,14,13250,Balanced
+21,Male,4,Engineering,Tier 1,With Family,6600,0,Public Transport,2,2,1,4,4.7,Yes,No,12,5780,Balanced
+23,Male,4,Engineering,Tier 1,Hostel,15700,7100,Walk / Cycle,3,4,1,3,1.8,No,No,23,14160,Saver
+22,Male,4,Commerce,Tier 2,With Family,5800,0,Own Bike,1,3,2,5,1.0,No,No,18,5920,Balanced
+21,Male,3,Management,Tier 2,PG / Rented,19400,0,Walk / Cycle,0,6,3,5,3.0,No,Yes,14,14590,Saver
+20,Male,3,Arts,Tier 3,With Family,2100,0,Public Transport,2,2,3,1,1.9,No,Yes,13,4710,Overspender
+22,Male,4,Science,Tier 2,PG / Rented,4700,0,Own Bike,2,1,5,0,5.0,Yes,No,5,7590,Overspender
+18,Female,1,Management,Tier 2,Hostel,11300,0,Cab / Auto,4,3,2,4,2.0,No,Yes,9,11450,Balanced
+22,Male,4,Management,Tier 1,With Family,11200,0,Public Transport,5,1,1,5,6.8,No,No,11,10530,Balanced
+18,Male,1,Commerce,Tier 1,With Family,6900,0,Walk / Cycle,7,3,1,1,7.0,No,No,11,9440,Overspender
+22,Male,4,Arts,Tier 3,PG / Rented,9000,0,Public Transport,1,5,2,3,6.4,No,Yes,8,8730,Balanced
+22,Male,4,Science,Tier 1,With Family,10600,0,Public Transport,4,0,3,3,4.2,No,No,19,8560,Balanced
+18,Male,1,Engineering,Tier 1,Hostel,7500,0,Cab / Auto,2,3,3,2,1.6,Yes,No,10,9180,Overspender
+23,Female,4,Management,Tier 3,Hostel,4400,0,Own Bike,2,3,3,3,2.2,No,Yes,10,5490,Overspender
+20,Male,2,Engineering,Tier 3,Hostel,6500,7100,Public Transport,3,5,4,3,4.1,Yes,No,17,11840,Balanced
+23,Female,4,Engineering,Tier 2,PG / Rented,15000,5200,Own Bike,1,5,5,5,2.5,No,No,8,16440,Balanced
+18,Female,1,Management,Tier 1,Hostel,6400,0,Public Transport,0,0,3,2,2.4,No,No,11,4360,Saver
+19,Male,2,Commerce,Tier 3,PG / Rented,6900,4600,Public Transport,7,4,2,0,6.6,No,No,9,11540,Balanced
+21,Male,3,Engineering,Tier 1,Hostel,9700,0,Cab / Auto,3,2,2,2,0.9,Yes,Yes,17,11210,Overspender
+19,Male,1,Engineering,Tier 2,With Family,6800,0,Walk / Cycle,3,2,0,0,4.3,No,No,13,5050,Saver
+20,Female,3,Arts,Tier 1,With Family,7500,0,Public Transport,4,8,1,0,4.0,Yes,No,15,8740,Overspender
+22,Male,4,Management,Tier 3,With Family,3300,0,Cab / Auto,1,1,1,3,3.1,Yes,No,16,3750,Overspender
+19,Female,1,Engineering,Tier 3,Hostel,10500,0,Public Transport,2,1,1,5,1.2,No,No,9,8070,Saver
+22,Female,4,Engineering,Tier 2,With Family,4400,0,Public Transport,3,2,1,0,2.2,Yes,No,14,4220,Balanced
+18,Female,1,Commerce,Tier 1,Hostel,9500,0,Walk / Cycle,5,4,2,2,3.1,No,Yes,15,12820,Overspender
+19,Female,2,Medical,Tier 2,With Family,2700,0,Public Transport,5,5,1,1,1.1,No,No,11,5250,Overspender
+22,Other,4,Engineering,Tier 1,PG / Rented,9800,0,Public Transport,4,3,5,2,5.8,Yes,No,10,11920,Overspender
+23,Male,4,Medical,Tier 3,PG / Rented,9500,0,Public Transport,2,3,2,3,2.9,No,No,9,8920,Balanced
+19,Male,1,Management,Tier 1,Hostel,12500,0,Public Transport,3,3,1,5,2.7,No,No,16,11610,Balanced
+20,Male,2,Engineering,Tier 1,With Family,9900,0,Public Transport,4,6,6,5,4.5,No,Yes,10,10400,Overspender
+24,Female,4,Management,Tier 2,With Family,7200,0,Own Bike,3,3,2,5,7.6,No,Yes,12,6210,Balanced
+24,Female,4,Science,Tier 2,With Family,14300,0,Cab / Auto,0,2,4,2,2.2,No,No,13,10400,Saver
+22,Female,4,Arts,Tier 3,With Family,3000,0,Own Bike,1,5,3,4,1.0,No,No,12,3870,Overspender
+21,Male,4,Commerce,Tier 1,With Family,3600,0,Own Bike,3,1,2,1,8.2,No,No,8,5110,Overspender
+20,Other,2,Management,Tier 3,Hostel,3700,0,Own Bike,1,4,2,0,3.3,No,No,10,4410,Overspender
+22,Male,4,Management,Tier 1,With Family,5500,0,Walk / Cycle,3,3,2,5,10.0,No,No,8,9690,Overspender
+22,Male,4,Science,Tier 1,Hostel,7000,0,Public Transport,4,4,4,5,6.9,No,No,11,8830,Overspender
+20,Other,3,Medical,Tier 2,PG / Rented,10400,0,Walk / Cycle,1,5,0,1,1.5,No,No,13,9410,Balanced
+18,Male,1,Commerce,Tier 1,Hostel,19000,0,Public Transport,2,3,2,1,2.5,Yes,No,13,11690,Saver
+19,Male,2,Management,Tier 2,With Family,11200,4900,Cab / Auto,0,2,2,5,0.2,Yes,No,9,8560,Saver
+24,Female,4,Management,Tier 1,With Family,9500,0,Public Transport,4,6,4,2,1.6,Yes,No,13,9660,Balanced
+20,Male,3,Engineering,Tier 1,Hostel,28300,0,Own Bike,2,4,2,4,0.8,No,No,12,16680,Saver
+21,Male,3,Engineering,Tier 2,PG / Rented,8500,5000,Walk / Cycle,2,1,1,5,1.7,Yes,No,13,8660,Saver
+21,Male,3,Commerce,Tier 1,PG / Rented,6500,0,Public Transport,3,3,1,3,0.6,No,Yes,16,10120,Overspender
+23,Male,4,Management,Tier 2,With Family,9000,7200,Public Transport,4,2,0,0,1.4,No,Yes,15,9850,Saver
+18,Female,1,Engineering,Tier 2,With Family,2400,0,Walk / Cycle,2,4,1,3,1.7,Yes,Yes,12,3730,Overspender
+18,Female,1,Science,Tier 1,Hostel,7700,0,Public Transport,9,4,1,0,2.7,No,No,9,12250,Overspender
+19,Male,1,Engineering,Tier 2,PG / Rented,12600,0,Own Bike,1,4,5,4,0.7,Yes,No,11,10170,Balanced
+21,Male,3,Commerce,Tier 1,PG / Rented,12900,0,Public Transport,6,2,3,3,6.0,No,No,13,15910,Overspender
+22,Male,4,Arts,Tier 1,PG / Rented,12400,0,Own Bike,2,3,1,2,1.6,Yes,Yes,12,11370,Balanced
+21,Female,3,Engineering,Tier 1,PG / Rented,7900,0,Cab / Auto,2,2,1,2,3.5,No,No,9,10130,Overspender
+21,Female,3,Management,Tier 3,Hostel,6000,8700,Public Transport,3,4,1,5,1.6,Yes,No,9,7710,Saver
+24,Female,4,Engineering,Tier 2,Hostel,12600,0,Cab / Auto,4,4,3,2,2.8,No,No,17,12350,Balanced
+19,Male,1,Medical,Tier 2,PG / Rented,10100,6400,Walk / Cycle,2,5,4,5,2.6,Yes,No,11,15180,Balanced
+22,Male,4,Engineering,Tier 3,With Family,2900,0,Public Transport,1,4,0,4,6.1,No,Yes,14,4770,Overspender
+21,Male,3,Medical,Tier 1,Hostel,6200,0,Public Transport,4,2,2,5,2.3,Yes,No,16,7900,Overspender
+21,Female,4,Arts,Tier 3,Hostel,4200,0,Public Transport,5,3,1,5,2.4,Yes,No,11,4530,Overspender
+23,Male,4,Engineering,Tier 2,With Family,6700,0,Public Transport,6,1,2,3,1.1,No,No,16,9300,Overspender
+19,Female,2,Engineering,Tier 3,With Family,4900,0,Public Transport,0,3,2,5,0.6,Yes,No,12,4030,Balanced
+24,Female,4,Engineering,Tier 3,PG / Rented,5200,4900,Cab / Auto,3,2,0,4,3.3,No,No,14,8710,Balanced
+20,Male,3,Arts,Tier 3,Hostel,2200,0,Public Transport,2,1,0,0,3.4,No,Yes,8,2960,Overspender
+21,Male,3,Management,Tier 1,With Family,9100,0,Own Bike,2,4,0,0,3.1,No,Yes,15,10190,Overspender
+21,Male,4,Commerce,Tier 3,PG / Rented,5000,0,Public Transport,4,3,2,4,5.1,Yes,Yes,13,7730,Overspender
+23,Male,4,Commerce,Tier 3,With Family,5700,6900,Public Transport,5,3,2,3,2.7,No,No,13,9820,Saver
+21,Male,4,Arts,Tier 2,Hostel,5700,6600,Public Transport,2,0,2,5,2.0,No,Yes,19,10110,Balanced
+19,Female,1,Arts,Tier 1,Hostel,6900,0,Public Transport,0,2,3,3,3.0,No,No,12,7000,Balanced
+18,Male,1,Science,Tier 3,Hostel,6400,0,Public Transport,2,3,2,1,2.3,No,No,9,5580,Balanced
+20,Male,2,Commerce,Tier 1,With Family,21800,0,Own Bike,1,2,3,5,0.8,No,No,15,14910,Saver
+23,Female,4,Science,Tier 2,PG / Rented,14000,0,Public Transport,2,0,2,2,5.5,No,No,7,11020,Saver
+18,Female,1,Medical,Tier 2,Hostel,8500,0,Walk / Cycle,5,3,6,5,1.6,Yes,No,18,8280,Balanced
+24,Male,4,Commerce,Tier 1,PG / Rented,15900,0,Own Bike,4,2,2,0,2.5,No,No,14,15070,Balanced
+21,Female,3,Engineering,Tier 2,With Family,2500,7200,Own Bike,4,4,2,0,1.7,No,Yes,10,9360,Balanced
+18,Female,1,Engineering,Tier 1,Hostel,6500,0,Cab / Auto,0,4,3,0,6.1,No,No,9,7750,Overspender
+20,Female,3,Arts,Tier 2,With Family,2000,0,Public Transport,2,1,0,5,1.8,No,No,14,2990,Overspender
+21,Female,3,Commerce,Tier 3,With Family,9100,0,Own Bike,1,0,2,0,6.7,Yes,Yes,14,6270,Saver
+20,Male,2,Medical,Tier 1,PG / Rented,26800,0,Public Transport,3,1,5,4,1.5,Yes,No,16,19570,Saver
+18,Female,1,Science,Tier 2,With Family,6700,0,Own Bike,3,3,3,4,4.3,Yes,No,9,8610,Overspender
+22,Male,4,Arts,Tier 1,With Family,8000,7900,Public Transport,4,4,1,5,2.4,No,Yes,9,11700,Saver
+22,Female,4,Management,Tier 3,Hostel,3000,0,Walk / Cycle,4,3,1,3,0.7,No,No,15,4810,Overspender
+18,Female,1,Engineering,Tier 3,Hostel,5400,0,Cab / Auto,0,2,4,0,6.6,Yes,No,9,5340,Balanced
+19,Male,1,Management,Tier 1,Hostel,24200,0,Own Bike,2,2,0,0,1.4,No,No,7,13880,Saver
+19,Male,2,Engineering,Tier 2,Hostel,8500,0,Own Bike,1,2,3,0,2.0,Yes,No,10,5440,Saver
+22,Female,4,Arts,Tier 2,PG / Rented,7800,0,Public Transport,0,8,1,3,3.3,No,No,16,8800,Overspender
+23,Female,4,Medical,Tier 2,With Family,2500,0,Own Bike,3,3,2,2,1.0,Yes,No,14,4010,Overspender
+23,Male,4,Management,Tier 2,With Family,10400,7400,Walk / Cycle,3,5,3,0,1.6,Yes,No,12,10730,Saver
+24,Female,4,Management,Tier 2,Hostel,7800,0,Public Transport,3,2,1,0,2.3,No,No,14,8200,Overspender
+23,Female,4,Commerce,Tier 2,PG / Rented,4500,2400,Walk / Cycle,1,1,3,1,0.6,Yes,Yes,15,7490,Overspender
+20,Male,3,Management,Tier 1,Hostel,7100,0,Walk / Cycle,2,4,3,2,3.1,No,No,12,7620,Overspender
+18,Male,1,Arts,Tier 1,PG / Rented,7600,0,Walk / Cycle,2,4,1,5,0.9,No,No,11,8480,Overspender
+22,Male,4,Arts,Tier 3,Hostel,5700,4300,Own Bike,3,5,0,4,4.3,No,No,14,7520,Saver
+24,Female,4,Engineering,Tier 1,With Family,8300,4800,Walk / Cycle,6,4,4,2,5.6,Yes,No,15,13470,Balanced
+24,Male,4,Engineering,Tier 2,With Family,4500,2300,Own Bike,2,1,2,1,4.4,Yes,No,8,6290,Balanced
+19,Female,1,Arts,Tier 1,Hostel,15300,0,Cab / Auto,4,4,0,4,4.9,No,No,16,14770,Balanced
+19,Male,1,Engineering,Tier 3,With Family,4400,4000,Walk / Cycle,1,5,1,5,2.2,Yes,No,13,5130,Saver
+18,Female,1,Science,Tier 2,PG / Rented,16100,0,Own Bike,2,1,2,1,0.8,No,No,13,12060,Saver
+18,Male,1,Management,Tier 2,With Family,4800,0,Public Transport,4,5,1,2,5.4,No,No,12,7460,Overspender
+21,Male,4,Medical,Tier 1,PG / Rented,50000,5400,Cab / Auto,1,2,1,0,1.6,Yes,No,8,30330,Saver
+21,Female,3,Engineering,Tier 2,Hostel,6200,0,Public Transport,4,0,0,0,2.6,No,No,17,7640,Overspender
+20,Male,3,Medical,Tier 3,PG / Rented,5000,0,Public Transport,2,5,1,5,1.2,No,No,12,6790,Overspender
+20,Female,2,Engineering,Tier 2,Hostel,5000,0,Public Transport,6,2,2,1,1.1,No,No,5,7280,Overspender
+23,Female,4,Commerce,Tier 2,PG / Rented,9100,0,Cab / Auto,4,3,2,0,3.2,No,No,13,8830,Balanced
+21,Female,3,Management,Tier 2,Hostel,3700,0,Walk / Cycle,3,2,1,1,2.8,No,No,12,5550,Overspender
+23,Female,4,Engineering,Tier 1,With Family,8600,0,Own Bike,3,4,0,2,0.6,Yes,Yes,13,8700,Balanced
+24,Male,4,Engineering,Tier 2,With Family,2400,6000,Walk / Cycle,1,4,2,1,1.7,No,No,16,7450,Balanced
+20,Female,2,Engineering,Tier 1,Hostel,11600,0,Own Bike,6,6,2,4,8.3,No,No,12,13760,Overspender
+19,Female,2,Arts,Tier 1,PG / Rented,7300,0,Public Transport,8,4,3,3,3.9,No,No,10,14230,Overspender
+24,Male,4,Management,Tier 2,With Family,4700,0,Walk / Cycle,2,2,3,3,1.5,No,Yes,12,3960,Balanced
+22,Male,4,Engineering,Tier 3,Hostel,7900,0,Walk / Cycle,3,5,2,5,2.0,No,No,15,6160,Saver
+20,Female,3,Engineering,Tier 3,PG / Rented,21200,0,Public Transport,3,5,0,5,2.7,No,No,13,14380,Saver
+22,Male,4,Arts,Tier 3,With Family,2600,0,Own Bike,3,1,4,1,2.0,No,No,13,5270,Overspender
+21,Female,4,Engineering,Tier 2,PG / Rented,9300,6100,Own Bike,2,3,4,5,6.3,Yes,No,8,13630,Balanced
+24,Other,4,Science,Tier 1,With Family,5500,6100,Walk / Cycle,4,5,3,4,3.8,No,No,11,12020,Balanced
+19,Female,2,Medical,Tier 2,PG / Rented,6800,0,Public Transport,1,5,0,0,4.5,Yes,No,17,8570,Overspender
+24,Male,4,Science,Tier 3,PG / Rented,5400,3800,Walk / Cycle,4,4,1,1,4.8,No,No,20,8340,Balanced
+24,Male,4,Management,Tier 2,Hostel,11600,0,Own Bike,3,1,0,1,3.7,Yes,No,20,9150,Saver
+19,Male,1,Arts,Tier 2,Hostel,6400,9000,Own Bike,3,4,2,4,4.1,No,No,5,10720,Saver
+19,Male,2,Management,Tier 2,Hostel,22000,0,Cab / Auto,2,2,3,3,6.1,Yes,Yes,12,13020,Saver
+21,Female,3,Engineering,Tier 2,With Family,6800,0,Cab / Auto,3,6,3,4,4.2,No,No,13,8790,Overspender
+18,Female,1,Engineering,Tier 3,With Family,2700,0,Public Transport,6,7,1,0,1.0,No,Yes,17,5880,Overspender
+20,Male,2,Science,Tier 2,With Family,4700,0,Public Transport,4,6,3,3,7.6,No,No,9,7410,Overspender
+21,Male,4,Engineering,Tier 2,Hostel,5600,0,Cab / Auto,2,3,1,3,0.5,No,No,10,6820,Overspender
+24,Female,4,Management,Tier 1,PG / Rented,19400,0,Walk / Cycle,5,4,3,4,3.6,No,No,13,18180,Balanced
+24,Male,4,Science,Tier 2,With Family,2700,0,Walk / Cycle,0,4,1,2,2.9,Yes,No,10,4430,Overspender
+19,Female,2,Medical,Tier 1,With Family,4100,0,Public Transport,2,4,1,0,1.9,No,No,10,6080,Overspender
+24,Male,4,Engineering,Tier 3,Hostel,4600,3600,Own Bike,0,1,2,5,4.8,No,No,17,6320,Saver
+18,Female,1,Commerce,Tier 2,With Family,7600,0,Own Bike,2,0,1,2,2.4,No,No,13,3710,Saver
+23,Male,4,Science,Tier 2,Hostel,13900,0,Cab / Auto,3,7,2,5,3.8,No,Yes,7,12460,Balanced
+23,Female,4,Engineering,Tier 1,Hostel,20100,0,Public Transport,4,3,2,2,0.9,No,Yes,14,17190,Balanced
+24,Male,4,Arts,Tier 2,With Family,7100,0,Public Transport,3,5,4,1,5.4,Yes,No,7,6060,Balanced
+19,Female,2,Science,Tier 2,PG / Rented,9600,0,Public Transport,2,4,0,2,5.1,No,Yes,9,10510,Overspender
+24,Male,4,Medical,Tier 1,PG / Rented,19300,0,Own Bike,2,2,2,0,2.7,No,No,10,15350,Saver
+18,Male,1,Science,Tier 3,PG / Rented,4500,0,Walk / Cycle,3,3,2,3,1.3,Yes,No,15,5710,Overspender
+21,Female,3,Engineering,Tier 1,With Family,3300,0,Cab / Auto,2,0,0,5,5.6,No,No,7,5080,Overspender
+21,Male,4,Commerce,Tier 2,Hostel,9700,0,Public Transport,3,5,5,1,0.5,No,Yes,15,10670,Overspender
+20,Male,2,Arts,Tier 1,With Family,4800,6000,Own Bike,3,5,1,0,2.8,No,No,17,11680,Overspender
+18,Male,1,Engineering,Tier 2,Hostel,7800,0,Own Bike,6,3,4,0,2.1,Yes,No,13,8170,Balanced
+23,Male,4,Commerce,Tier 2,Hostel,8400,6300,Public Transport,4,2,1,1,3.6,No,No,12,11940,Balanced
+20,Male,3,Engineering,Tier 3,PG / Rented,8400,0,Own Bike,2,5,1,2,2.1,No,No,10,8980,Overspender
+22,Female,4,Engineering,Tier 1,PG / Rented,20600,0,Public Transport,4,3,1,1,4.9,Yes,Yes,6,17270,Balanced
+20,Male,3,Arts,Tier 3,Hostel,8700,0,Own Bike,5,5,1,4,1.0,No,Yes,15,9280,Overspender
+20,Female,3,Engineering,Tier 2,PG / Rented,10900,9600,Own Bike,2,3,0,2,5.6,No,No,15,12860,Saver
+24,Other,4,Arts,Tier 1,PG / Rented,11100,1500,Public Transport,3,3,1,2,2.4,No,Yes,8,12300,Balanced
+18,Male,1,Engineering,Tier 1,PG / Rented,14200,4900,Walk / Cycle,1,4,2,0,1.8,No,Yes,11,14910,Saver
+23,Female,4,Science,Tier 1,With Family,5800,0,Cab / Auto,3,1,4,3,3.5,Yes,No,7,7650,Overspender
+23,Female,4,Engineering,Tier 3,With Family,3800,0,Cab / Auto,1,2,2,1,4.7,No,No,18,5800,Overspender
+20,Female,3,Management,Tier 1,PG / Rented,43900,0,Own Bike,5,7,4,4,2.3,Yes,No,13,28830,Saver
+19,Male,1,Engineering,Tier 2,PG / Rented,10900,0,Cab / Auto,3,3,2,0,2.4,Yes,No,11,10490,Balanced
+18,Male,1,Arts,Tier 2,PG / Rented,12200,0,Public Transport,5,4,2,3,1.4,Yes,No,11,11950,Balanced
+24,Male,4,Commerce,Tier 3,PG / Rented,5500,0,Public Transport,1,1,2,4,0.5,No,Yes,8,4700,Balanced
+24,Female,4,Engineering,Tier 2,Hostel,12700,2300,Public Transport,3,1,1,4,1.7,No,No,13,8640,Saver
+19,Other,1,Commerce,Tier 2,Hostel,11300,0,Walk / Cycle,4,2,0,1,2.7,No,No,11,7290,Saver
+18,Female,1,Management,Tier 1,Hostel,15300,0,Public Transport,2,5,3,4,2.0,No,No,11,13520,Balanced
+18,Male,1,Medical,Tier 3,PG / Rented,8300,0,Own Bike,1,2,2,4,2.0,Yes,No,13,5330,Saver
+18,Female,1,Engineering,Tier 1,With Family,12000,6600,Walk / Cycle,1,1,4,3,1.0,Yes,No,13,10300,Saver
+23,Male,4,Engineering,Tier 1,PG / Rented,23900,3600,Public Transport,2,3,5,3,1.2,No,No,11,18950,Saver
+24,Female,4,Science,Tier 3,PG / Rented,8500,0,Own Bike,0,5,2,4,1.0,No,No,17,7930,Balanced
+19,Male,2,Arts,Tier 1,PG / Rented,12800,0,Own Bike,1,3,6,2,2.8,No,No,12,12230,Balanced
+23,Female,4,Engineering,Tier 1,With Family,11300,0,Cab / Auto,2,3,1,0,3.6,Yes,No,10,9150,Balanced
+19,Female,1,Science,Tier 2,PG / Rented,6700,0,Public Transport,7,4,2,5,2.9,No,No,14,10630,Overspender
+20,Male,2,Arts,Tier 1,PG / Rented,9800,0,Own Bike,4,3,3,1,3.7,No,No,11,13510,Overspender
+22,Male,4,Science,Tier 1,With Family,7400,9700,Walk / Cycle,2,2,2,2,1.1,No,No,19,12350,Saver
+23,Female,4,Commerce,Tier 2,Hostel,3700,0,Walk / Cycle,1,3,2,3,2.6,Yes,No,11,5390,Overspender
+24,Male,4,Commerce,Tier 2,PG / Rented,14500,8900,Own Bike,2,4,6,1,1.8,Yes,No,13,15990,Saver
+18,Female,1,Engineering,Tier 3,PG / Rented,4900,0,Public Transport,1,4,0,2,2.3,No,No,11,4680,Balanced
+19,Female,1,Science,Tier 1,With Family,6100,0,Own Bike,1,4,0,3,0.7,Yes,No,13,5520,Balanced
+19,Female,2,Engineering,Tier 2,With Family,5100,0,Public Transport,3,1,2,4,1.0,No,No,15,7920,Overspender
+20,Male,3,Science,Tier 3,With Family,4300,0,Walk / Cycle,2,1,1,0,2.7,No,No,8,3620,Balanced
+24,Male,4,Management,Tier 1,PG / Rented,11600,5800,Public Transport,6,1,2,4,1.4,No,No,7,16740,Balanced
+23,Male,4,Science,Tier 1,Hostel,10500,0,Walk / Cycle,4,5,1,1,1.5,Yes,Yes,10,11310,Overspender
+20,Female,2,Engineering,Tier 1,PG / Rented,13100,0,Public Transport,3,3,3,5,2.2,No,No,14,13700,Balanced
+24,Male,4,Engineering,Tier 2,With Family,4600,0,Walk / Cycle,2,2,2,5,3.6,Yes,No,8,5690,Overspender
+21,Male,4,Commerce,Tier 1,With Family,5300,0,Public Transport,4,3,0,4,4.6,No,No,19,5930,Overspender
+21,Male,4,Arts,Tier 2,With Family,9100,0,Own Bike,2,5,0,5,0.5,Yes,No,9,6020,Saver
+21,Female,4,Medical,Tier 3,Hostel,2300,5500,Walk / Cycle,0,6,1,0,1.7,Yes,Yes,8,5800,Saver
+19,Male,2,Commerce,Tier 1,With Family,6900,0,Own Bike,7,3,0,2,3.0,No,No,13,10720,Overspender
+24,Female,4,Management,Tier 2,With Family,4500,0,Public Transport,6,1,0,0,3.5,Yes,No,10,6370,Overspender
+18,Female,1,Engineering,Tier 1,With Family,9100,0,Public Transport,2,2,3,2,4.3,No,No,12,7950,Balanced
+19,Female,2,Commerce,Tier 1,With Family,3900,0,Public Transport,1,2,0,3,3.3,No,No,9,5050,Overspender
+19,Other,1,Engineering,Tier 2,PG / Rented,8000,0,Own Bike,3,2,1,3,1.5,No,Yes,16,9480,Overspender
+19,Female,1,Science,Tier 2,PG / Rented,9500,0,Own Bike,2,2,4,0,2.9,No,No,12,8930,Balanced
+18,Female,1,Engineering,Tier 3,Hostel,9700,4500,Walk / Cycle,4,3,2,0,2.7,Yes,No,13,8350,Saver
+18,Male,1,Engineering,Tier 2,Hostel,9300,0,Own Bike,1,2,1,5,0.9,No,No,18,7360,Saver
+22,Female,4,Science,Tier 1,With Family,4400,0,Walk / Cycle,4,2,2,1,1.4,Yes,No,6,5580,Overspender
+24,Female,4,Arts,Tier 2,With Family,4500,0,Public Transport,3,2,2,2,3.1,No,No,4,6340,Overspender
+18,Female,1,Engineering,Tier 1,With Family,11300,0,Public Transport,1,4,1,3,4.4,No,Yes,11,9550,Balanced
+20,Female,3,Engineering,Tier 3,Hostel,3500,0,Walk / Cycle,2,5,0,0,1.7,No,Yes,12,4450,Overspender
+21,Other,3,Arts,Tier 2,Hostel,7700,3700,Walk / Cycle,2,2,0,1,8.3,Yes,No,17,7880,Saver
+24,Female,4,Engineering,Tier 1,Hostel,10800,0,Walk / Cycle,3,0,1,3,0.2,No,No,13,8580,Saver
+22,Male,4,Engineering,Tier 2,With Family,4700,4500,Walk / Cycle,3,1,1,1,2.5,No,No,14,5290,Saver
+23,Male,4,Arts,Tier 2,With Family,18800,4400,Public Transport,0,1,0,4,2.7,No,No,16,10860,Saver
+22,Male,4,Engineering,Tier 3,With Family,3500,7900,Walk / Cycle,2,7,3,3,4.9,No,No,14,9050,Saver
+20,Male,3,Arts,Tier 1,Hostel,13200,0,Own Bike,6,6,3,5,1.5,Yes,No,9,13140,Balanced
+19,Male,2,Commerce,Tier 1,PG / Rented,9600,0,Cab / Auto,1,5,1,3,1.7,No,No,9,9870,Balanced
+24,Male,4,Engineering,Tier 1,With Family,9600,0,Public Transport,2,6,2,4,1.7,No,No,6,10600,Overspender
+23,Male,4,Engineering,Tier 1,Hostel,16000,0,Walk / Cycle,2,10,4,1,4.8,Yes,No,12,14140,Balanced
+18,Female,1,Engineering,Tier 2,With Family,4300,0,Public Transport,4,1,2,4,5.3,No,No,17,7060,Overspender
+23,Male,4,Engineering,Tier 1,PG / Rented,13200,0,Cab / Auto,2,5,3,5,1.9,No,No,11,14990,Overspender
+18,Female,1,Engineering,Tier 2,Hostel,5300,0,Public Transport,2,2,2,4,1.2,No,Yes,6,6810,Overspender
+23,Female,4,Medical,Tier 2,Hostel,4800,0,Walk / Cycle,4,8,0,4,1.3,Yes,No,8,6230,Overspender
+23,Male,4,Management,Tier 1,With Family,12100,3600,Cab / Auto,4,0,3,2,0.8,Yes,No,16,12350,Saver
+18,Male,1,Commerce,Tier 3,PG / Rented,5800,0,Public Transport,2,3,2,3,5.7,Yes,No,12,7090,Overspender
+21,Male,4,Arts,Tier 2,With Family,2000,0,Public Transport,0,4,0,3,2.5,No,No,8,3380,Overspender
+18,Other,1,Arts,Tier 1,With Family,16700,0,Cab / Auto,3,6,1,1,4.6,No,No,12,13730,Balanced
+21,Male,4,Management,Tier 2,PG / Rented,7000,1500,Cab / Auto,5,3,4,1,2.1,No,Yes,11,10250,Overspender
+24,Male,4,Engineering,Tier 1,With Family,6800,0,Public Transport,3,0,1,3,9.1,No,No,14,8050,Overspender
+18,Female,1,Engineering,Tier 3,With Family,8800,0,Public Transport,1,2,2,3,4.1,Yes,No,11,6460,Saver
+20,Other,2,Engineering,Tier 2,Hostel,7500,0,Public Transport,3,5,1,4,3.2,No,No,17,6690,Balanced
+24,Male,4,Engineering,Tier 2,With Family,5200,5700,Walk / Cycle,1,4,2,3,3.6,Yes,No,13,7920,Saver
+20,Male,2,Engineering,Tier 3,Hostel,3500,0,Public Transport,2,1,0,3,1.2,Yes,Yes,12,4220,Overspender
+18,Male,1,Management,Tier 3,Hostel,2900,0,Walk / Cycle,2,4,2,3,1.8,No,No,12,3390,Overspender
+21,Male,4,Medical,Tier 3,PG / Rented,7000,0,Own Bike,2,4,1,3,4.6,No,No,16,7210,Balanced
+21,Male,3,Engineering,Tier 1,With Family,8900,0,Own Bike,6,1,3,2,2.6,No,Yes,7,10340,Overspender
+22,Female,4,Commerce,Tier 1,Hostel,12400,0,Cab / Auto,2,3,2,0,3.8,Yes,No,16,9530,Saver
+20,Female,2,Commerce,Tier 2,PG / Rented,8100,0,Own Bike,1,2,4,4,2.0,No,Yes,22,11030,Overspender
+24,Female,4,Commerce,Tier 2,With Family,5700,0,Walk / Cycle,2,6,2,2,2.3,No,Yes,10,5650,Balanced
+21,Female,3,Arts,Tier 2,Hostel,3500,0,Walk / Cycle,1,3,1,4,5.4,No,No,15,4950,Overspender
+20,Male,2,Engineering,Tier 2,With Family,6900,0,Public Transport,1,2,4,5,2.9,No,Yes,15,7360,Overspender
+24,Female,4,Management,Tier 1,With Family,8100,0,Public Transport,3,2,0,2,3.0,No,No,14,6800,Balanced
+24,Female,4,Medical,Tier 1,Hostel,26300,9100,Walk / Cycle,1,3,4,0,2.4,Yes,No,14,20390,Saver
+21,Female,4,Science,Tier 2,Hostel,8000,3400,Own Bike,4,4,1,0,1.9,No,No,7,11130,Balanced
+18,Female,1,Science,Tier 1,With Family,4900,0,Public Transport,3,6,1,3,2.1,Yes,No,20,7110,Overspender
+22,Male,4,Arts,Tier 2,Hostel,7800,0,Walk / Cycle,3,1,0,5,2.6,No,No,11,7370,Balanced
+21,Male,3,Commerce,Tier 2,Hostel,6900,3600,Public Transport,2,3,2,5,5.6,No,No,9,9600,Balanced
+19,Male,1,Engineering,Tier 2,With Family,6800,0,Cab / Auto,3,1,2,5,2.6,No,No,12,8330,Overspender
+22,Male,4,Arts,Tier 2,With Family,5700,0,Own Bike,2,2,3,0,4.9,No,No,8,8110,Overspender
+23,Female,4,Engineering,Tier 2,With Family,3200,0,Walk / Cycle,1,2,3,0,1.3,No,No,13,3590,Overspender
+18,Male,1,Management,Tier 2,PG / Rented,4800,0,Public Transport,3,2,3,5,3.5,No,No,11,7600,Overspender
+23,Female,4,Commerce,Tier 1,With Family,8500,5700,Cab / Auto,3,1,0,4,0.5,Yes,No,10,10220,Saver
+18,Female,1,Commerce,Tier 2,With Family,10400,0,Walk / Cycle,4,2,2,5,1.4,Yes,No,13,7730,Saver
+23,Male,4,Commerce,Tier 2,With Family,5800,7300,Own Bike,4,1,4,5,1.5,Yes,No,13,12720,Balanced
+20,Male,2,Medical,Tier 1,With Family,10900,0,Own Bike,6,5,1,4,1.8,Yes,No,16,10790,Balanced
+18,Female,1,Engineering,Tier 2,With Family,8800,0,Own Bike,4,2,4,2,4.9,No,No,7,7900,Balanced
+24,Female,4,Engineering,Tier 3,PG / Rented,8500,0,Walk / Cycle,3,2,2,4,0.5,No,No,2,8030,Balanced
+19,Male,1,Engineering,Tier 1,PG / Rented,9400,0,Cab / Auto,8,4,2,3,5.4,No,No,12,16140,Overspender
+22,Male,4,Science,Tier 2,PG / Rented,10900,0,Public Transport,2,7,1,5,0.5,Yes,No,14,8860,Balanced
+19,Female,2,Medical,Tier 3,PG / Rented,12900,10000,Walk / Cycle,3,5,1,5,2.0,Yes,Yes,6,14810,Saver
+24,Male,4,Engineering,Tier 3,PG / Rented,9500,8000,Walk / Cycle,0,5,4,1,2.0,No,No,13,12420,Saver
+23,Female,4,Medical,Tier 2,PG / Rented,14000,0,Public Transport,6,0,1,5,6.5,Yes,No,11,11760,Balanced
+23,Male,4,Engineering,Tier 2,With Family,4500,0,Walk / Cycle,5,5,0,4,4.0,No,No,11,5750,Overspender
+21,Male,3,Science,Tier 3,PG / Rented,6800,0,Own Bike,0,2,1,4,7.9,No,Yes,14,8740,Overspender
+21,Male,4,Engineering,Tier 2,Hostel,7600,5200,Own Bike,3,2,5,2,8.7,No,No,8,13750,Overspender
+22,Male,4,Commerce,Tier 1,Hostel,10600,0,Walk / Cycle,2,2,3,2,4.9,Yes,No,12,8000,Saver
+23,Male,4,Science,Tier 1,Hostel,18300,8500,Own Bike,0,1,1,5,1.4,Yes,No,17,13670,Saver
+23,Male,4,Arts,Tier 3,With Family,2000,0,Cab / Auto,2,4,4,0,3.4,No,No,13,4850,Overspender
+18,Other,1,Engineering,Tier 2,PG / Rented,10100,7700,Walk / Cycle,2,3,0,3,2.7,No,No,19,13620,Saver
+22,Male,4,Management,Tier 1,Hostel,10400,0,Own Bike,4,1,4,5,1.7,No,No,14,11620,Overspender
+18,Male,1,Medical,Tier 1,With Family,4100,0,Cab / Auto,4,3,2,4,4.7,Yes,No,12,7790,Overspender
+20,Male,3,Commerce,Tier 2,Hostel,10800,7000,Own Bike,2,2,2,0,0.8,No,No,10,10960,Saver
+23,Male,4,Science,Tier 2,Hostel,5800,0,Public Transport,4,3,1,1,1.3,No,No,12,8480,Overspender
+19,Female,2,Management,Tier 3,With Family,3600,0,Cab / Auto,2,5,3,3,0.5,Yes,Yes,10,5950,Overspender
+23,Male,4,Engineering,Tier 2,PG / Rented,23000,0,Own Bike,0,3,2,1,1.1,No,No,7,14920,Saver
+21,Female,4,Management,Tier 3,With Family,6600,0,Public Transport,1,4,0,5,1.3,No,No,17,4350,Saver
+19,Male,2,Engineering,Tier 3,With Family,5400,0,Walk / Cycle,2,5,0,5,2.3,Yes,No,9,3620,Saver
+20,Other,3,Science,Tier 1,With Family,9000,0,Public Transport,1,3,1,5,5.0,Yes,No,9,6910,Saver
+21,Male,3,Engineering,Tier 2,Hostel,7400,0,Public Transport,0,3,2,2,1.7,No,No,17,6850,Balanced
+23,Female,4,Engineering,Tier 1,With Family,18600,0,Public Transport,4,4,1,1,5.1,No,Yes,15,15300,Balanced
+22,Male,4,Arts,Tier 3,With Family,6000,0,Walk / Cycle,0,4,2,3,8.6,No,No,11,3700,Saver
+24,Male,4,Arts,Tier 1,Hostel,7700,0,Own Bike,7,4,5,0,5.5,No,Yes,9,14510,Overspender
+24,Female,4,Management,Tier 2,With Family,3000,0,Own Bike,3,2,4,4,1.2,No,No,19,4910,Overspender
+23,Female,4,Medical,Tier 3,PG / Rented,9700,5500,Public Transport,0,0,2,5,1.5,Yes,No,7,9680,Saver
+22,Female,4,Engineering,Tier 1,With Family,7400,0,Walk / Cycle,4,2,1,1,5.1,Yes,Yes,11,6860,Balanced
+20,Male,2,Engineering,Tier 3,PG / Rented,3900,0,Walk / Cycle,1,2,2,1,1.5,No,No,15,5420,Overspender
+20,Female,3,Commerce,Tier 1,PG / Rented,16400,0,Walk / Cycle,2,1,2,1,2.7,No,No,15,12250,Saver
+18,Female,1,Commerce,Tier 2,Hostel,7100,0,Own Bike,4,0,5,4,3.5,No,No,14,8990,Overspender
+20,Female,3,Commerce,Tier 2,With Family,7100,2200,Walk / Cycle,3,4,3,1,4.2,Yes,No,10,6900,Saver
+24,Male,4,Management,Tier 1,PG / Rented,16500,5400,Cab / Auto,1,2,0,4,3.0,No,Yes,12,15870,Saver
+20,Female,2,Science,Tier 2,Hostel,6100,0,Public Transport,5,3,2,5,1.0,Yes,No,8,7320,Overspender
+18,Female,1,Engineering,Tier 3,Hostel,8000,0,Walk / Cycle,2,5,2,2,1.9,No,No,6,7970,Balanced
+22,Female,4,Commerce,Tier 1,With Family,6000,0,Own Bike,6,3,2,0,5.5,Yes,Yes,16,9980,Overspender
+24,Male,4,Arts,Tier 2,Hostel,6600,0,Public Transport,3,8,2,5,2.6,No,No,13,9780,Overspender
+24,Male,4,Commerce,Tier 3,PG / Rented,5900,0,Public Transport,1,5,3,2,7.4,No,No,9,9070,Overspender
+19,Female,1,Engineering,Tier 2,With Family,9300,0,Walk / Cycle,4,3,0,3,3.1,No,Yes,8,7910,Balanced
+21,Male,3,Commerce,Tier 1,Hostel,9500,0,Own Bike,5,4,1,5,1.3,Yes,No,12,11740,Overspender
+21,Female,4,Commerce,Tier 3,PG / Rented,13900,9500,Public Transport,1,5,1,5,3.8,Yes,No,11,14710,Saver
+19,Male,1,Engineering,Tier 1,Hostel,24100,0,Own Bike,5,3,0,5,5.7,No,No,5,16590,Saver
+19,Male,2,Science,Tier 2,With Family,4000,0,Own Bike,2,4,1,2,2.8,No,No,12,4570,Overspender
+19,Female,1,Commerce,Tier 2,With Family,2000,0,Own Bike,2,0,3,4,2.9,Yes,No,11,4090,Overspender
+24,Male,4,Arts,Tier 3,Hostel,9600,9200,Own Bike,3,2,2,2,3.4,Yes,No,12,12370,Saver
+23,Male,4,Arts,Tier 1,PG / Rented,11600,0,Own Bike,4,5,0,3,3.6,No,No,18,12920,Overspender
+23,Female,4,Management,Tier 1,PG / Rented,9100,0,Own Bike,3,2,1,2,1.6,No,No,7,9730,Overspender
+23,Female,4,Engineering,Tier 2,With Family,4300,0,Public Transport,4,4,2,5,0.5,Yes,No,7,6560,Overspender
+24,Female,4,Engineering,Tier 1,PG / Rented,11200,0,Own Bike,3,5,2,4,4.0,Yes,No,8,10680,Balanced
+18,Male,1,Engineering,Tier 2,PG / Rented,17900,0,Own Bike,2,4,1,5,2.6,No,No,8,13820,Saver
+24,Male,4,Commerce,Tier 2,With Family,6000,0,Walk / Cycle,3,6,3,1,3.4,No,No,9,7210,Overspender
+18,Female,1,Engineering,Tier 2,Hostel,14300,0,Own Bike,2,2,3,5,2.2,No,No,17,9980,Saver
+21,Male,3,Science,Tier 1,PG / Rented,16900,0,Public Transport,3,3,0,1,3.4,No,No,10,15430,Balanced
+22,Male,4,Engineering,Tier 1,Hostel,9400,0,Public Transport,3,2,2,3,1.2,No,No,10,9220,Balanced
+20,Male,2,Engineering,Tier 3,PG / Rented,6300,0,Walk / Cycle,1,3,1,1,1.9,No,No,13,4880,Saver
+19,Female,1,Commerce,Tier 2,PG / Rented,12900,0,Walk / Cycle,2,6,3,4,1.2,No,No,12,11480,Balanced
+19,Female,1,Science,Tier 1,With Family,10900,0,Walk / Cycle,4,5,1,4,2.0,Yes,No,13,7720,Saver
+23,Female,4,Management,Tier 1,PG / Rented,21100,4800,Walk / Cycle,5,4,3,4,0.8,No,No,10,21250,Balanced
+20,Female,2,Science,Tier 1,Hostel,9600,0,Walk / Cycle,0,4,1,1,4.2,Yes,No,11,7890,Balanced
+20,Male,2,Arts,Tier 3,With Family,4500,0,Walk / Cycle,0,2,4,4,6.3,No,No,14,7700,Overspender
+24,Male,4,Science,Tier 1,With Family,9800,0,Public Transport,5,4,0,0,0.9,No,No,10,9370,Balanced
+19,Male,1,Science,Tier 1,With Family,6400,0,Public Transport,3,5,3,4,2.6,No,No,13,7610,Overspender
+24,Male,4,Engineering,Tier 2,With Family,3400,7100,Cab / Auto,2,1,2,2,2.2,No,Yes,15,8790,Balanced
+24,Male,4,Arts,Tier 1,Hostel,7500,0,Own Bike,1,2,1,1,6.5,No,No,13,8760,Overspender
+22,Male,4,Science,Tier 1,PG / Rented,12100,7100,Walk / Cycle,2,1,0,5,2.7,No,No,8,14290,Saver
+19,Male,1,Engineering,Tier 3,Hostel,8100,0,Public Transport,3,3,3,4,5.3,No,No,14,9510,Overspender
+19,Female,1,Science,Tier 2,Hostel,14100,0,Public Transport,2,2,3,0,4.0,No,No,9,10670,Saver
+19,Female,1,Commerce,Tier 1,With Family,4100,0,Public Transport,4,2,1,2,3.1,Yes,No,9,6210,Overspender
+22,Male,4,Arts,Tier 2,With Family,4300,0,Public Transport,1,3,2,4,1.7,No,No,13,3650,Balanced
+19,Male,2,Engineering,Tier 1,Hostel,9200,0,Own Bike,2,4,3,1,3.2,Yes,No,12,7510,Balanced
+21,Female,3,Science,Tier 1,Hostel,15400,3200,Own Bike,1,4,6,2,1.2,No,Yes,8,13170,Saver
+18,Female,1,Management,Tier 2,With Family,4400,0,Public Transport,5,4,0,0,1.9,No,No,16,4760,Overspender
+21,Female,3,Engineering,Tier 2,Hostel,6600,0,Own Bike,2,4,0,0,0.5,Yes,No,10,4840,Saver
+18,Male,1,Commerce,Tier 2,Hostel,4200,0,Public Transport,3,4,0,1,5.9,No,No,11,7530,Overspender
+22,Female,4,Engineering,Tier 3,Hostel,7500,0,Own Bike,2,2,0,4,2.9,No,No,17,5760,Saver
+18,Male,1,Engineering,Tier 1,Hostel,10000,0,Cab / Auto,1,1,3,3,5.8,No,No,9,9940,Balanced
+19,Male,1,Medical,Tier 3,Hostel,4500,0,Public Transport,0,7,1,1,2.8,Yes,No,11,4070,Balanced
+19,Male,2,Commerce,Tier 2,With Family,5000,0,Own Bike,6,2,1,1,3.0,No,No,10,7090,Overspender
+23,Male,4,Commerce,Tier 1,Hostel,17900,0,Own Bike,1,6,2,4,3.9,Yes,No,13,12870,Saver
+18,Male,1,Engineering,Tier 3,PG / Rented,4800,0,Public Transport,0,3,0,3,2.5,No,No,9,3900,Balanced
+21,Male,4,Medical,Tier 1,With Family,5200,0,Walk / Cycle,5,9,3,5,2.2,No,No,9,10090,Overspender
+22,Female,4,Engineering,Tier 2,PG / Rented,17600,0,Own Bike,0,3,0,5,2.0,Yes,No,10,10730,Saver
+21,Male,4,Science,Tier 2,With Family,5800,0,Public Transport,0,4,2,3,1.2,Yes,No,17,3820,Saver
+22,Male,4,Engineering,Tier 1,With Family,10200,0,Walk / Cycle,3,2,4,0,2.0,Yes,No,13,8320,Balanced
+23,Male,4,Engineering,Tier 3,PG / Rented,9000,0,Own Bike,2,3,0,5,5.0,No,No,12,9020,Balanced
+20,Male,3,Science,Tier 1,PG / Rented,13300,0,Public Transport,3,4,1,0,1.9,Yes,No,13,11240,Balanced
+23,Male,4,Engineering,Tier 3,With Family,3600,0,Walk / Cycle,3,4,5,4,8.4,No,Yes,12,7530,Overspender
+20,Male,2,Science,Tier 1,With Family,11000,8700,Cab / Auto,5,3,1,1,0.5,No,No,8,15060,Saver
+24,Male,4,Engineering,Tier 1,With Family,12800,5300,Walk / Cycle,2,2,2,4,5.2,No,No,8,12020,Saver
+21,Female,4,Science,Tier 1,Hostel,17600,0,Public Transport,4,3,1,4,2.2,No,Yes,9,14920,Balanced
+23,Female,4,Science,Tier 3,With Family,2500,0,Own Bike,1,1,1,4,3.6,No,No,8,2310,Balanced
+24,Male,4,Science,Tier 1,With Family,13600,0,Walk / Cycle,7,3,2,1,1.3,Yes,No,17,11540,Balanced
+23,Female,4,Engineering,Tier 3,Hostel,5100,0,Own Bike,3,4,0,3,0.6,No,No,12,4800,Balanced
+23,Female,4,Science,Tier 1,With Family,5400,0,Own Bike,5,3,2,1,4.5,No,No,6,6820,Overspender
+21,Other,4,Medical,Tier 2,Hostel,7400,0,Public Transport,3,3,1,5,5.8,Yes,No,6,6710,Balanced
+18,Female,1,Engineering,Tier 1,Hostel,15700,0,Public Transport,6,3,2,0,2.6,Yes,No,11,12810,Balanced
+21,Female,3,Engineering,Tier 1,With Family,9600,4000,Cab / Auto,3,6,3,5,1.9,No,Yes,11,15950,Overspender
+19,Female,1,Management,Tier 3,Hostel,5300,0,Cab / Auto,6,1,2,0,2.5,Yes,No,11,7730,Overspender
+24,Female,4,Engineering,Tier 2,PG / Rented,14600,7600,Walk / Cycle,3,0,0,1,2.5,Yes,No,11,14080,Saver
+19,Male,1,Science,Tier 2,PG / Rented,10600,0,Public Transport,7,5,2,4,2.1,No,No,13,12150,Overspender
+19,Male,1,Science,Tier 2,With Family,4300,0,Public Transport,7,1,2,5,2.8,No,Yes,10,8340,Overspender
+19,Male,1,Engineering,Tier 2,PG / Rented,7300,0,Cab / Auto,1,3,1,4,3.7,No,No,12,10960,Overspender
+22,Male,4,Arts,Tier 2,With Family,6700,5200,Own Bike,3,1,2,2,3.5,No,Yes,15,8680,Saver
+21,Male,3,Arts,Tier 3,With Family,4000,0,Public Transport,4,2,3,1,1.6,Yes,No,12,4320,Overspender
+24,Male,4,Engineering,Tier 2,PG / Rented,5400,0,Cab / Auto,2,2,0,3,2.2,No,No,10,9180,Overspender
+20,Female,3,Management,Tier 2,With Family,8200,0,Public Transport,2,2,2,2,1.1,No,No,7,5810,Saver
+19,Female,1,Engineering,Tier 2,With Family,4500,0,Public Transport,2,1,5,1,3.4,No,Yes,11,6900,Overspender
+18,Female,1,Commerce,Tier 2,PG / Rented,20500,0,Own Bike,3,4,5,3,1.4,No,Yes,12,18060,Balanced
+18,Male,1,Management,Tier 2,With Family,3000,0,Public Transport,1,4,1,2,0.3,No,No,19,3030,Balanced
+20,Male,2,Engineering,Tier 2,PG / Rented,9200,0,Own Bike,2,2,0,5,1.7,No,No,19,9640,Balanced
+24,Female,4,Management,Tier 2,Hostel,5800,0,Public Transport,3,1,1,0,3.5,No,No,14,5110,Balanced
+21,Female,3,Engineering,Tier 2,Hostel,5200,0,Own Bike,4,3,1,4,3.7,Yes,No,13,7300,Overspender
+24,Other,4,Commerce,Tier 3,PG / Rented,6000,0,Cab / Auto,1,1,3,4,5.1,Yes,Yes,7,8990,Overspender
+18,Female,1,Engineering,Tier 3,Hostel,13300,0,Public Transport,3,1,2,4,9.3,No,No,9,10930,Balanced
+18,Female,1,Science,Tier 3,PG / Rented,8000,0,Public Transport,2,2,3,4,2.6,Yes,No,13,6850,Balanced
+23,Male,4,Management,Tier 2,PG / Rented,7000,0,Own Bike,1,2,4,5,2.2,Yes,No,9,8250,Overspender
+18,Male,1,Management,Tier 2,PG / Rented,4400,0,Walk / Cycle,2,6,2,1,2.8,Yes,No,22,7690,Overspender
+18,Male,1,Medical,Tier 1,Hostel,5000,0,Own Bike,2,8,1,2,1.9,No,No,14,6900,Overspender
+20,Female,3,Science,Tier 2,With Family,4400,10800,Public Transport,5,2,2,5,1.0,No,No,13,9920,Saver
+24,Female,4,Science,Tier 1,PG / Rented,10200,0,Walk / Cycle,3,3,4,0,0.9,Yes,Yes,8,12890,Overspender
+22,Male,4,Arts,Tier 1,Hostel,9800,1500,Own Bike,1,2,1,4,2.4,No,Yes,13,10660,Balanced
+18,Female,1,Medical,Tier 3,PG / Rented,2700,0,Public Transport,3,7,1,4,6.1,No,Yes,12,7390,Overspender
+23,Male,4,Science,Tier 3,PG / Rented,7200,0,Walk / Cycle,5,2,5,3,1.8,No,No,12,9550,Overspender
+23,Male,4,Management,Tier 2,PG / Rented,15900,0,Walk / Cycle,1,6,0,0,4.1,Yes,No,10,10380,Saver
+23,Male,4,Engineering,Tier 1,PG / Rented,28000,0,Own Bike,2,0,2,3,5.4,No,No,9,19550,Saver
+24,Male,4,Commerce,Tier 2,Hostel,3400,0,Cab / Auto,2,3,3,2,4.1,No,No,12,6130,Overspender
+19,Female,1,Science,Tier 2,With Family,3900,0,Public Transport,5,1,1,0,4.4,No,No,15,4810,Overspender
+24,Male,4,Engineering,Tier 3,PG / Rented,5100,0,Walk / Cycle,3,2,1,4,1.0,No,No,10,7480,Overspender
+20,Female,3,Engineering,Tier 3,Hostel,6400,0,Walk / Cycle,2,3,2,4,2.1,Yes,No,10,6070,Balanced
+23,Female,4,Medical,Tier 1,With Family,4400,0,Own Bike,4,3,2,3,0.7,No,No,14,6790,Overspender
+22,Male,4,Commerce,Tier 1,With Family,16100,5500,Public Transport,2,4,2,0,1.6,Yes,Yes,9,13180,Saver
+23,Male,4,Engineering,Tier 1,PG / Rented,13800,0,Public Transport,3,4,2,2,0.9,No,Yes,11,15230,Overspender
+22,Female,4,Commerce,Tier 1,PG / Rented,12800,10000,Public Transport,1,1,2,3,3.6,No,No,9,14720,Saver
+22,Male,4,Commerce,Tier 1,PG / Rented,27600,0,Public Transport,7,3,3,3,0.9,Yes,No,14,20920,Saver
+22,Female,4,Science,Tier 1,PG / Rented,13400,9300,Own Bike,2,2,0,3,0.9,No,No,16,15820,Saver
+23,Male,4,Medical,Tier 1,Hostel,12900,0,Public Transport,1,1,1,1,2.4,No,No,12,9350,Saver
+23,Female,4,Medical,Tier 1,Hostel,7700,12700,Walk / Cycle,1,3,4,4,0.5,No,Yes,17,13330,Saver
+18,Female,1,Science,Tier 1,With Family,4100,0,Public Transport,4,1,1,0,8.7,No,No,13,5590,Overspender
+23,Male,4,Science,Tier 2,With Family,4300,7800,Public Transport,2,5,1,5,2.1,No,Yes,18,9720,Balanced
+21,Male,3,Commerce,Tier 1,PG / Rented,36100,0,Public Transport,2,4,0,2,5.4,No,No,11,23300,Saver
+20,Female,3,Management,Tier 3,Hostel,8000,4800,Walk / Cycle,0,3,5,4,1.0,Yes,No,12,8910,Saver
+21,Male,4,Engineering,Tier 1,With Family,8600,0,Walk / Cycle,3,5,0,0,3.2,No,No,12,8390,Balanced
+24,Male,4,Engineering,Tier 1,Hostel,7000,0,Public Transport,3,4,2,4,3.6,No,No,14,7480,Overspender
+24,Male,4,Medical,Tier 1,Hostel,16300,4200,Public Transport,6,3,3,5,1.2,Yes,No,7,15420,Saver
+23,Male,4,Management,Tier 2,Hostel,4300,0,Own Bike,4,3,5,5,4.2,No,No,16,8030,Overspender
+21,Female,3,Engineering,Tier 1,With Family,3700,0,Public Transport,4,6,2,2,1.6,No,No,13,7280,Overspender
+23,Female,4,Science,Tier 2,PG / Rented,7800,0,Walk / Cycle,3,1,1,2,1.8,No,No,5,8800,Overspender
+20,Male,2,Commerce,Tier 1,Hostel,26000,0,Own Bike,3,3,4,5,1.2,No,No,15,18150,Saver
+22,Female,4,Commerce,Tier 3,Hostel,14100,7800,Public Transport,1,2,1,3,4.4,No,No,9,12170,Saver
+22,Male,4,Engineering,Tier 1,PG / Rented,11000,0,Walk / Cycle,4,2,3,5,3.1,No,No,16,13540,Overspender
+19,Male,1,Engineering,Tier 2,PG / Rented,7400,7500,Own Bike,2,1,0,1,3.0,No,No,16,10560,Saver
+19,Female,2,Arts,Tier 3,With Family,2000,0,Public Transport,0,4,2,2,2.9,No,No,10,2550,Overspender
+18,Other,1,Commerce,Tier 1,Hostel,11200,0,Cab / Auto,6,1,1,1,3.1,No,No,11,12640,Overspender
+18,Male,1,Arts,Tier 1,With Family,8100,0,Walk / Cycle,6,4,3,2,1.5,No,Yes,9,10350,Overspender
+21,Male,3,Engineering,Tier 3,With Family,6000,0,Own Bike,3,3,3,5,4.0,No,No,13,7900,Overspender
+21,Male,4,Medical,Tier 1,PG / Rented,20300,0,Own Bike,5,4,3,5,1.3,No,No,8,16430,Balanced
+19,Female,2,Science,Tier 1,Hostel,9900,9600,Walk / Cycle,3,2,2,3,3.0,Yes,Yes,12,14320,Saver
+20,Male,3,Management,Tier 2,With Family,7200,0,Public Transport,4,1,4,0,2.3,No,No,17,7950,Overspender
+22,Male,4,Engineering,Tier 1,Hostel,7900,0,Own Bike,2,1,2,2,1.7,Yes,No,10,8820,Overspender
+19,Female,2,Science,Tier 3,Hostel,7600,0,Public Transport,3,3,1,2,2.3,No,No,10,6710,Balanced
+20,Male,3,Management,Tier 2,Hostel,6400,7000,Public Transport,0,3,2,4,3.0,No,Yes,11,11070,Balanced
+20,Male,3,Commerce,Tier 2,With Family,6900,0,Cab / Auto,1,4,0,1,4.0,No,No,17,6960,Balanced
+21,Male,3,Engineering,Tier 1,PG / Rented,16000,0,Own Bike,9,1,2,3,2.7,No,No,17,16870,Overspender
+20,Male,2,Engineering,Tier 2,With Family,5800,0,Cab / Auto,4,4,2,4,4.7,Yes,No,13,7810,Overspender
+23,Male,4,Engineering,Tier 2,PG / Rented,14300,0,Own Bike,7,2,3,3,1.6,Yes,No,13,12060,Balanced
+20,Female,2,Commerce,Tier 1,PG / Rented,6700,0,Own Bike,4,1,2,5,2.1,No,No,13,9250,Overspender
+21,Female,3,Commerce,Tier 3,Hostel,3700,5200,Own Bike,4,3,0,1,3.6,No,No,6,7960,Balanced
+20,Female,3,Engineering,Tier 2,PG / Rented,8900,4700,Own Bike,2,0,2,3,1.0,No,No,14,11640,Balanced
+19,Other,2,Science,Tier 3,Hostel,3100,5800,Cab / Auto,3,4,5,2,4.3,No,No,12,8370,Balanced
+22,Male,4,Engineering,Tier 1,PG / Rented,11200,0,Own Bike,4,1,2,2,1.0,No,No,14,12560,Overspender
+19,Male,1,Commerce,Tier 1,Hostel,9100,0,Walk / Cycle,2,3,2,2,7.4,Yes,No,10,7340,Balanced
+20,Female,2,Science,Tier 2,PG / Rented,18000,0,Public Transport,4,5,2,3,1.6,No,No,9,13810,Saver
+23,Male,4,Engineering,Tier 3,PG / Rented,8000,8900,Walk / Cycle,2,2,1,3,7.0,Yes,No,12,10480,Saver
+24,Female,4,Engineering,Tier 1,Hostel,17200,0,Cab / Auto,0,5,5,3,4.1,Yes,Yes,15,14320,Balanced
+22,Female,4,Engineering,Tier 1,Hostel,12400,0,Own Bike,4,1,2,5,0.8,Yes,Yes,9,11210,Balanced
+24,Male,4,Engineering,Tier 3,With Family,3300,0,Public Transport,4,6,1,3,1.3,No,No,10,3910,Overspender
+23,Male,4,Commerce,Tier 1,Hostel,11500,0,Walk / Cycle,4,0,3,3,0.9,Yes,No,7,10660,Balanced
+21,Male,3,Engineering,Tier 1,Hostel,15000,0,Public Transport,0,3,0,5,2.1,No,Yes,14,10840,Saver
+23,Male,4,Engineering,Tier 2,Hostel,13700,0,Public Transport,3,5,3,1,4.7,No,No,15,11850,Balanced
+20,Male,3,Medical,Tier 1,PG / Rented,12700,0,Own Bike,3,2,0,1,6.4,No,No,11,12790,Balanced
+21,Male,3,Medical,Tier 1,With Family,3600,0,Own Bike,3,3,1,0,1.1,No,No,18,6690,Overspender
+21,Female,4,Engineering,Tier 1,Hostel,5000,0,Public Transport,1,3,3,1,1.0,Yes,No,11,6790,Overspender
+24,Female,4,Engineering,Tier 3,PG / Rented,6500,0,Public Transport,2,7,3,0,3.3,No,No,10,8250,Overspender
+23,Female,4,Commerce,Tier 1,PG / Rented,4700,0,Public Transport,5,1,6,1,0.8,Yes,Yes,12,10810,Overspender
+21,Male,3,Management,Tier 2,Hostel,17900,0,Public Transport,3,4,0,3,4.6,No,No,15,11750,Saver
+22,Male,4,Management,Tier 3,With Family,5500,0,Own Bike,1,2,3,4,3.9,Yes,Yes,9,6310,Overspender
+19,Male,2,Engineering,Tier 2,With Family,4200,0,Cab / Auto,5,2,4,3,2.7,No,No,10,7390,Overspender
+23,Male,4,Engineering,Tier 2,Hostel,4900,0,Own Bike,3,4,4,5,4.5,No,No,16,7220,Overspender
+21,Female,3,Commerce,Tier 2,Hostel,12700,0,Public Transport,4,1,3,5,4.4,No,No,18,11010,Balanced
+21,Male,4,Management,Tier 1,Hostel,6500,0,Walk / Cycle,3,3,4,1,1.3,No,No,12,8620,Overspender
+23,Male,4,Management,Tier 2,Hostel,5100,3900,Cab / Auto,2,1,4,1,1.0,Yes,No,9,7300,Balanced
+22,Female,4,Engineering,Tier 3,PG / Rented,5300,7200,Cab / Auto,1,1,1,2,2.5,Yes,No,17,9310,Saver
+18,Male,1,Arts,Tier 3,PG / Rented,7900,0,Walk / Cycle,1,6,7,5,4.6,No,No,15,9200,Overspender
+20,Male,2,Engineering,Tier 2,PG / Rented,13200,0,Own Bike,1,5,1,5,1.2,No,No,14,11080,Balanced
+19,Male,1,Science,Tier 1,Hostel,18500,0,Public Transport,1,1,0,1,1.0,Yes,No,8,11340,Saver
+23,Female,4,Medical,Tier 3,Hostel,9600,12600,Walk / Cycle,1,3,1,0,1.1,No,No,18,13890,Saver
+18,Female,1,Commerce,Tier 1,With Family,7600,0,Cab / Auto,0,2,5,4,1.9,Yes,No,12,7590,Balanced
+19,Male,1,Engineering,Tier 3,With Family,6600,0,Cab / Auto,2,0,1,5,0.2,Yes,No,14,6370,Balanced
+22,Female,4,Arts,Tier 1,Hostel,8000,3200,Cab / Auto,7,4,4,5,1.4,No,No,12,13760,Overspender
+22,Female,4,Commerce,Tier 2,With Family,2500,4100,Walk / Cycle,1,4,1,5,3.5,Yes,No,9,5760,Balanced
+21,Female,3,Management,Tier 3,PG / Rented,5500,0,Public Transport,3,1,1,1,4.6,No,No,14,5520,Balanced
+24,Male,4,Commerce,Tier 2,With Family,3900,0,Cab / Auto,1,4,5,4,8.8,Yes,Yes,11,8160,Overspender
+24,Male,4,Management,Tier 1,PG / Rented,10200,0,Own Bike,5,4,2,4,2.4,No,Yes,11,13960,Overspender
+18,Female,1,Engineering,Tier 3,With Family,2700,0,Public Transport,1,2,2,2,1.7,Yes,Yes,14,2520,Balanced
+24,Male,4,Engineering,Tier 1,Hostel,8800,0,Public Transport,7,3,0,0,7.6,Yes,No,9,10780,Overspender
+22,Female,4,Engineering,Tier 1,Hostel,14300,2500,Walk / Cycle,0,1,2,3,2.6,No,No,10,12130,Saver
+22,Female,4,Engineering,Tier 2,With Family,12100,5700,Own Bike,0,7,3,2,2.7,No,No,13,12580,Saver
+18,Male,1,Engineering,Tier 2,Hostel,3700,0,Own Bike,5,5,1,1,5.7,No,Yes,7,8190,Overspender
+22,Female,4,Science,Tier 2,Hostel,4500,4500,Walk / Cycle,3,1,1,0,0.6,No,Yes,13,7080,Saver
+23,Female,4,Engineering,Tier 1,With Family,5300,3000,Walk / Cycle,1,5,4,0,2.7,No,No,16,7030,Balanced
+22,Female,4,Engineering,Tier 2,With Family,7900,0,Public Transport,6,1,2,1,0.9,Yes,No,10,7680,Balanced
+18,Male,1,Engineering,Tier 3,With Family,3800,0,Public Transport,3,2,4,0,0.5,No,No,15,5050,Overspender
+21,Female,4,Engineering,Tier 1,With Family,5500,0,Public Transport,4,4,3,5,1.3,No,No,9,7490,Overspender
+24,Female,4,Management,Tier 2,With Family,7700,0,Walk / Cycle,3,1,1,0,6.7,No,No,12,7470,Balanced
+23,Female,4,Medical,Tier 2,Hostel,12300,0,Own Bike,2,0,0,2,0.7,Yes,Yes,15,9670,Saver
+18,Female,1,Engineering,Tier 3,PG / Rented,7400,3600,Walk / Cycle,1,4,4,5,1.9,No,No,14,11560,Overspender
+24,Female,4,Science,Tier 2,With Family,3900,6400,Own Bike,6,4,2,0,4.3,No,No,8,8490,Balanced
+24,Male,4,Science,Tier 3,With Family,4700,0,Public Transport,0,4,3,3,1.3,Yes,No,4,3420,Saver
+19,Male,1,Medical,Tier 1,Hostel,9700,0,Public Transport,1,4,4,1,8.7,No,No,12,9490,Balanced
+23,Male,4,Commerce,Tier 1,Hostel,9700,0,Public Transport,6,4,0,1,2.5,No,No,7,10930,Overspender
+20,Male,2,Engineering,Tier 3,With Family,3300,0,Own Bike,3,3,5,2,0.6,No,No,16,6240,Overspender
+22,Male,4,Commerce,Tier 3,Hostel,9100,0,Public Transport,2,4,1,3,1.3,No,No,16,6570,Saver
+21,Female,4,Management,Tier 2,Hostel,9000,0,Public Transport,3,4,3,4,0.6,No,No,8,7820,Balanced
+23,Male,4,Science,Tier 2,With Family,8900,0,Public Transport,4,5,2,3,1.4,No,Yes,10,10800,Overspender
+24,Female,4,Commerce,Tier 2,PG / Rented,18200,0,Public Transport,6,6,0,0,2.1,No,No,11,13410,Saver
+23,Female,4,Engineering,Tier 1,Hostel,13300,6100,Public Transport,5,2,3,1,4.4,Yes,Yes,14,14450,Saver
+24,Male,4,Science,Tier 3,Hostel,4800,5800,Public Transport,3,2,2,3,9.8,No,No,14,7360,Saver
+24,Female,4,Management,Tier 3,Hostel,9600,0,Public Transport,1,3,1,1,2.1,No,No,4,7250,Saver
+18,Female,1,Commerce,Tier 2,With Family,6900,0,Walk / Cycle,3,2,2,0,3.9,Yes,No,10,5570,Balanced
+19,Female,2,Science,Tier 1,PG / Rented,43600,8100,Own Bike,2,2,1,3,2.3,Yes,Yes,6,30140,Saver
+23,Male,4,Commerce,Tier 1,Hostel,12400,0,Walk / Cycle,0,4,0,1,1.2,Yes,No,18,7270,Saver
+22,Female,4,Commerce,Tier 1,PG / Rented,18500,0,Cab / Auto,5,3,3,5,1.5,Yes,Yes,19,17960,Balanced
+18,Female,1,Arts,Tier 2,Hostel,9100,0,Own Bike,4,4,3,5,6.3,No,No,17,10490,Overspender
+18,Female,1,Science,Tier 2,Hostel,7700,0,Walk / Cycle,4,4,3,0,1.8,Yes,Yes,9,9350,Overspender
+21,Female,4,Medical,Tier 1,Hostel,9600,0,Own Bike,3,1,2,4,7.1,No,No,11,11590,Overspender
+22,Other,4,Commerce,Tier 2,PG / Rented,11400,5400,Public Transport,2,3,1,5,2.7,No,No,10,12300,Saver
+19,Male,2,Commerce,Tier 3,Hostel,7600,0,Cab / Auto,1,1,1,3,2.9,No,No,8,7420,Balanced
+19,Female,1,Commerce,Tier 1,Hostel,18200,0,Cab / Auto,3,1,0,3,5.5,No,No,8,13600,Saver
+18,Male,1,Engineering,Tier 2,PG / Rented,11500,0,Own Bike,4,4,2,2,3.0,No,No,4,12400,Overspender
+21,Other,3,Engineering,Tier 2,PG / Rented,8100,0,Public Transport,1,2,1,2,0.2,No,No,10,7750,Balanced
+18,Male,1,Engineering,Tier 1,Hostel,9300,0,Cab / Auto,2,3,0,0,1.4,No,No,7,9420,Balanced
+22,Male,4,Commerce,Tier 2,Hostel,4400,0,Own Bike,4,2,0,0,2.8,Yes,Yes,13,6950,Overspender
+21,Female,3,Engineering,Tier 2,Hostel,16900,0,Own Bike,1,3,3,4,3.1,No,No,9,12540,Saver
+21,Male,3,Commerce,Tier 1,PG / Rented,10600,0,Walk / Cycle,1,3,0,3,3.0,No,No,20,9940,Balanced
+22,Female,4,Management,Tier 1,With Family,11700,0,Cab / Auto,9,5,1,1,2.4,No,Yes,19,16670,Overspender
+21,Male,3,Engineering,Tier 3,Hostel,6800,0,Own Bike,3,2,2,2,2.8,Yes,No,12,6490,Balanced
+23,Other,4,Arts,Tier 1,With Family,8700,0,Public Transport,3,5,3,3,5.9,No,No,13,9200,Overspender
+23,Female,4,Medical,Tier 2,With Family,5300,0,Cab / Auto,4,2,0,1,1.9,No,No,12,4920,Balanced
+24,Male,4,Arts,Tier 2,Hostel,5600,0,Own Bike,2,2,2,1,2.4,No,Yes,11,7420,Overspender
+23,Female,4,Engineering,Tier 3,Hostel,3900,9500,Cab / Auto,2,3,2,5,4.7,No,No,10,11040,Balanced
+21,Male,4,Commerce,Tier 2,Hostel,17400,4000,Walk / Cycle,7,1,3,2,4.9,No,No,12,13890,Saver
+21,Female,4,Arts,Tier 3,Hostel,6300,0,Public Transport,1,4,3,2,1.0,Yes,No,18,5540,Balanced
+19,Female,1,Arts,Tier 2,PG / Rented,16600,0,Own Bike,2,3,2,0,0.4,No,No,15,13340,Balanced
+22,Female,4,Engineering,Tier 2,Hostel,14900,8700,Walk / Cycle,7,5,3,0,4.2,Yes,No,10,15760,Saver
+18,Male,1,Commerce,Tier 1,With Family,6300,0,Own Bike,6,2,5,3,3.4,No,No,8,11190,Overspender
+24,Male,4,Arts,Tier 1,PG / Rented,16300,6300,Own Bike,3,3,2,1,2.6,No,Yes,12,19490,Balanced
+23,Female,4,Engineering,Tier 2,With Family,5700,0,Public Transport,1,2,2,1,4.5,Yes,Yes,13,4990,Balanced
+18,Female,1,Arts,Tier 1,With Family,4500,3800,Own Bike,6,5,1,1,2.2,Yes,No,8,9850,Overspender
+23,Male,4,Engineering,Tier 2,PG / Rented,9200,0,Walk / Cycle,2,3,1,4,3.3,No,Yes,11,8620,Balanced
+18,Male,1,Commerce,Tier 1,With Family,9800,1500,Own Bike,4,1,0,5,1.8,No,No,12,9780,Balanced
+23,Male,4,Management,Tier 1,With Family,6000,0,Own Bike,6,8,3,1,1.4,No,No,15,9510,Overspender
+18,Female,1,Engineering,Tier 1,PG / Rented,11700,7200,Public Transport,1,3,1,1,2.1,No,No,7,12630,Saver
+21,Male,3,Arts,Tier 2,Hostel,7400,0,Public Transport,0,5,4,4,0.7,No,No,15,6690,Balanced
+22,Male,4,Commerce,Tier 2,PG / Rented,25900,0,Public Transport,2,2,6,3,1.3,Yes,No,15,16240,Saver
+23,Female,4,Engineering,Tier 3,Hostel,2600,10700,Public Transport,0,4,2,4,2.5,Yes,No,17,8580,Saver
+20,Male,2,Medical,Tier 2,PG / Rented,12500,0,Own Bike,1,2,3,4,3.4,Yes,No,14,9200,Saver
+24,Female,4,Commerce,Tier 3,PG / Rented,6700,0,Public Transport,1,4,1,4,5.4,No,Yes,13,8520,Overspender
+23,Male,4,Engineering,Tier 3,PG / Rented,5600,0,Public Transport,2,5,2,0,2.4,No,No,16,6940,Overspender
+19,Female,1,Medical,Tier 1,With Family,6700,0,Public Transport,2,4,2,3,1.3,Yes,No,9,7180,Overspender
+22,Female,4,Science,Tier 3,Hostel,8100,0,Own Bike,4,6,1,2,0.9,No,No,16,7070,Balanced
+23,Female,4,Science,Tier 1,PG / Rented,18700,0,Own Bike,2,3,0,5,5.2,Yes,No,14,15200,Balanced
+20,Male,2,Engineering,Tier 2,Hostel,8700,0,Walk / Cycle,1,1,2,3,2.9,Yes,No,12,7720,Balanced
+23,Female,4,Engineering,Tier 3,With Family,6900,0,Public Transport,2,3,1,4,2.3,Yes,No,6,6180,Balanced
+24,Female,4,Science,Tier 1,PG / Rented,23900,5800,Walk / Cycle,4,5,2,5,2.9,No,No,10,21690,Saver
+23,Male,4,Engineering,Tier 2,Hostel,11600,0,Walk / Cycle,0,5,2,4,4.5,Yes,No,13,8580,Saver
+23,Male,4,Engineering,Tier 1,With Family,5900,2600,Public Transport,6,2,4,3,6.5,No,No,11,11210,Overspender
+22,Male,4,Science,Tier 1,Hostel,13500,0,Own Bike,2,3,3,3,0.8,Yes,No,14,8940,Saver
+19,Female,1,Engineering,Tier 1,With Family,9500,4100,Public Transport,2,2,2,0,2.2,No,Yes,19,9360,Saver
+23,Female,4,Engineering,Tier 1,PG / Rented,9400,6600,Walk / Cycle,4,3,2,4,4.2,No,No,10,14750,Balanced
+20,Female,3,Engineering,Tier 1,PG / Rented,6700,0,Own Bike,5,6,4,1,0.9,Yes,No,10,10330,Overspender
+21,Female,3,Commerce,Tier 2,With Family,2300,0,Own Bike,0,1,3,0,8.1,No,No,11,4920,Overspender
+20,Female,2,Arts,Tier 2,With Family,5800,3300,Public Transport,1,4,3,2,2.2,No,No,12,7840,Balanced
+20,Male,2,Management,Tier 2,With Family,6400,0,Walk / Cycle,1,3,0,2,8.8,Yes,No,13,6440,Balanced
+19,Male,2,Engineering,Tier 2,PG / Rented,5900,0,Own Bike,4,3,2,2,0.7,Yes,No,10,8730,Overspender
+24,Female,4,Engineering,Tier 1,With Family,12100,0,Walk / Cycle,2,0,0,1,5.1,No,No,12,6460,Saver
+19,Male,1,Arts,Tier 1,PG / Rented,14500,0,Own Bike,6,1,6,5,1.5,Yes,Yes,9,19140,Overspender
+18,Female,1,Commerce,Tier 2,With Family,10300,0,Own Bike,4,7,2,5,2.6,Yes,Yes,23,9970,Balanced
+24,Female,4,Commerce,Tier 3,With Family,5000,7400,Cab / Auto,5,4,2,0,3.9,No,No,12,11170,Balanced
+21,Male,4,Medical,Tier 2,Hostel,5000,0,Walk / Cycle,1,2,2,2,4.8,Yes,No,14,6310,Overspender
+21,Female,4,Arts,Tier 1,Hostel,13300,5500,Walk / Cycle,4,5,3,1,3.5,No,No,10,15780,Balanced
+23,Male,4,Commerce,Tier 3,Hostel,8100,0,Own Bike,1,4,3,5,2.5,No,Yes,9,9710,Overspender
+20,Other,2,Medical,Tier 3,Hostel,4700,0,Public Transport,2,2,1,2,2.9,No,No,13,5520,Overspender
+18,Female,1,Engineering,Tier 2,PG / Rented,5200,0,Public Transport,2,2,1,3,10.0,Yes,Yes,12,7680,Overspender
+23,Female,4,Medical,Tier 1,Hostel,11300,0,Public Transport,3,3,4,0,5.3,No,No,9,13420,Overspender
+19,Male,1,Arts,Tier 1,PG / Rented,8600,0,Walk / Cycle,2,3,3,4,1.2,No,Yes,13,12390,Overspender
+21,Male,3,Arts,Tier 2,Hostel,13200,0,Own Bike,3,2,1,2,2.8,No,Yes,11,10530,Saver
+24,Male,4,Medical,Tier 3,Hostel,5000,8800,Cab / Auto,2,3,1,5,3.6,No,No,16,10840,Saver
+24,Male,4,Arts,Tier 2,With Family,12200,9400,Own Bike,6,4,3,0,0.2,No,No,18,16690,Saver
+20,Male,2,Commerce,Tier 1,PG / Rented,5200,0,Public Transport,4,2,2,1,5.7,No,No,11,10490,Overspender
+23,Male,4,Engineering,Tier 2,PG / Rented,10600,0,Cab / Auto,1,4,3,5,1.3,No,No,12,10100,Balanced
+22,Other,4,Science,Tier 3,With Family,8000,0,Own Bike,1,4,1,1,1.6,No,No,11,7030,Balanced
+21,Male,4,Arts,Tier 2,With Family,3800,0,Walk / Cycle,6,3,3,1,1.0,Yes,Yes,10,6890,Overspender
+18,Male,1,Engineering,Tier 3,PG / Rented,7000,0,Own Bike,4,0,5,1,5.1,Yes,No,6,8840,Overspender
+20,Female,2,Science,Tier 1,Hostel,9000,0,Walk / Cycle,4,3,0,3,4.1,No,Yes,16,9530,Overspender
+22,Female,4,Science,Tier 1,Hostel,7900,7400,Public Transport,5,1,1,0,5.3,No,No,13,14070,Balanced
+24,Female,4,Commerce,Tier 2,With Family,6300,4600,Own Bike,3,3,1,3,6.9,No,No,10,10350,Balanced
+18,Female,1,Engineering,Tier 2,With Family,3100,9900,Walk / Cycle,3,3,0,4,3.1,No,No,8,10180,Saver
+23,Female,4,Commerce,Tier 3,With Family,4000,0,Walk / Cycle,3,0,2,1,1.8,No,No,9,2650,Saver
+23,Female,4,Engineering,Tier 2,With Family,7100,0,Own Bike,4,1,2,1,3.1,Yes,No,14,6440,Balanced
+24,Female,4,Engineering,Tier 1,Hostel,9800,0,Public Transport,3,1,1,2,1.6,No,No,16,9040,Balanced
+20,Female,3,Commerce,Tier 1,PG / Rented,8600,0,Public Transport,4,4,4,3,3.9,Yes,No,15,12900,Overspender
+18,Male,1,Engineering,Tier 2,With Family,8900,0,Public Transport,4,6,1,3,5.9,No,No,18,9630,Overspender
+19,Male,1,Engineering,Tier 1,With Family,10500,0,Own Bike,2,6,4,3,1.4,No,No,16,10040,Balanced
+23,Male,4,Science,Tier 2,Hostel,5000,4900,Cab / Auto,3,1,6,4,3.2,No,No,13,10860,Overspender
+24,Male,4,Engineering,Tier 1,PG / Rented,7500,0,Walk / Cycle,1,2,0,5,2.5,Yes,No,11,8140,Overspender
+22,Female,4,Medical,Tier 1,Hostel,7000,0,Own Bike,3,5,1,2,2.6,No,No,11,9490,Overspender
+18,Male,1,Medical,Tier 2,With Family,7200,12000,Walk / Cycle,4,2,2,4,5.0,No,No,12,14590,Saver
+18,Male,1,Arts,Tier 1,Hostel,12200,0,Public Transport,1,3,6,2,3.7,Yes,No,12,11480,Balanced
+21,Male,3,Medical,Tier 2,With Family,8000,0,Public Transport,1,2,1,0,2.2,No,Yes,10,7150,Balanced
+22,Female,4,Management,Tier 2,Hostel,6900,6700,Walk / Cycle,2,1,1,3,2.4,Yes,No,12,8110,Saver
+18,Male,1,Engineering,Tier 2,PG / Rented,6600,0,Walk / Cycle,2,1,1,5,2.9,Yes,No,12,6050,Balanced
+22,Female,4,Science,Tier 2,With Family,8500,0,Own Bike,1,5,2,2,2.7,No,No,10,6460,Saver
+21,Female,3,Engineering,Tier 2,Hostel,6200,0,Own Bike,2,4,5,3,2.9,No,No,18,8830,Overspender
+18,Male,1,Science,Tier 3,With Family,4600,0,Cab / Auto,2,1,0,4,4.5,No,No,10,4590,Balanced
+18,Female,1,Commerce,Tier 1,With Family,3800,0,Cab / Auto,4,1,2,4,1.0,No,Yes,5,8630,Overspender
+21,Male,4,Engineering,Tier 1,With Family,5900,0,Public Transport,7,2,2,0,3.7,Yes,Yes,11,9460,Overspender
+23,Male,4,Engineering,Tier 2,Hostel,12600,0,Walk / Cycle,4,2,4,0,4.0,No,Yes,17,11390,Balanced
+23,Female,4,Medical,Tier 2,With Family,4100,5800,Walk / Cycle,1,1,1,2,8.5,No,No,15,7400,Saver
+21,Female,4,Engineering,Tier 2,PG / Rented,14400,4100,Public Transport,2,3,1,0,2.5,No,No,12,12580,Saver
+20,Male,2,Engineering,Tier 2,PG / Rented,3500,0,Own Bike,3,8,0,5,3.7,No,No,10,6660,Overspender
+24,Female,4,Engineering,Tier 2,PG / Rented,7800,0,Public Transport,1,5,1,4,5.0,Yes,No,16,6980,Balanced
+21,Male,4,Commerce,Tier 1,PG / Rented,12500,0,Walk / Cycle,3,1,1,3,3.6,No,No,14,12390,Balanced
+20,Female,2,Management,Tier 2,Hostel,17500,8600,Public Transport,2,3,1,3,0.4,Yes,Yes,12,16850,Saver
+21,Female,4,Science,Tier 1,PG / Rented,8000,0,Cab / Auto,1,4,0,2,0.5,Yes,Yes,11,11130,Overspender
+18,Female,1,Commerce,Tier 2,Hostel,10800,0,Public Transport,2,2,3,0,2.3,No,No,14,8290,Saver
+20,Female,2,Engineering,Tier 2,Hostel,12900,0,Own Bike,5,4,1,4,2.7,No,No,11,12240,Balanced
+21,Male,4,Engineering,Tier 2,Hostel,5800,5600,Public Transport,3,1,4,2,3.4,Yes,No,14,7430,Saver
+24,Female,4,Commerce,Tier 1,Hostel,9100,11400,Public Transport,4,3,3,2,0.9,Yes,No,15,16090,Saver
+23,Female,4,Management,Tier 3,With Family,4500,0,Public Transport,4,3,2,2,4.1,No,No,9,5680,Overspender
+23,Female,4,Science,Tier 2,PG / Rented,5100,0,Own Bike,1,6,0,2,0.9,No,No,11,7720,Overspender
+21,Male,3,Commerce,Tier 2,Hostel,6500,6200,Own Bike,1,1,2,5,3.6,No,No,14,8180,Saver
+18,Male,1,Arts,Tier 3,With Family,7500,5700,Public Transport,1,4,2,1,1.2,No,No,12,9400,Saver
+20,Male,2,Commerce,Tier 2,With Family,7100,0,Public Transport,4,5,0,1,3.9,Yes,No,21,8180,Overspender
+24,Male,4,Arts,Tier 3,With Family,3900,0,Walk / Cycle,1,4,1,0,5.0,No,No,11,4250,Overspender
+18,Male,1,Arts,Tier 1,With Family,8000,0,Walk / Cycle,4,1,2,3,1.4,No,No,10,8110,Balanced
+24,Male,4,Science,Tier 1,With Family,9800,0,Walk / Cycle,2,4,1,0,3.5,No,Yes,13,8110,Balanced
+22,Female,4,Arts,Tier 1,PG / Rented,19100,7500,Walk / Cycle,4,3,1,4,3.0,Yes,No,12,17470,Saver
+19,Male,2,Medical,Tier 1,With Family,5900,0,Own Bike,4,0,3,4,1.4,No,No,16,8070,Overspender
+23,Female,4,Commerce,Tier 2,With Family,11200,0,Own Bike,3,5,4,4,0.9,Yes,No,15,8850,Saver
+23,Female,4,Engineering,Tier 1,Hostel,19500,0,Own Bike,2,4,2,2,4.1,Yes,No,14,13860,Saver
+18,Female,1,Engineering,Tier 2,With Family,7600,0,Own Bike,1,0,3,2,7.8,No,No,17,8020,Overspender
+18,Male,1,Arts,Tier 1,With Family,5200,0,Cab / Auto,7,1,2,5,2.2,Yes,No,14,8290,Overspender
+22,Male,4,Arts,Tier 1,With Family,4800,4300,Cab / Auto,3,1,3,4,0.4,Yes,No,9,8740,Balanced
+24,Female,4,Arts,Tier 3,With Family,3600,8100,Public Transport,2,1,1,1,0.2,Yes,No,13,6730,Saver
+18,Female,1,Science,Tier 2,PG / Rented,10300,0,Walk / Cycle,1,0,1,1,2.8,No,No,10,8550,Balanced
+22,Male,4,Engineering,Tier 3,PG / Rented,3400,10800,Walk / Cycle,0,3,4,1,0.7,No,Yes,11,11460,Balanced
+18,Female,1,Science,Tier 2,PG / Rented,12500,3600,Cab / Auto,4,2,2,2,0.5,No,No,13,13890,Balanced
+22,Female,4,Science,Tier 1,With Family,13500,0,Walk / Cycle,2,3,2,3,1.4,No,No,13,10400,Saver
+22,Female,4,Commerce,Tier 2,With Family,7300,0,Public Transport,2,1,3,1,4.1,Yes,Yes,9,7230,Balanced
+18,Male,1,Commerce,Tier 2,With Family,4100,0,Public Transport,0,1,3,0,3.8,No,No,8,5120,Overspender
+22,Male,4,Engineering,Tier 1,With Family,5300,0,Own Bike,5,4,2,2,4.2,No,Yes,12,10140,Overspender
+24,Male,4,Commerce,Tier 3,With Family,4800,7200,Public Transport,0,3,3,3,1.8,Yes,No,9,8190,Saver
+24,Female,4,Management,Tier 2,Hostel,7500,0,Own Bike,1,0,2,4,1.9,No,Yes,7,8390,Overspender
+18,Male,1,Medical,Tier 2,With Family,6800,0,Public Transport,2,1,2,0,5.2,No,No,10,5840,Balanced
+19,Male,2,Arts,Tier 2,Hostel,10500,6500,Own Bike,2,2,3,4,2.1,No,No,8,12970,Saver
+19,Female,1,Engineering,Tier 2,PG / Rented,16300,0,Walk / Cycle,1,5,1,0,0.9,No,No,18,10710,Saver
+21,Male,3,Science,Tier 1,Hostel,6500,0,Own Bike,2,1,3,1,1.4,No,No,5,5590,Balanced
+19,Male,2,Science,Tier 3,PG / Rented,8300,0,Public Transport,2,0,2,3,4.3,No,No,11,7640,Balanced
+23,Male,4,Commerce,Tier 2,PG / Rented,8500,0,Walk / Cycle,3,2,1,0,3.5,No,No,9,7710,Balanced
+23,Male,4,Management,Tier 1,Hostel,10300,0,Cab / Auto,3,3,3,3,2.3,Yes,No,5,11870,Overspender
+23,Male,4,Engineering,Tier 1,PG / Rented,19900,0,Cab / Auto,5,6,5,0,0.6,Yes,No,7,18200,Balanced
+19,Male,1,Engineering,Tier 2,With Family,8700,0,Own Bike,4,4,0,1,3.5,Yes,No,17,7990,Balanced
+18,Female,1,Engineering,Tier 3,Hostel,11300,0,Cab / Auto,0,2,4,3,2.0,No,Yes,6,9050,Balanced
+24,Female,4,Engineering,Tier 3,With Family,5100,0,Public Transport,2,2,2,1,0.8,No,No,10,4780,Balanced
+20,Male,2,Management,Tier 2,Hostel,7600,0,Walk / Cycle,2,5,0,2,4.2,Yes,No,11,5380,Saver
+22,Female,4,Commerce,Tier 3,Hostel,5400,0,Walk / Cycle,1,1,3,1,2.1,Yes,No,10,3720,Saver
+24,Male,4,Engineering,Tier 2,Hostel,3700,2000,Own Bike,4,4,3,3,2.7,No,No,15,8900,Overspender
+18,Female,1,Commerce,Tier 1,PG / Rented,24700,0,Own Bike,4,2,2,0,5.8,No,No,14,18900,Saver
+18,Male,1,Commerce,Tier 2,With Family,4800,0,Cab / Auto,1,6,1,0,3.3,No,No,7,6660,Overspender
+18,Female,1,Engineering,Tier 1,PG / Rented,17000,0,Own Bike,6,7,4,5,4.0,Yes,No,10,18450,Overspender
+19,Male,1,Engineering,Tier 1,With Family,10300,0,Own Bike,4,6,4,1,2.6,No,No,8,9830,Balanced
+18,Female,1,Science,Tier 2,PG / Rented,5700,0,Walk / Cycle,3,5,1,4,4.6,No,No,10,9170,Overspender
+23,Male,4,Engineering,Tier 1,With Family,5000,0,Walk / Cycle,2,4,1,0,1.0,No,No,25,4790,Balanced
+22,Female,4,Science,Tier 3,With Family,8400,0,Public Transport,1,4,1,0,0.6,No,No,12,5390,Saver
+24,Male,4,Engineering,Tier 3,PG / Rented,8500,7500,Own Bike,2,3,0,4,0.9,No,No,11,9790,Saver
+23,Female,4,Science,Tier 1,Hostel,8300,0,Walk / Cycle,4,5,2,2,1.9,No,Yes,9,9510,Overspender
+24,Male,4,Management,Tier 2,Hostel,7600,0,Cab / Auto,3,5,5,1,4.0,No,Yes,12,10000,Overspender
+19,Female,1,Engineering,Tier 2,PG / Rented,16300,0,Own Bike,3,1,2,1,1.7,No,No,11,12400,Saver
+20,Female,3,Engineering,Tier 1,PG / Rented,20600,7000,Public Transport,7,4,0,1,3.9,No,No,15,21440,Saver
+23,Other,4,Medical,Tier 1,Hostel,5600,0,Cab / Auto,4,0,2,1,2.9,Yes,No,5,7550,Overspender
+19,Male,2,Commerce,Tier 1,With Family,15800,0,Public Transport,4,2,0,4,8.6,No,Yes,11,11040,Saver
+18,Male,1,Science,Tier 1,With Family,11700,0,Own Bike,9,1,2,5,2.9,Yes,No,14,10200,Balanced
+22,Male,4,Engineering,Tier 1,Hostel,10100,0,Public Transport,7,2,1,0,1.6,No,No,14,11620,Overspender
+23,Male,4,Engineering,Tier 1,Hostel,6300,6800,Public Transport,2,6,2,0,3.7,No,Yes,8,12740,Balanced
+24,Female,4,Arts,Tier 1,Hostel,17400,0,Walk / Cycle,1,2,0,3,2.7,Yes,No,13,10680,Saver
+24,Other,4,Management,Tier 3,PG / Rented,9300,0,Public Transport,0,4,4,5,1.0,No,Yes,13,11130,Overspender
+18,Other,1,Engineering,Tier 1,With Family,3900,0,Own Bike,3,0,2,1,2.3,No,Yes,12,6610,Overspender
+23,Female,4,Science,Tier 1,PG / Rented,12200,0,Cab / Auto,5,4,2,5,2.3,Yes,No,9,13830,Overspender
+23,Female,4,Science,Tier 2,Hostel,32700,7600,Cab / Auto,2,4,1,0,2.4,No,No,5,22510,Saver
+22,Female,4,Engineering,Tier 1,PG / Rented,13600,0,Walk / Cycle,5,2,5,4,1.1,No,No,14,13380,Balanced
+23,Female,4,Engineering,Tier 2,Hostel,5700,0,Cab / Auto,3,1,2,5,7.8,Yes,Yes,13,7800,Overspender
+23,Male,4,Engineering,Tier 1,PG / Rented,8600,0,Walk / Cycle,4,3,0,2,0.7,No,No,8,11100,Overspender
+21,Female,4,Commerce,Tier 2,PG / Rented,22200,0,Walk / Cycle,2,4,2,3,5.8,No,Yes,15,16980,Saver
+18,Female,1,Science,Tier 2,PG / Rented,14600,0,Own Bike,3,1,1,1,2.5,No,No,10,11920,Balanced
+21,Male,3,Commerce,Tier 2,PG / Rented,18800,0,Cab / Auto,2,4,2,4,1.3,Yes,No,16,15360,Balanced
+19,Male,2,Engineering,Tier 2,With Family,6300,0,Cab / Auto,1,5,1,4,7.0,Yes,No,4,6600,Balanced
+18,Other,1,Science,Tier 2,Hostel,14100,0,Own Bike,0,3,3,4,0.2,Yes,No,14,9580,Saver
+18,Other,1,Arts,Tier 1,With Family,5200,0,Walk / Cycle,2,5,1,5,1.2,No,Yes,15,8370,Overspender
+22,Female,4,Arts,Tier 1,Hostel,11600,0,Walk / Cycle,4,5,2,0,2.2,Yes,No,14,9290,Balanced
+21,Female,3,Arts,Tier 2,Hostel,9100,6300,Walk / Cycle,0,3,1,3,1.4,No,No,16,10820,Saver
+21,Male,3,Engineering,Tier 1,With Family,14100,0,Public Transport,7,6,2,3,2.4,No,No,14,13190,Balanced
+23,Male,4,Science,Tier 1,With Family,8700,6600,Public Transport,8,0,5,0,3.8,No,Yes,12,15840,Balanced
+21,Female,4,Commerce,Tier 2,Hostel,6000,4000,Walk / Cycle,3,4,2,4,0.9,No,Yes,7,7800,Saver
+22,Female,4,Commerce,Tier 1,PG / Rented,13900,0,Public Transport,5,3,3,1,3.0,No,No,12,15230,Overspender
+18,Male,1,Engineering,Tier 1,With Family,3600,0,Public Transport,4,7,4,2,4.0,Yes,No,14,8590,Overspender
+23,Female,4,Arts,Tier 2,With Family,2000,0,Own Bike,2,1,4,0,1.0,Yes,No,12,3640,Overspender
+21,Male,4,Arts,Tier 1,PG / Rented,19600,0,Public Transport,1,4,0,4,2.9,No,No,11,14060,Saver
+19,Female,1,Commerce,Tier 3,Hostel,5100,0,Public Transport,3,2,1,1,2.2,No,No,16,5180,Balanced
+23,Male,4,Management,Tier 3,PG / Rented,6700,0,Own Bike,3,2,2,3,1.1,Yes,No,10,6820,Balanced
+23,Male,4,Management,Tier 3,Hostel,8700,8600,Own Bike,0,2,2,3,1.2,No,No,8,9690,Saver
+18,Male,1,Engineering,Tier 2,Hostel,15000,0,Public Transport,7,1,1,0,1.2,Yes,Yes,18,12330,Balanced
+19,Male,1,Science,Tier 1,PG / Rented,17200,0,Walk / Cycle,2,3,1,5,1.8,No,No,14,15030,Balanced
+18,Female,1,Commerce,Tier 2,With Family,13300,0,Cab / Auto,2,0,2,0,1.8,No,No,15,8530,Saver
+19,Male,2,Medical,Tier 2,Hostel,10000,0,Own Bike,3,3,4,3,6.0,Yes,Yes,16,10480,Balanced
+18,Male,1,Engineering,Tier 2,With Family,6400,0,Walk / Cycle,3,6,3,1,3.2,No,No,12,6720,Balanced
+22,Female,4,Engineering,Tier 1,With Family,8400,0,Public Transport,3,6,1,3,3.2,No,No,11,8650,Balanced
+21,Female,3,Commerce,Tier 1,With Family,4200,0,Public Transport,4,4,1,1,2.7,No,No,9,7080,Overspender
+24,Male,4,Engineering,Tier 1,Hostel,16600,0,Walk / Cycle,5,3,0,4,2.9,No,No,12,12970,Saver
+23,Male,4,Science,Tier 1,PG / Rented,4500,0,Walk / Cycle,5,5,0,3,3.4,Yes,No,15,9130,Overspender
+22,Male,4,Commerce,Tier 1,Hostel,8300,0,Cab / Auto,4,1,2,3,1.0,No,No,10,10260,Overspender
+21,Female,3,Engineering,Tier 3,Hostel,6100,0,Public Transport,1,5,3,5,2.3,No,No,9,5070,Balanced
+18,Male,1,Arts,Tier 1,Hostel,7600,0,Walk / Cycle,3,4,2,2,1.3,No,No,13,7030,Balanced
+18,Male,1,Management,Tier 2,Hostel,6500,0,Own Bike,5,1,2,4,4.7,No,No,11,6620,Balanced
+22,Male,4,Management,Tier 3,Hostel,13700,0,Public Transport,2,3,1,4,1.6,No,Yes,10,9300,Saver
+18,Female,1,Commerce,Tier 1,Hostel,17700,0,Own Bike,7,2,2,1,3.4,No,No,17,16370,Balanced
+18,Male,1,Engineering,Tier 2,With Family,4100,0,Public Transport,8,2,2,1,3.8,No,Yes,19,7890,Overspender
+19,Female,2,Engineering,Tier 2,With Family,4500,0,Walk / Cycle,3,3,0,4,3.0,No,No,10,4730,Overspender
+24,Male,4,Management,Tier 1,Hostel,6100,0,Walk / Cycle,2,4,2,5,2.8,Yes,No,13,6660,Overspender
+21,Female,4,Science,Tier 2,With Family,7700,0,Cab / Auto,0,4,4,0,2.5,No,No,10,5980,Saver
+22,Male,4,Arts,Tier 3,Hostel,5400,0,Own Bike,2,3,1,0,4.0,Yes,No,8,7070,Overspender
+20,Male,2,Management,Tier 2,PG / Rented,4100,0,Own Bike,0,8,3,1,1.3,Yes,No,11,5880,Overspender
+19,Male,1,Engineering,Tier 3,With Family,4400,0,Walk / Cycle,1,3,2,3,3.2,No,No,19,2870,Saver
+20,Female,2,Science,Tier 3,PG / Rented,9100,0,Own Bike,3,3,1,2,0.5,No,Yes,12,8490,Balanced
+18,Female,1,Engineering,Tier 1,Hostel,16700,0,Public Transport,3,3,2,3,1.6,No,No,9,12920,Saver
+23,Male,4,Engineering,Tier 2,PG / Rented,9700,11300,Own Bike,2,4,4,1,1.7,No,No,15,14700,Saver
+19,Male,2,Commerce,Tier 2,PG / Rented,8500,0,Public Transport,2,1,0,2,0.8,Yes,No,8,7370,Balanced
+20,Female,2,Commerce,Tier 2,PG / Rented,24400,0,Own Bike,2,3,2,4,2.8,No,Yes,7,17060,Saver
+24,Female,4,Medical,Tier 2,PG / Rented,10000,0,Walk / Cycle,4,4,2,2,1.4,No,Yes,13,11200,Overspender
+22,Male,4,Commerce,Tier 2,PG / Rented,13800,0,Walk / Cycle,5,0,2,2,5.4,Yes,No,17,10700,Saver
+21,Male,4,Management,Tier 3,Hostel,4700,0,Own Bike,2,2,2,0,2.1,No,No,8,5730,Overspender
+21,Female,3,Science,Tier 1,PG / Rented,18400,0,Walk / Cycle,3,2,0,2,3.8,Yes,No,14,13950,Saver
+23,Female,4,Science,Tier 2,Hostel,4200,7400,Walk / Cycle,3,3,5,4,4.8,No,Yes,14,12930,Overspender
+19,Female,1,Medical,Tier 1,With Family,6100,6700,Cab / Auto,2,3,1,0,3.5,No,No,11,11150,Balanced
+22,Female,4,Commerce,Tier 2,With Family,3300,0,Public Transport,3,5,1,2,1.9,No,No,17,4120,Overspender
+24,Male,4,Commerce,Tier 2,PG / Rented,7600,8000,Public Transport,0,3,2,1,2.5,No,Yes,12,10740,Saver
+22,Male,4,Engineering,Tier 3,With Family,7400,0,Own Bike,2,3,6,2,0.8,No,No,10,7450,Balanced
+21,Male,3,Engineering,Tier 2,Hostel,6100,0,Own Bike,4,4,5,4,3.8,No,No,16,8040,Overspender
+19,Male,2,Management,Tier 2,Hostel,11100,0,Walk / Cycle,3,2,0,5,8.8,No,No,13,7990,Saver
+19,Male,1,Commerce,Tier 1,PG / Rented,26700,6800,Public Transport,5,0,4,2,4.5,No,Yes,7,23430,Saver
+24,Male,4,Commerce,Tier 1,PG / Rented,13300,2900,Public Transport,2,1,2,3,1.8,Yes,Yes,5,13880,Balanced
+21,Male,3,Engineering,Tier 1,With Family,11800,0,Public Transport,2,4,3,4,2.0,No,No,9,10280,Balanced
+20,Female,2,Commerce,Tier 3,With Family,5300,0,Own Bike,2,2,3,5,4.7,No,No,15,6810,Overspender
+20,Male,3,Science,Tier 1,PG / Rented,14200,6800,Cab / Auto,2,2,1,3,0.9,No,No,19,16460,Saver
+22,Male,4,Engineering,Tier 3,PG / Rented,10500,0,Walk / Cycle,3,3,2,0,1.5,No,No,15,8070,Saver
+21,Female,3,Science,Tier 1,PG / Rented,30900,4900,Walk / Cycle,3,8,1,2,1.6,Yes,No,12,22520,Saver
+22,Female,4,Science,Tier 2,Hostel,6000,7900,Own Bike,2,1,0,1,0.5,Yes,No,13,9770,Saver
+19,Female,1,Management,Tier 2,Hostel,5200,0,Public Transport,1,1,1,4,3.3,Yes,Yes,13,6010,Overspender
+22,Female,4,Engineering,Tier 2,With Family,3500,0,Own Bike,2,2,2,1,1.8,No,No,17,5980,Overspender
+21,Female,3,Science,Tier 2,With Family,8800,0,Walk / Cycle,3,3,2,0,1.9,No,No,8,7850,Balanced
+24,Male,4,Engineering,Tier 2,With Family,9300,0,Walk / Cycle,1,5,1,5,2.7,Yes,No,17,6400,Saver
+19,Male,1,Commerce,Tier 3,Hostel,4700,0,Own Bike,2,4,4,0,0.7,Yes,No,8,6300,Overspender
+19,Female,1,Science,Tier 2,Hostel,3100,5500,Cab / Auto,4,2,1,4,2.3,Yes,No,18,7890,Balanced
+21,Male,4,Science,Tier 1,PG / Rented,10000,0,Walk / Cycle,3,9,5,5,0.6,No,Yes,14,16250,Overspender
+21,Male,4,Engineering,Tier 1,With Family,9700,10600,Own Bike,7,1,1,5,3.3,No,No,13,16900,Balanced
+22,Male,4,Management,Tier 2,Hostel,7800,0,Public Transport,2,8,2,2,5.1,Yes,No,19,9120,Overspender
+20,Male,2,Engineering,Tier 2,Hostel,8700,0,Walk / Cycle,2,4,1,3,3.8,No,No,10,8340,Balanced
+24,Male,4,Arts,Tier 2,Hostel,6300,0,Public Transport,2,4,1,4,1.6,Yes,Yes,12,7310,Overspender
+21,Male,3,Medical,Tier 2,With Family,8800,7100,Public Transport,3,4,5,1,3.5,No,No,7,12820,Balanced
+18,Female,1,Arts,Tier 1,With Family,8800,0,Own Bike,2,4,1,2,2.1,No,Yes,18,8080,Balanced
+18,Female,1,Management,Tier 2,With Family,7300,0,Public Transport,3,5,1,2,2.6,Yes,No,12,7790,Overspender
+24,Male,4,Arts,Tier 2,Hostel,8600,0,Public Transport,5,4,2,1,3.4,No,No,12,9430,Overspender
+18,Female,1,Management,Tier 2,With Family,7100,0,Walk / Cycle,5,2,3,3,0.2,No,No,15,7410,Balanced
+24,Male,4,Science,Tier 2,PG / Rented,12300,0,Own Bike,2,4,4,2,0.5,Yes,No,7,9960,Balanced
+19,Female,2,Science,Tier 3,Hostel,4000,0,Cab / Auto,1,3,1,0,2.2,Yes,Yes,11,4150,Balanced
+18,Female,1,Engineering,Tier 2,Hostel,9500,0,Public Transport,2,4,3,0,1.3,Yes,No,14,9330,Balanced
+20,Male,2,Science,Tier 3,PG / Rented,10700,0,Public Transport,2,4,0,3,2.4,Yes,No,13,8330,Saver
+22,Female,4,Engineering,Tier 1,Hostel,18200,0,Cab / Auto,5,5,3,3,2.7,Yes,No,11,15360,Balanced
+20,Other,3,Medical,Tier 2,With Family,6800,0,Walk / Cycle,3,2,1,5,1.6,No,Yes,12,7260,Overspender
+23,Female,4,Engineering,Tier 2,PG / Rented,6500,0,Own Bike,4,4,1,0,1.9,Yes,No,9,7780,Overspender
+22,Other,4,Engineering,Tier 2,PG / Rented,6900,0,Public Transport,2,2,1,1,1.1,No,No,13,6140,Balanced
+20,Female,2,Management,Tier 1,With Family,6200,0,Cab / Auto,7,8,2,2,2.9,No,No,12,11570,Overspender
+22,Male,4,Engineering,Tier 2,With Family,6100,0,Public Transport,2,2,2,4,4.1,No,No,10,4480,Saver
+24,Female,4,Commerce,Tier 1,Hostel,10200,0,Public Transport,1,3,0,2,0.7,No,No,11,8100,Saver
+20,Female,3,Science,Tier 3,PG / Rented,4500,0,Public Transport,3,2,1,2,4.0,No,No,12,7590,Overspender
+19,Female,1,Engineering,Tier 1,Hostel,6500,0,Walk / Cycle,8,4,0,5,3.2,No,No,5,10280,Overspender
+20,Male,2,Engineering,Tier 1,PG / Rented,5300,0,Walk / Cycle,1,4,0,0,3.8,Yes,No,25,7460,Overspender
+23,Female,4,Commerce,Tier 2,With Family,2000,0,Cab / Auto,6,2,3,5,5.2,No,No,8,6370,Overspender
+19,Male,2,Engineering,Tier 1,PG / Rented,12700,0,Walk / Cycle,2,1,4,1,1.6,Yes,No,11,11290,Balanced
+24,Female,4,Engineering,Tier 1,PG / Rented,38400,8700,Walk / Cycle,5,2,2,0,4.7,Yes,Yes,6,28690,Saver
+22,Male,4,Engineering,Tier 2,Hostel,18000,6600,Public Transport,3,4,2,3,5.2,Yes,No,17,16250,Saver
+22,Female,4,Commerce,Tier 2,PG / Rented,6400,0,Public Transport,1,4,0,1,0.8,No,Yes,14,8730,Overspender
+20,Female,3,Engineering,Tier 1,Hostel,11600,0,Public Transport,0,3,4,4,2.7,Yes,No,11,9110,Saver
+24,Male,4,Engineering,Tier 2,With Family,2900,0,Walk / Cycle,3,3,1,4,2.6,No,No,10,5040,Overspender
+18,Male,1,Science,Tier 2,PG / Rented,5500,0,Own Bike,5,1,3,2,5.4,No,No,7,10380,Overspender
+20,Male,2,Science,Tier 2,With Family,3300,0,Own Bike,5,3,2,4,10.0,No,No,10,7170,Overspender
+20,Female,3,Engineering,Tier 1,PG / Rented,12200,0,Walk / Cycle,5,6,1,1,3.8,No,No,16,15030,Overspender
+21,Female,3,Engineering,Tier 1,With Family,7000,0,Own Bike,4,2,2,2,7.9,No,No,10,8470,Overspender
+21,Male,4,Management,Tier 3,Hostel,6700,2900,Public Transport,2,3,3,0,1.4,Yes,No,17,5890,Saver
+19,Male,1,Arts,Tier 2,Hostel,10800,0,Public Transport,3,5,5,3,3.6,No,No,14,9570,Balanced
+19,Male,2,Commerce,Tier 1,Hostel,9300,8100,Cab / Auto,2,2,2,4,2.4,Yes,No,18,13100,Saver
+18,Male,1,Commerce,Tier 3,Hostel,6100,0,Cab / Auto,2,7,1,4,3.4,Yes,No,12,6450,Overspender
+22,Female,4,Engineering,Tier 1,With Family,4600,0,Public Transport,3,5,3,2,3.9,No,No,10,7790,Overspender
+20,Female,3,Management,Tier 3,With Family,2300,0,Public Transport,1,5,1,5,4.3,Yes,Yes,11,3590,Overspender
+21,Male,3,Medical,Tier 2,PG / Rented,5100,0,Public Transport,1,3,2,3,1.9,No,No,9,7360,Overspender
+22,Female,4,Medical,Tier 3,PG / Rented,10000,6100,Public Transport,1,5,1,3,2.2,No,No,14,12180,Saver
+22,Male,4,Engineering,Tier 3,PG / Rented,6400,0,Own Bike,0,5,4,1,4.1,No,No,10,8950,Overspender
+21,Female,4,Engineering,Tier 1,PG / Rented,5800,8000,Walk / Cycle,2,1,3,5,3.1,Yes,No,12,10500,Saver
+22,Male,4,Engineering,Tier 2,With Family,5400,2800,Cab / Auto,3,3,2,4,1.5,Yes,Yes,7,8960,Overspender
+22,Female,4,Engineering,Tier 1,PG / Rented,7700,7400,Own Bike,9,0,2,5,2.3,Yes,No,9,15490,Balanced
+22,Female,4,Commerce,Tier 2,With Family,11800,0,Walk / Cycle,1,2,0,2,4.9,No,Yes,12,6380,Saver
+22,Male,4,Science,Tier 2,Hostel,6200,0,Own Bike,1,2,1,3,1.2,No,No,5,6380,Balanced
+20,Female,3,Engineering,Tier 1,With Family,10300,0,Own Bike,3,3,2,0,2.4,No,Yes,15,12100,Overspender
+19,Other,1,Medical,Tier 1,Hostel,17600,2100,Public Transport,4,2,2,3,0.9,Yes,Yes,8,14230,Saver
+23,Male,4,Engineering,Tier 1,PG / Rented,8800,0,Public Transport,5,0,2,3,5.2,No,No,16,11590,Overspender
+20,Male,3,Engineering,Tier 1,With Family,7800,0,Own Bike,4,3,3,4,10.0,Yes,No,12,6970,Balanced
+21,Female,4,Management,Tier 1,Hostel,13900,0,Cab / Auto,5,2,1,4,6.1,No,No,8,13390,Balanced
+19,Male,1,Science,Tier 3,Hostel,6300,0,Public Transport,2,4,2,5,1.7,No,No,21,6320,Balanced
+21,Male,4,Commerce,Tier 2,PG / Rented,11800,0,Own Bike,6,3,0,5,1.7,No,No,16,13830,Overspender
+21,Male,4,Arts,Tier 3,PG / Rented,4100,0,Own Bike,2,2,1,1,5.0,No,No,13,5240,Overspender
+22,Female,4,Engineering,Tier 3,With Family,5400,0,Cab / Auto,2,5,1,5,4.6,Yes,Yes,13,7390,Overspender
+21,Male,3,Engineering,Tier 2,With Family,4500,0,Walk / Cycle,2,3,1,0,6.6,No,Yes,12,5680,Overspender
+20,Male,2,Commerce,Tier 1,PG / Rented,15800,0,Public Transport,6,6,2,2,2.5,No,No,17,18940,Overspender
+24,Female,4,Commerce,Tier 3,With Family,6400,0,Own Bike,1,2,2,5,1.0,Yes,No,9,5410,Balanced
+21,Female,4,Arts,Tier 2,PG / Rented,13500,3300,Walk / Cycle,3,1,2,3,2.6,Yes,No,7,11750,Saver
+23,Female,4,Engineering,Tier 2,With Family,6600,1500,Public Transport,2,7,3,5,2.3,No,Yes,8,9180,Overspender
+23,Male,4,Science,Tier 3,Hostel,8000,0,Public Transport,4,7,3,3,9.3,No,Yes,15,10360,Overspender
+21,Female,4,Science,Tier 2,PG / Rented,13600,7400,Public Transport,0,2,2,4,3.9,No,Yes,19,15180,Saver
+24,Female,4,Engineering,Tier 2,Hostel,15700,0,Own Bike,2,2,1,3,0.5,Yes,No,14,10570,Saver
+18,Male,1,Engineering,Tier 3,Hostel,5900,0,Walk / Cycle,2,1,1,5,4.0,No,No,10,4040,Saver
+24,Female,4,Commerce,Tier 2,With Family,6000,8200,Own Bike,3,3,4,0,5.2,No,Yes,11,11330,Saver
+23,Male,4,Science,Tier 3,Hostel,9100,6500,Public Transport,1,1,4,2,4.7,No,No,11,11500,Saver
+21,Male,4,Science,Tier 1,PG / Rented,10800,0,Own Bike,5,0,4,4,4.5,Yes,No,5,11730,Overspender
+23,Male,4,Science,Tier 1,With Family,4100,0,Public Transport,2,0,2,2,3.0,Yes,Yes,19,5710,Overspender
+21,Female,4,Commerce,Tier 2,Hostel,10000,0,Walk / Cycle,1,1,0,5,2.2,No,No,12,5250,Saver
+19,Male,1,Engineering,Tier 1,PG / Rented,12300,0,Cab / Auto,5,4,6,3,1.0,No,No,11,16810,Overspender
+23,Male,4,Arts,Tier 3,With Family,2400,0,Own Bike,4,5,0,0,6.9,No,No,12,5170,Overspender
+19,Male,2,Engineering,Tier 1,With Family,9500,0,Public Transport,3,7,0,3,3.7,Yes,Yes,13,10170,Overspender
+20,Male,2,Science,Tier 2,Hostel,15200,0,Public Transport,1,2,6,1,1.7,No,No,14,13010,Balanced
+21,Male,3,Engineering,Tier 1,With Family,3600,0,Public Transport,4,3,3,2,2.8,No,No,10,6050,Overspender
+23,Female,4,Engineering,Tier 3,With Family,6700,12000,Cab / Auto,2,3,3,0,1.0,No,No,5,10730,Saver
+20,Male,3,Arts,Tier 1,With Family,2400,0,Public Transport,3,4,2,5,2.8,No,No,8,6800,Overspender
+21,Male,4,Commerce,Tier 1,PG / Rented,11300,0,Cab / Auto,2,2,2,2,5.7,No,No,11,13130,Overspender
+18,Female,1,Arts,Tier 1,With Family,17300,4000,Public Transport,2,2,2,4,4.0,Yes,No,10,13190,Saver
+18,Male,1,Commerce,Tier 2,With Family,4800,0,Own Bike,3,4,0,2,5.1,Yes,No,10,6750,Overspender
+18,Female,1,Medical,Tier 3,Hostel,6200,0,Public Transport,0,4,4,5,4.8,No,No,13,4610,Saver
+18,Male,1,Management,Tier 3,With Family,5900,0,Walk / Cycle,1,4,2,2,3.5,No,No,8,6710,Overspender
+24,Male,4,Management,Tier 1,With Family,3500,0,Cab / Auto,3,3,3,0,2.3,No,No,11,6450,Overspender
+23,Male,4,Science,Tier 2,PG / Rented,10300,6800,Walk / Cycle,1,3,3,2,2.0,No,No,8,12800,Saver
+23,Male,4,Science,Tier 1,With Family,7800,3300,Cab / Auto,2,2,2,0,6.6,Yes,No,8,8690,Saver
+18,Male,1,Arts,Tier 2,PG / Rented,23100,0,Walk / Cycle,0,4,4,4,3.8,No,No,12,15490,Saver
+18,Female,1,Commerce,Tier 2,With Family,3200,0,Public Transport,1,2,2,5,3.6,Yes,No,14,2530,Saver
+19,Male,2,Commerce,Tier 1,With Family,6400,0,Cab / Auto,0,2,1,1,3.7,No,No,13,5040,Saver
+21,Female,3,Arts,Tier 2,Hostel,5300,0,Own Bike,3,3,3,0,2.1,No,Yes,7,8830,Overspender
+20,Female,3,Engineering,Tier 3,Hostel,3800,0,Walk / Cycle,2,0,2,4,3.4,No,Yes,15,5500,Overspender
+21,Male,4,Engineering,Tier 1,Hostel,17900,0,Public Transport,2,3,4,4,1.6,No,Yes,12,15700,Balanced
+19,Male,2,Management,Tier 1,With Family,7700,0,Walk / Cycle,7,5,2,4,1.8,No,No,15,10390,Overspender
+23,Male,4,Engineering,Tier 1,PG / Rented,10500,0,Own Bike,2,2,1,3,4.1,No,Yes,9,13020,Overspender
+20,Male,3,Arts,Tier 1,With Family,6000,0,Walk / Cycle,2,5,3,3,3.7,No,Yes,13,7280,Overspender
+18,Male,1,Arts,Tier 1,PG / Rented,10500,0,Public Transport,2,3,1,1,4.2,No,No,10,11320,Overspender
+23,Female,4,Engineering,Tier 2,Hostel,6500,0,Walk / Cycle,0,3,5,1,4.6,Yes,No,16,5910,Balanced
+24,Female,4,Management,Tier 1,With Family,4300,0,Own Bike,5,3,0,3,2.1,No,No,17,6880,Overspender
+18,Male,1,Engineering,Tier 2,PG / Rented,8900,0,Cab / Auto,5,3,5,5,2.6,Yes,No,10,11640,Overspender
+21,Female,4,Management,Tier 3,PG / Rented,6400,0,Own Bike,2,5,2,1,4.0,No,No,8,8300,Overspender
+23,Female,4,Science,Tier 3,Hostel,4300,0,Public Transport,3,4,3,2,1.4,Yes,No,12,5900,Overspender
+22,Male,4,Engineering,Tier 2,Hostel,8600,0,Walk / Cycle,2,4,3,3,0.2,No,No,9,9220,Overspender
+23,Female,4,Engineering,Tier 1,Hostel,12000,0,Walk / Cycle,2,4,4,0,0.7,No,No,11,10550,Balanced
+20,Female,3,Engineering,Tier 1,PG / Rented,10500,0,Own Bike,5,3,3,3,1.8,No,No,14,12790,Overspender
+20,Female,3,Commerce,Tier 1,PG / Rented,12700,0,Walk / Cycle,2,3,1,0,2.2,No,Yes,18,13800,Overspender
+22,Other,4,Engineering,Tier 3,Hostel,15800,0,Own Bike,4,3,2,4,3.3,Yes,No,9,9600,Saver
+19,Male,1,Medical,Tier 3,Hostel,15600,0,Public Transport,1,0,3,5,5.3,No,No,19,11330,Saver
+19,Male,2,Engineering,Tier 1,Hostel,6700,7800,Cab / Auto,5,1,1,5,2.3,Yes,No,11,11550,Saver
+22,Female,4,Management,Tier 1,PG / Rented,8900,6900,Public Transport,2,3,2,0,1.7,No,Yes,9,13950,Balanced
+22,Male,4,Engineering,Tier 2,With Family,3500,0,Public Transport,7,5,1,3,1.0,No,Yes,8,7940,Overspender
+18,Male,1,Medical,Tier 1,PG / Rented,21700,0,Cab / Auto,3,6,1,2,1.5,Yes,No,10,15210,Saver
+21,Other,4,Engineering,Tier 3,Hostel,5000,4700,Cab / Auto,2,6,2,2,1.5,Yes,Yes,11,7860,Balanced
+20,Male,2,Commerce,Tier 1,PG / Rented,15000,0,Public Transport,1,4,3,4,2.9,No,No,9,11920,Saver
+21,Male,4,Arts,Tier 1,With Family,18600,0,Own Bike,7,1,2,5,1.5,No,No,6,15430,Balanced
+24,Female,4,Engineering,Tier 2,With Family,5600,0,Own Bike,4,1,0,3,2.1,No,No,12,5930,Overspender
+18,Male,1,Management,Tier 1,With Family,10400,0,Public Transport,5,2,0,3,1.9,Yes,No,12,8720,Balanced
+24,Male,4,Engineering,Tier 1,With Family,9600,0,Walk / Cycle,4,7,4,3,2.7,No,Yes,9,11610,Overspender
+21,Other,3,Arts,Tier 3,PG / Rented,5800,0,Own Bike,2,5,2,3,3.9,No,No,13,7640,Overspender
+23,Male,4,Arts,Tier 1,With Family,12200,0,Own Bike,7,2,4,2,3.4,No,Yes,11,14110,Overspender
+20,Male,3,Arts,Tier 2,Hostel,5500,0,Walk / Cycle,2,1,3,4,1.3,No,No,13,6840,Overspender
+20,Male,2,Engineering,Tier 2,With Family,10200,6600,Walk / Cycle,4,2,5,3,1.8,Yes,No,9,9670,Saver
+23,Female,4,Engineering,Tier 1,With Family,5800,0,Own Bike,2,3,2,3,4.4,No,No,11,6000,Balanced
+22,Male,4,Engineering,Tier 1,With Family,6100,7300,Walk / Cycle,2,2,3,0,5.0,Yes,No,7,10510,Saver
+19,Male,2,Engineering,Tier 1,PG / Rented,8300,4500,Own Bike,5,3,2,1,0.9,No,No,11,14360,Overspender
+22,Male,4,Engineering,Tier 1,With Family,5000,1900,Own Bike,3,1,4,1,0.8,Yes,Yes,16,6290,Balanced
+23,Male,4,Medical,Tier 1,Hostel,8900,3700,Public Transport,6,4,1,3,6.8,Yes,No,13,12210,Balanced
+20,Female,2,Arts,Tier 3,PG / Rented,2500,0,Public Transport,1,4,4,0,1.0,Yes,No,7,3190,Overspender
+24,Male,4,Science,Tier 2,PG / Rented,9000,0,Public Transport,1,3,2,2,1.4,Yes,Yes,10,9340,Balanced
+22,Other,4,Commerce,Tier 3,PG / Rented,6000,0,Public Transport,1,4,0,2,2.1,No,No,5,6710,Overspender
+20,Male,3,Engineering,Tier 2,With Family,8000,0,Own Bike,1,2,2,4,1.4,No,No,5,8290,Balanced
+18,Male,1,Arts,Tier 2,Hostel,9700,0,Own Bike,2,3,3,0,1.5,No,No,10,8620,Balanced
+22,Female,4,Engineering,Tier 2,Hostel,5800,4100,Own Bike,7,0,1,3,1.5,No,Yes,10,9840,Balanced
+19,Male,2,Commerce,Tier 1,Hostel,8800,0,Walk / Cycle,0,2,3,3,2.9,No,Yes,13,8030,Balanced
+23,Male,4,Commerce,Tier 1,With Family,6800,0,Own Bike,2,0,1,4,0.6,No,No,12,5680,Balanced
+21,Female,3,Arts,Tier 2,With Family,10900,0,Public Transport,3,5,0,1,4.4,No,No,13,8630,Saver
+21,Male,4,Medical,Tier 3,With Family,2900,0,Own Bike,1,2,1,3,0.8,No,Yes,8,2260,Saver
+19,Female,2,Engineering,Tier 2,Hostel,5800,0,Walk / Cycle,1,1,2,2,6.3,No,No,10,5910,Balanced
+22,Other,4,Commerce,Tier 1,With Family,4500,0,Public Transport,2,4,1,1,1.8,No,No,17,4900,Overspender
+19,Male,1,Engineering,Tier 3,With Family,2200,0,Public Transport,2,3,3,0,1.7,Yes,No,17,2750,Overspender
+20,Male,2,Commerce,Tier 1,Hostel,12400,0,Public Transport,0,2,2,2,0.5,Yes,No,7,9830,Saver
+23,Male,4,Science,Tier 3,Hostel,6600,1500,Cab / Auto,0,2,3,2,0.5,Yes,No,12,7300,Balanced
+24,Male,4,Engineering,Tier 3,PG / Rented,13400,0,Walk / Cycle,0,0,1,0,2.5,No,No,8,8990,Saver
+24,Male,4,Arts,Tier 3,PG / Rented,12000,0,Walk / Cycle,2,2,2,4,0.5,No,No,14,9740,Balanced
+24,Female,4,Commerce,Tier 3,Hostel,17600,0,Own Bike,0,3,3,4,1.4,Yes,No,17,11080,Saver
+21,Male,4,Engineering,Tier 1,Hostel,10400,0,Public Transport,5,5,2,1,3.7,No,No,12,11440,Overspender
+19,Female,2,Medical,Tier 2,Hostel,7100,2400,Public Transport,3,6,2,0,2.8,No,No,13,7790,Balanced
+23,Male,4,Commerce,Tier 2,Hostel,4500,0,Public Transport,3,3,2,4,2.0,No,No,12,4880,Overspender
+23,Male,4,Management,Tier 2,Hostel,10900,7200,Walk / Cycle,2,1,1,0,2.6,Yes,No,13,10730,Saver
+24,Male,4,Commerce,Tier 1,With Family,8000,5000,Own Bike,3,2,0,2,3.8,Yes,Yes,12,8860,Saver
+22,Female,4,Medical,Tier 1,PG / Rented,18100,0,Public Transport,2,4,0,1,1.8,No,No,11,14520,Balanced
+18,Male,1,Engineering,Tier 1,PG / Rented,8100,0,Walk / Cycle,1,3,1,1,4.3,Yes,Yes,11,8900,Overspender
+21,Male,4,Commerce,Tier 2,With Family,6600,0,Public Transport,1,3,0,4,2.5,No,No,15,4970,Saver
+21,Female,3,Science,Tier 2,PG / Rented,11000,6500,Cab / Auto,1,2,3,1,4.9,No,No,13,12980,Saver
+23,Female,4,Commerce,Tier 3,Hostel,6400,6700,Cab / Auto,4,8,3,1,2.6,No,No,12,11530,Balanced
+20,Male,2,Commerce,Tier 2,Hostel,5900,0,Walk / Cycle,3,2,1,1,0.8,No,Yes,6,7080,Overspender
+20,Female,3,Medical,Tier 2,Hostel,13700,0,Own Bike,1,5,2,0,1.4,Yes,No,15,8870,Saver
+18,Male,1,Arts,Tier 1,PG / Rented,34000,2200,Walk / Cycle,3,1,4,4,2.4,Yes,No,20,21820,Saver
+23,Male,4,Science,Tier 2,PG / Rented,6100,0,Walk / Cycle,2,3,2,2,10.0,No,No,15,7850,Overspender
+23,Male,4,Science,Tier 1,PG / Rented,18700,7700,Own Bike,8,6,2,1,1.3,No,No,12,23060,Balanced
+18,Male,1,Management,Tier 1,PG / Rented,3700,0,Cab / Auto,2,3,1,1,8.8,Yes,No,13,8140,Overspender
+21,Male,4,Management,Tier 1,With Family,10200,7000,Walk / Cycle,4,5,3,5,4.6,No,No,17,14030,Balanced
+21,Female,3,Arts,Tier 1,Hostel,4700,0,Own Bike,5,2,3,3,4.7,No,No,7,10080,Overspender
+21,Male,4,Engineering,Tier 1,PG / Rented,10700,0,Own Bike,2,1,2,4,3.8,No,No,9,11440,Overspender
+24,Female,4,Engineering,Tier 2,PG / Rented,5500,0,Own Bike,1,0,4,5,8.3,No,No,10,7070,Overspender
+19,Female,2,Arts,Tier 1,With Family,6900,0,Own Bike,3,1,1,2,1.5,Yes,No,12,7560,Overspender
+20,Female,2,Management,Tier 1,With Family,11000,0,Public Transport,7,2,6,2,4.5,No,No,7,14610,Overspender
+19,Female,1,Commerce,Tier 1,With Family,3300,0,Cab / Auto,1,3,1,5,0.9,Yes,No,15,3490,Overspender
+19,Female,1,Engineering,Tier 2,Hostel,6800,0,Walk / Cycle,2,3,3,3,1.5,No,No,16,7180,Overspender
+24,Other,4,Engineering,Tier 2,PG / Rented,7900,0,Public Transport,1,1,0,1,4.0,No,Yes,8,8930,Overspender
+24,Male,4,Arts,Tier 1,With Family,15400,0,Public Transport,4,2,1,5,4.8,No,No,14,11770,Saver
+18,Male,1,Management,Tier 1,PG / Rented,16400,4500,Own Bike,2,3,3,4,3.3,No,No,11,18140,Balanced
+22,Male,4,Engineering,Tier 3,With Family,2500,4700,Walk / Cycle,0,4,0,2,0.4,No,No,8,5360,Saver
+19,Female,2,Arts,Tier 2,PG / Rented,8100,0,Public Transport,3,6,1,1,1.3,Yes,No,13,8700,Overspender
+19,Male,2,Science,Tier 2,PG / Rented,20100,0,Own Bike,8,6,2,3,0.8,No,No,11,19750,Balanced
+20,Female,2,Medical,Tier 2,PG / Rented,13800,8700,Public Transport,5,2,2,3,2.3,No,No,7,17050,Saver
+19,Male,2,Engineering,Tier 3,PG / Rented,5000,0,Walk / Cycle,1,1,1,1,0.8,Yes,No,16,4880,Balanced
+21,Female,4,Medical,Tier 3,With Family,3700,0,Public Transport,5,3,2,0,1.5,No,No,15,4790,Overspender
+24,Male,4,Arts,Tier 1,Hostel,9700,3100,Own Bike,5,4,3,4,1.5,No,Yes,12,14610,Overspender
+22,Male,4,Science,Tier 2,PG / Rented,7800,0,Public Transport,2,5,3,5,5.5,No,No,9,8530,Overspender
+23,Male,4,Engineering,Tier 1,PG / Rented,6300,0,Public Transport,3,4,3,5,1.6,Yes,No,7,8100,Overspender
+21,Male,4,Arts,Tier 2,With Family,4100,5000,Public Transport,6,7,2,2,8.7,No,No,17,9130,Balanced
+18,Male,1,Science,Tier 1,PG / Rented,25200,0,Cab / Auto,2,4,0,4,1.8,Yes,No,15,17080,Saver
+18,Male,1,Engineering,Tier 1,With Family,6400,0,Own Bike,6,1,1,3,3.6,No,No,9,9410,Overspender
+19,Male,2,Commerce,Tier 3,With Family,4000,0,Walk / Cycle,2,3,0,1,3.0,Yes,No,10,3610,Balanced
+19,Male,2,Arts,Tier 3,Hostel,6400,0,Cab / Auto,3,1,2,5,2.7,No,No,12,7360,Overspender
+23,Male,4,Arts,Tier 1,With Family,20500,6100,Own Bike,3,3,2,2,4.5,No,No,13,18670,Saver
+23,Male,4,Engineering,Tier 3,With Family,4200,2000,Own Bike,0,2,6,0,2.4,No,No,16,7380,Overspender
+23,Male,4,Commerce,Tier 1,Hostel,17700,0,Public Transport,3,0,1,0,1.5,No,No,13,11200,Saver
+22,Male,4,Engineering,Tier 2,PG / Rented,7600,0,Walk / Cycle,4,0,2,5,4.0,No,No,6,9470,Overspender
+21,Male,3,Medical,Tier 3,Hostel,5300,0,Own Bike,1,5,1,0,1.1,Yes,No,11,3690,Saver
+22,Male,4,Medical,Tier 1,PG / Rented,13600,0,Public Transport,2,3,2,3,1.9,No,No,8,12970,Balanced
+20,Male,2,Engineering,Tier 2,Hostel,5600,0,Public Transport,2,1,0,2,4.5,No,No,14,4280,Saver
+22,Female,4,Engineering,Tier 2,With Family,5100,0,Walk / Cycle,4,4,0,4,2.2,No,No,5,5200,Balanced
+23,Other,4,Engineering,Tier 1,PG / Rented,20100,6000,Walk / Cycle,5,1,4,4,3.4,Yes,No,11,19780,Saver
+23,Female,4,Commerce,Tier 2,PG / Rented,7000,6000,Own Bike,4,4,1,2,3.0,No,No,22,11520,Balanced
+22,Male,4,Management,Tier 1,Hostel,10800,0,Walk / Cycle,5,6,3,3,1.6,No,Yes,8,13170,Overspender
+18,Female,1,Arts,Tier 2,With Family,7700,0,Own Bike,6,4,2,4,2.3,No,No,12,8280,Overspender
+23,Male,4,Engineering,Tier 1,PG / Rented,9300,7800,Own Bike,1,4,0,4,1.0,No,No,10,12520,Saver
+20,Female,3,Engineering,Tier 1,PG / Rented,22100,6000,Public Transport,3,4,1,5,5.0,No,No,14,20230,Saver
+23,Female,4,Engineering,Tier 2,Hostel,8300,6600,Walk / Cycle,7,3,1,4,1.9,Yes,No,13,12640,Balanced
+21,Female,3,Management,Tier 1,Hostel,10000,0,Walk / Cycle,4,2,5,2,5.2,Yes,No,11,9810,Balanced
+24,Female,4,Science,Tier 2,PG / Rented,4100,0,Public Transport,1,7,3,3,2.2,No,No,13,8240,Overspender
+20,Male,3,Arts,Tier 2,With Family,4700,0,Own Bike,1,3,0,4,3.6,No,No,22,4340,Balanced
+24,Female,4,Engineering,Tier 2,Hostel,9500,5600,Own Bike,4,3,1,1,1.1,Yes,No,14,10560,Saver
+23,Female,4,Medical,Tier 1,With Family,16600,0,Own Bike,2,3,2,5,4.7,No,No,13,13790,Balanced
+20,Male,2,Commerce,Tier 3,Hostel,7700,0,Cab / Auto,2,0,2,2,2.2,No,No,18,7240,Balanced
+21,Female,3,Management,Tier 2,With Family,9300,0,Walk / Cycle,0,3,1,4,1.7,No,No,16,6980,Saver
+21,Male,4,Management,Tier 1,Hostel,6300,0,Own Bike,3,4,2,3,1.0,No,Yes,14,8980,Overspender
+23,Other,4,Commerce,Tier 2,PG / Rented,9400,0,Public Transport,1,2,0,5,10.0,No,No,16,8820,Balanced
+22,Female,4,Management,Tier 2,PG / Rented,17300,7900,Public Transport,5,0,1,4,0.8,Yes,No,15,15360,Saver
+23,Male,4,Engineering,Tier 2,Hostel,5400,0,Public Transport,2,3,3,4,8.5,No,No,11,7360,Overspender
+20,Female,3,Science,Tier 2,Hostel,12400,0,Public Transport,1,4,0,4,6.8,No,No,16,9240,Saver
+21,Male,3,Engineering,Tier 2,PG / Rented,13900,4500,Own Bike,1,2,6,1,0.8,No,No,16,14770,Balanced
+21,Female,3,Commerce,Tier 3,PG / Rented,8500,0,Own Bike,1,3,6,2,2.4,Yes,Yes,18,8940,Overspender
+24,Female,4,Engineering,Tier 2,With Family,4800,1500,Public Transport,4,3,2,4,2.2,Yes,No,6,5790,Balanced
+20,Female,2,Engineering,Tier 3,PG / Rented,4800,0,Walk / Cycle,3,4,3,2,2.4,No,Yes,11,8720,Overspender
+22,Female,4,Engineering,Tier 2,With Family,12400,0,Public Transport,3,3,1,3,3.0,No,No,7,7980,Saver
+18,Male,1,Commerce,Tier 3,PG / Rented,10000,0,Own Bike,4,0,5,3,5.3,No,No,15,9300,Balanced
+23,Male,4,Arts,Tier 3,Hostel,7000,0,Public Transport,4,1,2,0,0.9,No,No,8,6220,Balanced
+20,Male,2,Commerce,Tier 1,Hostel,9000,0,Walk / Cycle,4,2,1,2,2.2,Yes,No,10,8950,Balanced
+20,Male,2,Engineering,Tier 1,PG / Rented,13700,0,Public Transport,2,3,2,1,1.7,No,No,13,12200,Balanced
+22,Male,4,Medical,Tier 2,Hostel,8600,0,Own Bike,5,3,1,0,1.6,No,No,8,7870,Balanced
+21,Male,4,Medical,Tier 2,With Family,6700,0,Own Bike,4,5,2,1,2.5,Yes,No,13,6940,Balanced
+23,Male,4,Engineering,Tier 2,With Family,7800,0,Walk / Cycle,2,1,4,1,2.1,Yes,No,10,5350,Saver
+21,Male,4,Commerce,Tier 3,PG / Rented,5300,0,Public Transport,1,3,2,4,0.2,Yes,No,14,4100,Saver
+21,Female,4,Science,Tier 3,PG / Rented,3900,0,Public Transport,2,4,2,1,3.1,Yes,No,13,4960,Overspender
+18,Male,1,Science,Tier 2,PG / Rented,10400,0,Own Bike,4,2,1,4,0.4,Yes,No,6,10100,Balanced
+18,Female,1,Commerce,Tier 2,PG / Rented,4600,0,Walk / Cycle,4,4,1,1,4.9,No,No,13,7630,Overspender
+20,Male,3,Science,Tier 1,Hostel,9300,0,Own Bike,6,1,4,4,2.7,No,No,10,11020,Overspender
+24,Male,4,Engineering,Tier 2,Hostel,6400,0,Cab / Auto,3,3,3,3,1.9,No,Yes,7,10960,Overspender
+24,Male,4,Commerce,Tier 1,Hostel,13500,0,Public Transport,2,2,3,0,0.7,Yes,No,15,9210,Saver
+22,Male,4,Science,Tier 2,Hostel,19500,0,Public Transport,6,7,4,0,3.1,Yes,No,9,15170,Saver
+22,Male,4,Science,Tier 2,With Family,2300,0,Walk / Cycle,3,3,2,0,2.4,No,No,11,4870,Overspender
+20,Male,3,Management,Tier 2,Hostel,22300,0,Walk / Cycle,4,5,0,2,2.5,Yes,No,14,14020,Saver
+19,Male,1,Engineering,Tier 2,Hostel,7200,0,Cab / Auto,1,3,2,1,2.8,No,No,13,7090,Balanced
+18,Male,1,Engineering,Tier 1,With Family,8800,0,Cab / Auto,4,3,0,0,3.8,Yes,No,15,6680,Saver
+20,Female,2,Engineering,Tier 1,With Family,4000,0,Walk / Cycle,2,2,0,4,3.1,No,No,12,5740,Overspender
+20,Male,3,Engineering,Tier 1,PG / Rented,21100,0,Cab / Auto,4,0,0,5,6.5,No,No,6,15920,Saver
+19,Female,2,Engineering,Tier 3,PG / Rented,7600,0,Walk / Cycle,1,5,3,5,3.8,Yes,No,7,8100,Overspender
+19,Male,1,Arts,Tier 3,With Family,4100,0,Public Transport,3,3,6,0,3.0,No,No,6,8110,Overspender
+18,Female,1,Arts,Tier 1,Hostel,4500,0,Own Bike,5,3,3,5,2.6,No,No,20,8600,Overspender
+22,Female,4,Science,Tier 1,PG / Rented,14000,0,Public Transport,1,2,1,2,1.2,Yes,No,9,9400,Saver
+24,Female,4,Commerce,Tier 2,Hostel,11700,0,Public Transport,2,8,2,1,0.6,No,No,13,9360,Balanced
+22,Female,4,Engineering,Tier 2,PG / Rented,9000,0,Own Bike,0,1,2,0,0.2,No,No,8,8710,Balanced
+21,Male,3,Science,Tier 1,With Family,12800,0,Walk / Cycle,7,2,3,4,3.6,No,Yes,17,13590,Overspender
+20,Female,2,Engineering,Tier 1,With Family,12600,0,Cab / Auto,4,2,2,1,2.4,Yes,No,11,10710,Balanced
+20,Male,3,Management,Tier 2,With Family,4200,8800,Walk / Cycle,1,1,4,3,3.9,No,Yes,19,9630,Saver
+18,Female,1,Engineering,Tier 1,With Family,15500,0,Walk / Cycle,6,2,1,3,6.2,No,No,17,13330,Balanced
+22,Female,4,Arts,Tier 1,PG / Rented,13800,0,Cab / Auto,2,4,1,5,2.2,No,No,10,12950,Balanced
+21,Male,3,Management,Tier 1,With Family,7700,0,Public Transport,1,1,2,4,0.8,Yes,No,12,4950,Saver
+18,Female,1,Arts,Tier 2,With Family,5900,0,Public Transport,1,3,2,4,4.6,Yes,No,10,4650,Saver
+20,Male,2,Arts,Tier 2,PG / Rented,10300,2500,Public Transport,3,1,5,2,2.1,No,No,13,10480,Balanced
+19,Female,2,Science,Tier 1,Hostel,3300,0,Walk / Cycle,4,3,3,3,1.5,No,No,21,8730,Overspender
+19,Female,2,Engineering,Tier 2,PG / Rented,9200,0,Public Transport,1,1,4,0,1.4,No,No,16,8290,Balanced
+22,Male,4,Science,Tier 2,Hostel,4300,6500,Public Transport,4,3,2,4,3.6,No,No,9,8560,Saver
+21,Female,4,Management,Tier 3,PG / Rented,15600,0,Public Transport,5,1,1,4,3.6,No,No,17,10250,Saver
+22,Female,4,Medical,Tier 3,Hostel,12200,0,Public Transport,1,5,2,1,5.4,No,Yes,17,9200,Saver
+22,Male,4,Commerce,Tier 1,PG / Rented,19800,0,Own Bike,6,3,4,0,1.0,No,No,16,18040,Balanced
+24,Male,4,Commerce,Tier 3,Hostel,5400,6800,Cab / Auto,2,6,3,4,1.0,No,No,9,9720,Saver
+23,Male,4,Science,Tier 2,Hostel,5100,0,Public Transport,4,5,1,4,2.8,No,No,11,6430,Overspender
+22,Female,4,Arts,Tier 2,PG / Rented,7400,4900,Cab / Auto,5,2,2,4,3.0,Yes,No,12,11930,Balanced
+24,Male,4,Engineering,Tier 1,Hostel,25900,0,Own Bike,3,5,2,0,4.9,No,No,8,16970,Saver
+21,Female,3,Engineering,Tier 1,With Family,5500,2700,Cab / Auto,3,1,5,5,5.2,Yes,No,11,9060,Overspender
+24,Female,4,Engineering,Tier 1,PG / Rented,4700,0,Own Bike,4,2,3,2,2.7,No,No,8,10780,Overspender
+23,Male,4,Commerce,Tier 3,PG / Rented,11900,10300,Walk / Cycle,4,5,0,1,5.4,No,No,8,13780,Saver
+22,Male,4,Engineering,Tier 2,Hostel,15700,0,Walk / Cycle,4,1,2,3,2.3,No,Yes,15,11260,Saver
+24,Female,4,Engineering,Tier 2,With Family,11800,6900,Cab / Auto,3,5,1,5,2.4,No,No,15,14340,Saver
+21,Female,4,Engineering,Tier 2,PG / Rented,16000,0,Public Transport,2,0,1,4,2.0,No,No,13,11690,Saver
+23,Male,4,Medical,Tier 1,PG / Rented,23200,0,Cab / Auto,4,3,1,1,0.9,Yes,No,12,17040,Saver
+19,Male,1,Engineering,Tier 1,Hostel,11100,9900,Own Bike,2,3,0,5,0.6,No,No,12,14410,Saver
+24,Male,4,Engineering,Tier 2,With Family,2200,0,Walk / Cycle,3,4,1,4,2.8,No,Yes,12,5010,Overspender
+22,Other,4,Commerce,Tier 2,With Family,5700,0,Public Transport,4,5,0,5,4.7,Yes,No,14,6200,Overspender
+23,Male,4,Engineering,Tier 3,PG / Rented,9900,7300,Cab / Auto,1,4,0,5,1.5,Yes,No,7,9950,Saver
+21,Female,4,Medical,Tier 2,Hostel,7500,4800,Walk / Cycle,2,3,1,3,5.1,No,No,12,8320,Saver
+24,Male,4,Medical,Tier 2,Hostel,7400,0,Own Bike,3,1,2,0,6.1,No,No,13,9890,Overspender
+18,Female,1,Commerce,Tier 3,Hostel,3900,0,Cab / Auto,3,7,2,0,1.9,No,No,14,5450,Overspender
+18,Male,1,Commerce,Tier 1,With Family,4800,0,Walk / Cycle,4,4,0,3,0.5,No,No,12,6520,Overspender
+21,Male,4,Commerce,Tier 2,With Family,12800,0,Public Transport,1,4,1,0,2.0,No,No,13,9470,Saver
+23,Female,4,Engineering,Tier 2,With Family,13000,0,Public Transport,0,9,1,3,1.0,Yes,No,16,9050,Saver
+23,Female,4,Engineering,Tier 1,With Family,7600,0,Own Bike,6,1,1,0,4.7,No,Yes,10,10350,Overspender
+21,Male,3,Engineering,Tier 1,Hostel,12300,0,Public Transport,3,6,2,4,2.9,No,No,18,11230,Balanced
+22,Male,4,Engineering,Tier 1,With Family,4900,0,Walk / Cycle,4,5,1,1,0.5,No,No,10,6310,Overspender
+21,Male,4,Arts,Tier 1,Hostel,14400,0,Walk / Cycle,5,5,0,0,3.4,Yes,No,11,11300,Saver
+24,Male,4,Engineering,Tier 2,Hostel,17700,0,Public Transport,5,2,2,2,4.9,No,No,11,13450,Saver
+22,Male,4,Engineering,Tier 1,With Family,3800,2000,Public Transport,4,4,3,5,2.6,No,No,11,9300,Overspender
+20,Female,3,Commerce,Tier 2,Hostel,9900,0,Walk / Cycle,1,7,5,3,1.7,No,No,13,9060,Balanced
+24,Male,4,Commerce,Tier 1,With Family,9600,0,Own Bike,4,3,3,5,3.2,Yes,No,12,8800,Balanced
+18,Female,1,Engineering,Tier 1,With Family,9600,0,Walk / Cycle,2,2,6,1,7.0,Yes,No,10,8960,Balanced
+24,Male,4,Engineering,Tier 1,With Family,15800,0,Own Bike,1,5,2,4,5.5,No,No,9,12200,Saver
+19,Male,2,Engineering,Tier 1,With Family,18900,0,Cab / Auto,3,2,3,1,0.8,No,No,9,13540,Saver
+20,Female,3,Engineering,Tier 3,PG / Rented,6800,0,Own Bike,4,4,1,2,2.8,Yes,No,13,7000,Balanced
+23,Male,4,Management,Tier 1,Hostel,14600,0,Own Bike,2,1,4,2,1.1,No,No,11,10260,Saver
+23,Female,4,Medical,Tier 1,With Family,7900,4600,Walk / Cycle,4,3,3,3,1.7,Yes,No,17,10990,Balanced
+24,Male,4,Commerce,Tier 1,PG / Rented,10200,0,Public Transport,4,3,3,4,5.7,No,No,18,13120,Overspender
+23,Female,4,Commerce,Tier 1,With Family,8500,7700,Public Transport,7,5,2,0,2.8,Yes,Yes,11,14950,Balanced
+22,Female,4,Science,Tier 2,Hostel,10800,0,Walk / Cycle,3,4,3,4,1.2,Yes,No,15,8490,Saver
+20,Female,2,Science,Tier 3,Hostel,6600,0,Public Transport,2,2,1,4,2.0,Yes,No,11,4910,Saver
+18,Male,1,Engineering,Tier 1,PG / Rented,9100,0,Walk / Cycle,6,2,1,2,4.1,No,No,10,12540,Overspender
+18,Male,1,Engineering,Tier 2,With Family,4500,0,Public Transport,1,2,2,0,1.6,No,No,11,2930,Saver
+20,Male,2,Commerce,Tier 2,With Family,4600,0,Own Bike,2,3,0,2,2.9,Yes,No,14,3470,Saver
+18,Female,1,Arts,Tier 3,With Family,2900,0,Public Transport,2,5,1,1,1.7,No,No,13,5330,Overspender
+21,Male,4,Engineering,Tier 2,Hostel,9200,0,Walk / Cycle,2,3,1,4,1.9,No,No,12,8420,Balanced
+23,Male,4,Engineering,Tier 1,PG / Rented,16300,0,Walk / Cycle,6,3,4,0,6.1,No,Yes,16,18870,Overspender
+24,Male,4,Engineering,Tier 2,Hostel,12400,0,Public Transport,4,2,2,1,2.8,No,Yes,7,10200,Balanced
+21,Male,3,Engineering,Tier 3,Hostel,4100,2900,Public Transport,2,7,3,4,3.6,No,No,17,7910,Overspender
+24,Male,4,Commerce,Tier 2,PG / Rented,7700,5800,Public Transport,2,4,4,5,2.7,Yes,Yes,13,12330,Balanced
+24,Male,4,Science,Tier 3,PG / Rented,15100,10300,Walk / Cycle,6,1,2,3,0.7,No,Yes,9,16470,Saver
+24,Male,4,Arts,Tier 3,PG / Rented,7000,0,Own Bike,2,4,0,0,1.0,No,Yes,16,7430,Overspender
+21,Female,4,Engineering,Tier 1,PG / Rented,13700,5700,Cab / Auto,9,2,1,4,6.1,No,No,12,18710,Balanced
+20,Male,2,Engineering,Tier 3,PG / Rented,6900,0,Public Transport,2,2,2,0,5.7,No,No,8,5220,Saver
+24,Male,4,Management,Tier 2,With Family,9300,0,Public Transport,3,2,4,0,2.7,No,No,9,8430,Balanced
+19,Female,1,Commerce,Tier 2,Hostel,13600,0,Own Bike,0,6,2,4,1.3,No,No,9,10560,Saver
+20,Female,3,Engineering,Tier 2,Hostel,13200,0,Own Bike,2,4,3,2,0.6,No,No,10,11140,Balanced
+18,Male,1,Engineering,Tier 3,With Family,4300,0,Cab / Auto,3,2,1,0,9.2,No,No,16,6400,Overspender
+23,Female,4,Management,Tier 2,With Family,3800,0,Walk / Cycle,3,3,2,2,0.9,No,No,16,5670,Overspender
+22,Female,4,Science,Tier 2,With Family,13300,0,Walk / Cycle,1,1,3,2,1.4,No,No,11,10240,Saver
+18,Female,1,Management,Tier 1,Hostel,15900,0,Walk / Cycle,2,4,3,3,1.6,Yes,No,9,12690,Saver
+19,Female,2,Arts,Tier 2,PG / Rented,8100,0,Own Bike,1,2,3,5,1.3,No,No,19,9150,Overspender
+21,Female,4,Commerce,Tier 3,With Family,8000,2600,Walk / Cycle,3,1,2,0,2.5,No,Yes,18,7300,Saver
+21,Male,3,Commerce,Tier 2,PG / Rented,7900,5100,Cab / Auto,2,5,1,3,8.5,Yes,No,13,11690,Balanced
+23,Male,4,Engineering,Tier 1,PG / Rented,25500,0,Walk / Cycle,2,3,1,3,2.2,No,No,11,15830,Saver
+19,Female,1,Science,Tier 3,With Family,8200,0,Own Bike,2,1,0,5,3.1,Yes,No,14,6600,Balanced
+24,Other,4,Arts,Tier 3,Hostel,4000,0,Public Transport,2,3,2,2,3.8,Yes,No,12,4840,Overspender
+21,Male,4,Engineering,Tier 2,With Family,7300,2200,Public Transport,2,1,2,0,4.5,No,No,13,5430,Saver
+23,Male,4,Management,Tier 1,With Family,10700,0,Public Transport,4,4,1,5,2.7,Yes,No,16,10720,Balanced
+19,Female,2,Commerce,Tier 2,Hostel,25900,0,Own Bike,3,3,2,0,1.2,No,No,17,16010,Saver
+18,Male,1,Engineering,Tier 1,With Family,5400,0,Public Transport,5,1,5,2,3.8,No,No,12,8870,Overspender
+18,Female,1,Commerce,Tier 1,PG / Rented,25700,0,Public Transport,2,2,4,3,6.9,Yes,No,12,18320,Saver
+20,Male,2,Management,Tier 2,With Family,5600,0,Own Bike,0,2,2,0,1.5,Yes,No,12,4180,Saver
+24,Female,4,Medical,Tier 3,With Family,2400,0,Cab / Auto,0,1,3,1,3.2,Yes,No,10,5710,Overspender
+18,Female,1,Commerce,Tier 1,With Family,7200,9400,Own Bike,3,2,2,0,3.9,No,No,12,11240,Saver
+20,Female,2,Medical,Tier 3,Hostel,6000,0,Own Bike,2,4,0,5,1.8,No,Yes,11,6230,Balanced
+18,Female,1,Management,Tier 3,With Family,2600,4300,Public Transport,6,2,2,1,4.4,No,No,14,6700,Balanced
+24,Female,4,Management,Tier 1,With Family,8700,0,Cab / Auto,4,1,0,3,5.4,Yes,No,8,7350,Balanced
+22,Female,4,Management,Tier 1,PG / Rented,20800,0,Public Transport,1,1,1,1,3.2,No,No,16,14630,Saver
+23,Female,4,Commerce,Tier 2,PG / Rented,11100,0,Cab / Auto,1,3,2,4,4.3,No,No,15,9690,Balanced
+22,Male,4,Science,Tier 2,Hostel,6300,0,Own Bike,3,2,0,4,2.2,No,No,12,7220,Overspender
+22,Female,4,Arts,Tier 1,With Family,7100,0,Walk / Cycle,1,4,4,0,0.9,No,No,8,5070,Saver
+23,Male,4,Science,Tier 2,Hostel,8000,4600,Walk / Cycle,2,1,3,4,1.2,Yes,No,14,8600,Saver
+18,Female,1,Engineering,Tier 2,Hostel,8800,7000,Own Bike,3,3,4,3,7.8,Yes,No,16,11900,Saver
+24,Female,4,Science,Tier 2,With Family,9200,0,Own Bike,1,4,1,0,5.4,No,No,10,6590,Saver
+23,Male,4,Medical,Tier 2,With Family,6300,3000,Own Bike,6,3,2,1,1.1,No,Yes,3,8820,Balanced
+23,Male,4,Engineering,Tier 1,With Family,4000,0,Cab / Auto,2,5,2,5,1.0,No,No,15,4680,Overspender
+20,Male,3,Medical,Tier 1,PG / Rented,10500,0,Public Transport,3,3,2,2,3.9,Yes,Yes,7,11990,Overspender
+23,Female,4,Commerce,Tier 1,Hostel,11600,0,Public Transport,2,7,1,0,10.0,No,Yes,11,10500,Balanced
+20,Male,2,Engineering,Tier 3,PG / Rented,12400,0,Public Transport,4,2,2,3,2.7,No,No,12,12140,Balanced
+18,Male,1,Engineering,Tier 3,Hostel,10800,0,Walk / Cycle,1,8,1,4,1.4,No,No,7,7640,Saver
+24,Female,4,Management,Tier 3,With Family,9300,7100,Public Transport,0,9,4,2,4.6,No,No,16,10940,Saver
+19,Female,1,Arts,Tier 1,PG / Rented,14300,0,Cab / Auto,6,2,0,0,5.9,No,Yes,18,17100,Overspender
+18,Male,1,Engineering,Tier 2,PG / Rented,14100,0,Walk / Cycle,3,1,2,0,3.9,No,No,19,10400,Saver
+22,Male,4,Arts,Tier 1,Hostel,5600,7000,Own Bike,3,3,4,2,3.5,No,No,15,10910,Balanced
+19,Other,2,Commerce,Tier 1,PG / Rented,16400,7200,Own Bike,5,4,2,2,1.1,Yes,No,11,18700,Saver
+24,Female,4,Commerce,Tier 1,With Family,4700,2500,Walk / Cycle,3,3,1,4,4.7,Yes,No,11,7270,Balanced
+21,Female,3,Management,Tier 3,With Family,4100,4000,Own Bike,2,3,2,4,4.0,Yes,No,19,7480,Balanced
+18,Male,1,Science,Tier 1,Hostel,42200,3400,Own Bike,2,1,2,1,2.0,No,No,8,24040,Saver
+24,Male,4,Science,Tier 2,Hostel,9200,8800,Public Transport,2,5,3,4,0.8,No,No,10,13450,Saver
+21,Male,3,Arts,Tier 3,PG / Rented,5100,0,Walk / Cycle,1,3,2,0,1.8,Yes,No,6,4770,Balanced
+19,Female,1,Medical,Tier 2,Hostel,9600,0,Public Transport,3,2,1,1,2.6,No,No,12,8950,Balanced
+22,Male,4,Engineering,Tier 1,With Family,6000,0,Own Bike,4,3,3,4,4.1,No,No,5,9510,Overspender
+21,Male,3,Engineering,Tier 3,With Family,2700,0,Walk / Cycle,4,2,5,5,4.6,No,No,17,5520,Overspender
+18,Female,1,Engineering,Tier 2,Hostel,20600,0,Public Transport,3,2,2,4,2.4,Yes,No,12,13050,Saver
+23,Female,4,Arts,Tier 2,With Family,9100,0,Cab / Auto,5,4,2,2,2.2,No,No,15,8580,Balanced
+20,Female,2,Arts,Tier 2,PG / Rented,11700,0,Own Bike,2,3,1,5,5.2,No,No,11,11610,Balanced
+22,Male,4,Science,Tier 3,Hostel,5000,0,Own Bike,0,2,2,2,3.3,No,No,16,4250,Balanced
+24,Male,4,Commerce,Tier 2,PG / Rented,8700,0,Cab / Auto,4,4,1,3,3.9,No,No,10,11010,Overspender
+22,Male,4,Engineering,Tier 2,Hostel,16000,0,Walk / Cycle,4,5,3,4,2.0,Yes,No,14,12140,Saver
+22,Male,4,Science,Tier 2,PG / Rented,11500,0,Walk / Cycle,2,2,1,0,5.1,No,No,10,9690,Balanced
+19,Female,2,Medical,Tier 1,With Family,2000,0,Own Bike,1,3,3,5,1.6,No,No,10,5330,Overspender
+19,Male,1,Engineering,Tier 3,With Family,12500,7600,Public Transport,0,4,5,3,8.5,Yes,No,20,13820,Saver
+20,Female,3,Engineering,Tier 1,Hostel,11700,0,Walk / Cycle,5,1,1,1,1.0,No,No,14,11860,Balanced
+23,Female,4,Engineering,Tier 1,PG / Rented,15800,4500,Own Bike,1,3,3,4,2.7,Yes,No,10,13440,Saver
+21,Other,4,Commerce,Tier 1,Hostel,17600,3300,Walk / Cycle,4,1,1,2,0.9,No,No,9,13860,Saver
+20,Male,2,Engineering,Tier 1,PG / Rented,16600,5000,Public Transport,3,6,2,0,3.7,No,No,17,15800,Saver
+23,Male,4,Commerce,Tier 2,Hostel,11200,0,Public Transport,3,2,0,4,5.6,No,No,14,8650,Saver
+23,Male,4,Science,Tier 2,PG / Rented,8300,0,Own Bike,0,4,4,0,3.9,No,No,11,8830,Overspender
+24,Male,4,Commerce,Tier 1,Hostel,6200,0,Public Transport,1,4,2,3,1.9,No,No,9,6040,Balanced
+20,Male,2,Commerce,Tier 1,With Family,8600,0,Walk / Cycle,1,4,1,4,0.9,Yes,No,13,4970,Saver
+22,Male,4,Engineering,Tier 3,With Family,8000,0,Cab / Auto,2,2,1,0,1.9,No,No,8,6100,Saver
+22,Female,4,Medical,Tier 3,Hostel,4500,0,Cab / Auto,0,2,4,4,4.0,Yes,No,16,6470,Overspender
+21,Male,4,Commerce,Tier 2,With Family,4000,0,Public Transport,3,0,1,2,1.2,No,No,10,5090,Overspender
+20,Female,2,Commerce,Tier 1,Hostel,18700,0,Walk / Cycle,3,6,0,2,0.6,Yes,No,13,13590,Saver
+18,Male,1,Engineering,Tier 1,With Family,6200,13100,Public Transport,4,3,2,0,2.2,No,No,12,14080,Saver
+19,Male,1,Science,Tier 1,Hostel,9000,0,Public Transport,4,3,2,4,0.9,No,No,14,8780,Balanced
+21,Male,4,Management,Tier 1,Hostel,9100,6300,Walk / Cycle,4,4,2,0,3.2,No,No,5,11720,Saver
+24,Male,4,Engineering,Tier 3,With Family,4100,0,Walk / Cycle,0,1,1,1,2.4,No,No,12,3120,Saver
+24,Male,4,Engineering,Tier 2,PG / Rented,4900,0,Walk / Cycle,2,5,2,1,2.1,No,No,16,7580,Overspender
+19,Other,2,Engineering,Tier 1,PG / Rented,10600,0,Public Transport,3,2,4,2,9.2,No,No,15,14090,Overspender
+22,Male,4,Arts,Tier 3,PG / Rented,8300,6100,Public Transport,3,1,1,5,3.5,Yes,No,11,9930,Saver
+18,Male,1,Medical,Tier 2,Hostel,8800,0,Own Bike,3,1,0,4,0.2,No,Yes,15,8940,Balanced
+22,Female,4,Commerce,Tier 1,Hostel,18200,0,Public Transport,2,2,0,4,8.4,Yes,Yes,10,12570,Saver
+20,Male,2,Commerce,Tier 2,PG / Rented,22900,0,Public Transport,2,2,1,1,2.7,No,No,17,15230,Saver
+21,Female,3,Science,Tier 1,PG / Rented,26700,0,Walk / Cycle,3,4,2,3,2.0,No,No,15,18900,Saver
+23,Male,4,Science,Tier 3,Hostel,9100,0,Own Bike,1,2,1,2,3.0,No,No,10,6940,Saver
+20,Female,2,Engineering,Tier 1,PG / Rented,12600,0,Walk / Cycle,2,2,0,2,1.0,Yes,No,16,9150,Saver
+23,Male,4,Engineering,Tier 2,PG / Rented,7600,5800,Walk / Cycle,4,9,1,3,2.3,No,Yes,15,14190,Overspender
+21,Male,3,Commerce,Tier 1,With Family,7600,0,Own Bike,2,4,1,0,5.0,No,No,9,8060,Overspender
+24,Female,4,Science,Tier 3,With Family,5500,0,Own Bike,4,2,3,2,2.1,No,No,16,6490,Overspender
+22,Female,4,Science,Tier 2,PG / Rented,14500,6500,Own Bike,3,2,4,2,1.7,Yes,No,17,12510,Saver
+20,Male,2,Science,Tier 2,PG / Rented,13200,0,Public Transport,2,3,4,5,1.5,No,No,9,12510,Balanced
+23,Female,4,Management,Tier 1,PG / Rented,12800,0,Public Transport,4,5,5,5,4.5,No,No,13,15740,Overspender
+20,Male,3,Engineering,Tier 3,Hostel,8500,0,Public Transport,1,6,1,5,3.2,No,No,6,6350,Saver
+21,Male,4,Commerce,Tier 2,Hostel,14100,0,Public Transport,1,0,3,3,8.4,No,No,13,11280,Balanced
+18,Male,1,Engineering,Tier 1,Hostel,16000,0,Public Transport,4,1,1,3,7.6,Yes,No,6,11510,Saver
+18,Female,1,Management,Tier 3,With Family,4100,0,Public Transport,3,1,4,4,2.2,No,No,13,5820,Overspender
+22,Male,4,Arts,Tier 1,Hostel,7400,3700,Walk / Cycle,6,1,3,4,3.9,Yes,No,5,11220,Balanced
+19,Female,2,Engineering,Tier 1,PG / Rented,9200,6200,Cab / Auto,5,3,1,4,1.9,No,No,14,14940,Balanced
+24,Male,4,Engineering,Tier 2,PG / Rented,7400,0,Walk / Cycle,2,3,2,5,1.7,Yes,No,9,8390,Overspender
+23,Female,4,Science,Tier 1,PG / Rented,15200,9200,Public Transport,1,4,2,2,1.6,No,No,16,18350,Saver
+22,Female,4,Science,Tier 2,With Family,7100,0,Cab / Auto,1,2,3,4,1.5,No,No,7,5850,Balanced
+23,Male,4,Science,Tier 1,With Family,4000,0,Own Bike,3,4,0,3,5.1,Yes,No,10,5500,Overspender
+22,Male,4,Engineering,Tier 1,Hostel,8600,8600,Public Transport,4,4,0,4,1.7,No,Yes,7,16010,Balanced
+18,Male,1,Medical,Tier 1,With Family,8400,0,Own Bike,8,3,3,5,2.0,Yes,No,12,11480,Overspender
+20,Female,3,Science,Tier 1,PG / Rented,9000,0,Walk / Cycle,7,3,3,0,3.2,Yes,No,14,10690,Overspender
+21,Male,3,Science,Tier 3,Hostel,7300,0,Own Bike,1,6,3,5,3.0,No,No,11,8130,Overspender
+24,Female,4,Science,Tier 2,With Family,4900,0,Public Transport,4,3,0,4,2.8,Yes,No,14,2210,Saver
+19,Male,2,Medical,Tier 2,With Family,4000,2600,Cab / Auto,3,5,2,5,5.6,Yes,No,10,8200,Overspender
+21,Female,4,Medical,Tier 1,Hostel,11100,0,Walk / Cycle,1,4,2,1,1.7,No,No,8,8260,Saver
+20,Male,2,Arts,Tier 2,With Family,6700,0,Own Bike,4,4,2,3,1.5,Yes,No,16,7440,Overspender
+18,Male,1,Commerce,Tier 1,PG / Rented,9200,0,Public Transport,6,3,1,0,0.2,No,No,10,12330,Overspender
+18,Other,1,Commerce,Tier 1,PG / Rented,12100,0,Walk / Cycle,4,1,4,0,3.9,No,No,14,13620,Overspender
+20,Male,2,Management,Tier 2,Hostel,9900,0,Public Transport,2,4,3,3,3.8,No,Yes,12,10070,Balanced
+18,Female,1,Science,Tier 2,Hostel,5700,0,Own Bike,0,2,2,5,5.3,No,No,15,5940,Balanced
+18,Male,1,Engineering,Tier 2,PG / Rented,4700,0,Walk / Cycle,1,2,2,1,2.2,No,No,14,6060,Overspender
+20,Male,2,Engineering,Tier 3,PG / Rented,3800,0,Cab / Auto,0,1,1,4,2.4,Yes,No,18,5770,Overspender
+19,Female,1,Medical,Tier 3,PG / Rented,6200,0,Public Transport,3,3,3,0,4.9,No,No,12,7540,Overspender
+21,Female,4,Management,Tier 1,With Family,4200,1500,Own Bike,2,3,0,0,1.9,No,No,17,5330,Balanced
+18,Female,1,Medical,Tier 1,Hostel,9200,0,Own Bike,5,1,1,3,2.7,No,No,9,10130,Overspender
+20,Male,3,Commerce,Tier 1,With Family,16000,0,Public Transport,1,3,0,1,5.6,No,No,11,9610,Saver
+21,Male,3,Management,Tier 3,With Family,2300,0,Own Bike,4,3,2,0,3.8,No,Yes,21,4870,Overspender
+24,Male,4,Management,Tier 3,With Family,3700,7000,Own Bike,0,1,1,5,2.1,Yes,No,14,6960,Saver
+22,Female,4,Engineering,Tier 3,With Family,11000,0,Own Bike,1,2,2,5,4.8,No,No,13,7110,Saver
+24,Male,4,Engineering,Tier 1,With Family,9100,0,Public Transport,5,2,2,0,2.5,Yes,No,7,9840,Overspender
+20,Male,2,Medical,Tier 3,Hostel,5100,0,Own Bike,2,2,5,5,4.9,No,No,9,8010,Overspender
+21,Male,4,Engineering,Tier 2,With Family,5200,0,Public Transport,0,0,4,0,3.2,No,No,16,2340,Saver
+20,Male,2,Arts,Tier 3,With Family,5100,0,Walk / Cycle,2,0,3,4,1.8,No,No,14,5170,Balanced
+24,Male,4,Science,Tier 2,PG / Rented,21400,0,Walk / Cycle,2,1,2,4,1.1,Yes,No,11,12580,Saver
+24,Male,4,Science,Tier 1,Hostel,8500,0,Own Bike,5,3,7,1,4.4,Yes,No,10,11230,Overspender
+24,Female,4,Engineering,Tier 1,With Family,5400,0,Cab / Auto,2,3,3,0,4.7,Yes,No,11,6380,Overspender
+23,Female,4,Science,Tier 3,Hostel,3200,0,Walk / Cycle,3,1,2,3,6.1,No,Yes,11,5830,Overspender
+21,Male,3,Engineering,Tier 2,Hostel,8400,4600,Public Transport,2,1,1,5,4.0,No,No,13,10070,Saver
+21,Female,3,Management,Tier 1,Hostel,5700,0,Public Transport,3,3,0,0,2.3,Yes,Yes,11,7340,Overspender
+24,Female,4,Engineering,Tier 1,PG / Rented,11000,0,Public Transport,2,3,3,5,3.2,No,Yes,16,15000,Overspender
+19,Male,1,Science,Tier 1,PG / Rented,9000,0,Own Bike,1,4,1,3,2.8,No,No,11,9390,Balanced
+20,Male,2,Management,Tier 3,PG / Rented,12200,0,Own Bike,1,5,4,5,2.3,No,Yes,17,12770,Balanced
+24,Male,4,Engineering,Tier 1,With Family,6000,0,Own Bike,4,5,2,1,1.0,Yes,No,10,8940,Overspender
+20,Male,3,Engineering,Tier 1,PG / Rented,16100,0,Own Bike,8,5,2,3,1.1,Yes,No,11,16540,Balanced
+19,Female,1,Science,Tier 3,PG / Rented,3600,0,Walk / Cycle,0,3,1,2,4.5,Yes,No,12,4800,Overspender
+21,Other,4,Engineering,Tier 2,With Family,5900,0,Public Transport,3,2,1,3,1.4,Yes,Yes,14,6570,Overspender
+20,Male,3,Engineering,Tier 1,With Family,4400,0,Public Transport,5,1,5,1,2.2,Yes,No,13,7020,Overspender
+24,Female,4,Commerce,Tier 1,Hostel,8900,0,Cab / Auto,2,1,1,2,0.7,No,No,15,8290,Balanced
+24,Male,4,Medical,Tier 1,Hostel,29200,6000,Own Bike,2,6,2,5,0.7,No,Yes,17,22720,Saver
+20,Female,3,Arts,Tier 1,PG / Rented,20500,0,Walk / Cycle,4,6,4,5,1.5,Yes,Yes,13,19120,Balanced
+21,Female,3,Commerce,Tier 1,With Family,7100,7800,Walk / Cycle,1,2,1,1,4.4,No,Yes,12,9230,Saver
+24,Male,4,Medical,Tier 1,PG / Rented,50000,0,Public Transport,4,0,2,0,4.5,No,No,12,28960,Saver
+23,Male,4,Commerce,Tier 2,Hostel,5300,0,Cab / Auto,3,4,2,2,3.0,Yes,No,7,5810,Overspender
+19,Female,2,Commerce,Tier 3,With Family,7100,0,Walk / Cycle,2,4,1,1,1.6,Yes,Yes,16,4530,Saver
+22,Other,4,Commerce,Tier 3,With Family,2100,0,Public Transport,4,3,2,1,6.4,Yes,No,18,3450,Overspender
+22,Male,4,Engineering,Tier 1,PG / Rented,12100,0,Public Transport,4,1,3,1,2.1,No,No,8,12730,Overspender
+22,Male,4,Commerce,Tier 1,With Family,4100,7800,Own Bike,1,3,1,3,6.8,No,No,13,9120,Saver
+18,Male,1,Science,Tier 3,With Family,4700,0,Own Bike,2,3,3,0,3.5,Yes,No,11,4480,Balanced
+20,Female,2,Engineering,Tier 2,With Family,5700,7000,Walk / Cycle,0,3,4,5,5.1,Yes,No,14,8900,Saver
+23,Female,4,Science,Tier 2,With Family,4900,0,Own Bike,3,4,1,0,5.1,Yes,No,22,7400,Overspender
+19,Female,2,Engineering,Tier 1,With Family,12400,0,Walk / Cycle,1,2,3,0,0.5,Yes,No,9,8600,Saver
+20,Female,2,Commerce,Tier 1,PG / Rented,10500,0,Own Bike,3,4,0,3,1.1,No,No,9,10560,Balanced
+20,Female,2,Engineering,Tier 2,PG / Rented,11600,0,Walk / Cycle,3,4,2,0,2.0,No,No,14,10220,Balanced
+19,Female,1,Arts,Tier 2,With Family,8100,0,Public Transport,1,5,3,3,1.5,No,No,11,5840,Saver
+19,Male,2,Science,Tier 1,PG / Rented,6900,0,Public Transport,3,6,1,0,3.6,No,No,15,10530,Overspender
+20,Female,3,Commerce,Tier 3,PG / Rented,5400,9500,Own Bike,2,5,1,5,3.8,Yes,No,14,11080,Saver
+24,Male,4,Engineering,Tier 2,Hostel,8200,0,Public Transport,2,2,5,3,1.9,Yes,Yes,11,8980,Overspender
+18,Male,1,Engineering,Tier 2,With Family,7400,0,Public Transport,3,2,2,1,1.7,No,Yes,12,6680,Balanced
+19,Female,1,Management,Tier 1,PG / Rented,25600,0,Walk / Cycle,2,1,2,3,4.8,No,No,14,16380,Saver
+18,Female,1,Engineering,Tier 2,Hostel,7300,4900,Public Transport,3,2,2,3,1.8,No,No,10,10900,Balanced
+21,Other,3,Science,Tier 2,PG / Rented,8700,0,Own Bike,3,4,2,4,5.4,No,No,13,10570,Overspender
+19,Male,2,Commerce,Tier 1,Hostel,7300,0,Public Transport,7,5,3,4,3.1,No,No,8,11780,Overspender
+23,Female,4,Engineering,Tier 2,With Family,6500,7600,Public Transport,3,3,1,5,3.1,No,No,13,8770,Saver
+22,Male,4,Science,Tier 2,With Family,4900,0,Own Bike,1,3,5,5,1.2,No,No,14,6730,Overspender
+23,Male,4,Commerce,Tier 3,PG / Rented,6600,8800,Public Transport,1,7,1,0,4.2,No,No,14,10700,Saver
+22,Male,4,Engineering,Tier 1,PG / Rented,12900,3200,Own Bike,4,5,2,4,1.1,Yes,No,11,13030,Balanced
+21,Female,3,Medical,Tier 3,With Family,5400,0,Public Transport,2,1,2,5,4.2,Yes,Yes,14,5310,Balanced
+24,Male,4,Engineering,Tier 2,PG / Rented,7800,9700,Cab / Auto,2,4,2,1,3.8,No,No,9,12980,Saver
+21,Female,4,Commerce,Tier 1,With Family,5300,9900,Own Bike,4,1,0,4,3.9,No,No,7,10700,Saver
+24,Male,4,Commerce,Tier 1,Hostel,13100,0,Public Transport,1,3,2,3,3.8,Yes,No,10,9340,Saver
+24,Male,4,Commerce,Tier 1,Hostel,2800,0,Public Transport,4,5,1,3,4.8,No,No,6,7750,Overspender
+22,Female,4,Management,Tier 1,PG / Rented,10300,3500,Own Bike,0,2,2,4,3.6,No,No,10,11570,Balanced
+22,Male,4,Engineering,Tier 2,Hostel,4800,3200,Own Bike,4,1,2,2,0.5,No,No,11,9710,Overspender
+19,Female,2,Medical,Tier 2,PG / Rented,17200,0,Walk / Cycle,5,5,0,5,3.3,Yes,No,9,13160,Saver
+23,Female,4,Science,Tier 1,With Family,6200,0,Walk / Cycle,1,2,1,4,1.4,No,No,12,6030,Balanced
+22,Male,4,Medical,Tier 3,Hostel,4700,0,Walk / Cycle,1,3,2,2,0.8,No,Yes,16,4430,Balanced
+24,Female,4,Management,Tier 1,PG / Rented,13200,0,Own Bike,4,5,1,3,1.2,Yes,No,12,13060,Balanced
+19,Female,2,Medical,Tier 2,With Family,4300,0,Own Bike,4,2,1,5,1.6,Yes,No,11,5080,Overspender
+23,Female,4,Arts,Tier 3,With Family,3500,0,Walk / Cycle,4,5,0,2,4.0,No,No,13,5140,Overspender
+21,Female,4,Commerce,Tier 3,PG / Rented,7800,0,Public Transport,3,5,2,5,2.2,No,No,14,8830,Overspender
+19,Female,2,Commerce,Tier 2,Hostel,6600,0,Own Bike,0,2,4,0,4.8,Yes,No,9,7050,Overspender
+19,Female,1,Science,Tier 2,PG / Rented,8200,0,Cab / Auto,7,3,2,4,1.5,Yes,No,12,10010,Overspender
+21,Male,4,Commerce,Tier 1,PG / Rented,8600,6400,Walk / Cycle,3,3,2,3,2.2,Yes,No,14,11870,Saver
+20,Female,2,Science,Tier 1,With Family,4500,0,Public Transport,2,2,1,4,1.6,Yes,No,12,5190,Overspender
+18,Female,1,Engineering,Tier 2,PG / Rented,10300,0,Public Transport,4,2,1,3,0.4,No,No,16,9960,Balanced
+20,Female,3,Management,Tier 1,Hostel,12400,0,Own Bike,1,1,2,2,2.7,Yes,No,10,7950,Saver
+22,Female,4,Engineering,Tier 1,With Family,4000,3900,Walk / Cycle,3,1,1,0,10.0,No,No,7,7580,Balanced
+20,Male,3,Medical,Tier 1,PG / Rented,19000,0,Walk / Cycle,1,4,0,1,0.9,No,No,16,13020,Saver
+24,Female,4,Engineering,Tier 3,Hostel,8500,0,Own Bike,0,6,3,5,4.2,Yes,No,11,7560,Balanced
+23,Other,4,Engineering,Tier 3,PG / Rented,11600,4900,Public Transport,1,5,3,2,4.8,No,No,15,10190,Saver
+21,Male,4,Management,Tier 3,With Family,4800,0,Walk / Cycle,2,3,0,0,2.8,No,No,9,3560,Saver
+24,Male,4,Management,Tier 2,With Family,7500,0,Public Transport,2,4,2,0,0.9,No,No,8,6050,Balanced
+21,Female,4,Science,Tier 1,Hostel,28900,0,Walk / Cycle,3,1,0,1,9.0,Yes,No,8,16800,Saver
+18,Male,1,Medical,Tier 1,With Family,6600,0,Public Transport,1,3,1,4,3.8,Yes,No,12,6330,Balanced
+18,Female,1,Engineering,Tier 2,Hostel,5000,0,Public Transport,2,9,5,2,6.8,No,No,10,8500,Overspender
+24,Male,4,Management,Tier 2,PG / Rented,5000,6100,Walk / Cycle,0,2,4,2,0.6,No,No,14,10340,Balanced
+24,Male,4,Commerce,Tier 1,PG / Rented,29700,0,Walk / Cycle,3,4,1,4,1.7,Yes,No,9,18930,Saver
+23,Female,4,Arts,Tier 2,Hostel,17700,4700,Cab / Auto,3,5,1,3,0.9,No,No,16,15890,Saver
+18,Female,1,Commerce,Tier 2,Hostel,5300,0,Cab / Auto,3,1,1,0,5.2,Yes,No,10,4900,Balanced
+20,Female,3,Engineering,Tier 1,With Family,5400,0,Walk / Cycle,6,2,1,2,0.6,Yes,No,13,4590,Balanced
+18,Female,1,Arts,Tier 1,Hostel,9300,0,Own Bike,2,6,1,4,2.4,No,No,10,10940,Overspender
+18,Female,1,Science,Tier 2,With Family,9700,0,Walk / Cycle,4,5,2,4,2.2,No,No,11,8770,Balanced
+19,Female,2,Engineering,Tier 2,With Family,3100,0,Own Bike,6,5,0,2,0.5,Yes,No,11,3960,Overspender
+22,Female,4,Medical,Tier 3,PG / Rented,3100,3600,Own Bike,1,5,3,1,4.0,No,Yes,12,8370,Overspender
+18,Female,1,Arts,Tier 2,Hostel,21200,0,Own Bike,1,3,1,1,3.5,No,No,10,12340,Saver
+24,Female,4,Engineering,Tier 2,Hostel,9200,5900,Own Bike,3,4,3,0,1.6,No,No,14,12020,Saver
+21,Male,4,Science,Tier 3,Hostel,7400,0,Public Transport,0,3,1,0,6.8,No,No,8,6260,Balanced
+19,Male,1,Engineering,Tier 1,PG / Rented,12300,0,Walk / Cycle,2,4,5,5,0.6,No,No,6,13060,Overspender
+21,Female,4,Engineering,Tier 2,With Family,6900,0,Public Transport,3,5,4,2,0.3,No,No,9,9200,Overspender
+23,Female,4,Science,Tier 2,With Family,2800,0,Walk / Cycle,4,4,5,1,2.9,No,No,7,5440,Overspender
+20,Female,3,Engineering,Tier 2,Hostel,5500,0,Own Bike,0,2,5,2,1.2,No,No,8,3120,Saver
+18,Male,1,Engineering,Tier 1,Hostel,11300,0,Public Transport,2,3,2,3,2.5,No,No,11,10210,Balanced
+18,Female,1,Science,Tier 3,Hostel,2200,0,Walk / Cycle,2,2,4,0,5.7,No,No,19,4600,Overspender
+23,Male,4,Engineering,Tier 3,With Family,3700,9000,Public Transport,2,2,3,5,0.8,No,Yes,12,7740,Saver
+18,Female,1,Management,Tier 1,Hostel,9200,0,Own Bike,0,1,2,2,5.2,No,No,13,8570,Balanced
+22,Female,4,Management,Tier 1,Hostel,9400,0,Public Transport,4,2,1,3,0.9,No,No,11,8000,Balanced
+20,Female,3,Engineering,Tier 1,PG / Rented,10500,1500,Public Transport,7,5,7,3,1.9,No,Yes,7,19660,Overspender
+23,Female,4,Arts,Tier 3,PG / Rented,4800,0,Own Bike,0,3,4,5,6.0,No,No,9,7390,Overspender
+18,Male,1,Engineering,Tier 2,Hostel,3500,0,Walk / Cycle,4,6,2,5,4.1,No,No,16,6990,Overspender
+24,Male,4,Science,Tier 1,With Family,8100,0,Own Bike,1,2,0,0,1.3,No,No,17,6210,Saver
+22,Female,4,Engineering,Tier 3,Hostel,5200,0,Public Transport,5,2,2,4,3.3,No,No,15,6270,Overspender
+21,Female,3,Medical,Tier 1,Hostel,5800,0,Walk / Cycle,3,1,2,0,1.8,No,No,13,7340,Overspender
+19,Male,1,Engineering,Tier 2,Hostel,8200,0,Cab / Auto,3,2,1,0,1.9,Yes,No,12,7810,Balanced
+24,Male,4,Science,Tier 1,PG / Rented,11800,5900,Public Transport,6,2,4,3,2.2,Yes,No,13,15950,Balanced
+20,Male,3,Engineering,Tier 2,With Family,4600,6000,Public Transport,2,2,1,2,3.7,Yes,No,16,6050,Saver
+21,Male,4,Engineering,Tier 2,PG / Rented,3800,0,Walk / Cycle,4,3,4,2,2.8,No,No,10,8880,Overspender
+20,Male,3,Commerce,Tier 1,With Family,10300,6600,Cab / Auto,3,3,3,0,2.3,No,No,9,14700,Balanced
+19,Male,2,Arts,Tier 2,Hostel,4600,0,Own Bike,2,2,1,3,2.3,Yes,Yes,8,7290,Overspender
+20,Female,2,Medical,Tier 3,With Family,4300,0,Walk / Cycle,4,3,5,3,3.0,Yes,Yes,11,4420,Balanced
+19,Male,2,Engineering,Tier 2,With Family,3900,0,Public Transport,2,2,1,0,2.7,No,No,7,5630,Overspender
+18,Male,1,Engineering,Tier 3,PG / Rented,6300,7600,Walk / Cycle,2,2,3,2,1.7,Yes,No,14,9040,Saver
+20,Male,2,Commerce,Tier 2,With Family,9400,0,Own Bike,3,1,3,0,3.1,No,No,9,9800,Balanced
+18,Male,1,Commerce,Tier 2,PG / Rented,12700,0,Public Transport,3,2,2,5,3.5,Yes,No,17,9660,Saver
+20,Female,2,Management,Tier 1,With Family,12600,0,Walk / Cycle,1,4,2,4,3.2,No,No,16,8420,Saver
+24,Male,4,Medical,Tier 3,Hostel,7000,0,Public Transport,0,1,2,2,4.7,No,No,21,5820,Balanced
+19,Female,2,Management,Tier 1,PG / Rented,16100,0,Cab / Auto,3,3,1,0,1.6,No,No,15,14170,Balanced
+18,Female,1,Engineering,Tier 1,PG / Rented,6100,0,Public Transport,4,1,2,5,1.5,No,No,18,9430,Overspender
+18,Male,1,Commerce,Tier 1,With Family,6600,0,Walk / Cycle,4,5,2,2,6.3,No,No,11,9290,Overspender
+21,Female,3,Science,Tier 1,With Family,6800,0,Cab / Auto,3,2,4,3,1.3,No,No,12,9470,Overspender
+19,Female,1,Engineering,Tier 3,PG / Rented,13000,0,Walk / Cycle,3,1,2,4,2.1,No,No,10,9070,Saver
+21,Male,4,Science,Tier 3,With Family,3300,0,Public Transport,4,2,2,2,0.4,Yes,No,11,5480,Overspender
+18,Male,1,Engineering,Tier 2,With Family,6300,0,Public Transport,0,3,2,5,0.9,No,No,14,4110,Saver
+20,Female,2,Commerce,Tier 1,PG / Rented,14900,0,Walk / Cycle,4,2,5,1,1.9,Yes,No,12,12820,Balanced
+20,Female,3,Management,Tier 3,Hostel,10100,5500,Walk / Cycle,1,4,5,2,1.8,No,No,19,13040,Balanced
+21,Female,4,Engineering,Tier 2,Hostel,7500,0,Walk / Cycle,3,4,0,1,2.2,No,No,8,7160,Balanced
+21,Female,4,Medical,Tier 1,Hostel,15700,0,Walk / Cycle,2,1,2,2,7.3,No,No,14,10670,Saver
+23,Male,4,Engineering,Tier 2,Hostel,3700,0,Public Transport,1,0,2,4,0.5,Yes,No,9,4400,Overspender
+21,Female,4,Engineering,Tier 2,With Family,2700,0,Own Bike,0,1,3,2,2.5,Yes,Yes,9,4220,Overspender
+23,Male,4,Engineering,Tier 1,Hostel,3900,5400,Walk / Cycle,0,1,0,5,2.3,No,No,12,6870,Saver
+21,Male,4,Engineering,Tier 2,With Family,8000,5100,Own Bike,2,1,2,5,8.0,No,No,11,10880,Balanced
+19,Female,1,Arts,Tier 2,PG / Rented,13500,0,Public Transport,2,2,1,1,4.5,No,Yes,14,10450,Saver
+19,Female,2,Engineering,Tier 1,PG / Rented,20200,10400,Walk / Cycle,6,5,4,4,1.8,No,No,6,24230,Saver
+20,Female,3,Science,Tier 2,Hostel,5900,0,Public Transport,0,2,2,2,6.2,Yes,No,8,4560,Saver
+22,Male,4,Management,Tier 2,PG / Rented,7800,0,Public Transport,1,1,3,2,1.7,No,No,17,7530,Balanced
+19,Male,1,Commerce,Tier 2,PG / Rented,9500,0,Own Bike,1,4,2,1,4.7,Yes,No,8,8620,Balanced
+24,Female,4,Engineering,Tier 3,PG / Rented,14400,0,Public Transport,2,1,5,0,6.8,No,No,14,10740,Saver
+21,Female,4,Commerce,Tier 3,Hostel,12900,0,Own Bike,1,6,2,2,2.8,No,No,15,9520,Saver
+24,Female,4,Management,Tier 2,With Family,8000,0,Cab / Auto,2,4,0,4,1.1,No,No,13,7790,Balanced
+22,Female,4,Arts,Tier 2,Hostel,9300,0,Walk / Cycle,3,2,2,5,0.5,No,No,10,6740,Saver
+20,Male,2,Engineering,Tier 2,PG / Rented,18200,6600,Cab / Auto,2,2,2,2,2.8,Yes,Yes,12,16250,Saver
+19,Male,1,Arts,Tier 2,PG / Rented,8900,10300,Walk / Cycle,3,1,2,0,4.6,Yes,No,10,12230,Saver
+23,Male,4,Commerce,Tier 1,Hostel,9100,0,Walk / Cycle,2,2,0,2,10.0,Yes,No,12,7400,Balanced
+20,Male,2,Commerce,Tier 2,With Family,5300,0,Walk / Cycle,3,1,1,1,5.7,No,No,18,5040,Balanced
+19,Male,1,Engineering,Tier 2,Hostel,5200,0,Own Bike,3,2,1,5,2.6,Yes,No,9,6910,Overspender
+24,Female,4,Medical,Tier 2,With Family,5200,0,Own Bike,4,2,1,4,1.0,No,No,9,6920,Overspender
+21,Male,3,Engineering,Tier 3,With Family,2500,0,Cab / Auto,0,0,1,5,2.3,No,No,12,2850,Overspender
+18,Male,1,Engineering,Tier 2,PG / Rented,15900,0,Own Bike,1,4,0,1,7.2,No,No,9,12440,Saver
+21,Female,3,Engineering,Tier 1,Hostel,13800,0,Public Transport,1,4,2,2,9.0,No,No,11,12430,Balanced
+21,Male,3,Arts,Tier 1,Hostel,20500,0,Cab / Auto,5,2,0,0,1.6,No,No,12,16520,Balanced
+24,Male,4,Commerce,Tier 1,With Family,3600,0,Cab / Auto,4,3,4,0,2.1,No,No,18,8290,Overspender
+22,Female,4,Engineering,Tier 1,PG / Rented,31800,3100,Own Bike,2,1,4,2,6.4,No,Yes,9,23870,Saver
+19,Male,1,Commerce,Tier 2,Hostel,3900,0,Public Transport,2,5,2,2,6.2,No,No,17,5370,Overspender
+19,Female,1,Science,Tier 1,PG / Rented,7900,0,Own Bike,3,5,1,4,1.7,No,No,8,10680,Overspender
+22,Female,4,Engineering,Tier 1,Hostel,8200,0,Walk / Cycle,5,4,2,1,4.2,Yes,No,4,7620,Balanced
+18,Male,1,Medical,Tier 1,PG / Rented,24300,0,Cab / Auto,6,2,1,5,1.8,No,No,15,21220,Balanced
+20,Female,2,Engineering,Tier 3,PG / Rented,8300,0,Cab / Auto,2,5,2,4,5.4,No,No,11,9020,Overspender
+18,Female,1,Engineering,Tier 2,Hostel,7200,0,Own Bike,3,1,1,5,2.6,No,No,14,7150,Balanced
+18,Female,1,Medical,Tier 1,With Family,5300,0,Walk / Cycle,6,5,4,1,2.0,No,No,10,8850,Overspender
+24,Female,4,Management,Tier 1,Hostel,5800,0,Walk / Cycle,3,1,3,3,4.4,No,No,18,6650,Overspender
+18,Female,1,Commerce,Tier 1,PG / Rented,22500,0,Cab / Auto,3,0,3,3,2.7,No,No,10,18440,Balanced
+18,Female,1,Management,Tier 1,PG / Rented,19300,0,Own Bike,3,4,3,4,4.4,No,Yes,13,19280,Balanced
+24,Female,4,Arts,Tier 1,With Family,13900,0,Own Bike,5,8,2,5,1.1,No,No,13,14390,Balanced
+19,Male,2,Commerce,Tier 1,PG / Rented,16100,0,Cab / Auto,1,3,2,3,1.3,No,No,11,11920,Saver
+23,Female,4,Management,Tier 1,With Family,2300,0,Public Transport,4,3,2,5,2.4,No,No,12,7330,Overspender
+18,Female,1,Science,Tier 3,PG / Rented,4300,0,Cab / Auto,6,2,0,2,1.5,No,No,11,7270,Overspender
+19,Female,1,Engineering,Tier 2,With Family,6900,0,Walk / Cycle,2,3,0,1,1.9,No,No,15,5990,Balanced
+18,Male,1,Arts,Tier 3,Hostel,5100,0,Walk / Cycle,1,4,2,1,2.5,Yes,No,14,2320,Saver
+22,Male,4,Commerce,Tier 1,With Family,5900,0,Public Transport,3,6,0,2,1.6,Yes,No,7,6720,Overspender
+22,Male,4,Engineering,Tier 1,Hostel,6600,0,Public Transport,6,3,3,1,7.0,No,No,11,10580,Overspender
+21,Male,4,Medical,Tier 3,With Family,6400,9100,Public Transport,4,3,2,1,1.4,No,No,15,10100,Saver
+19,Male,2,Arts,Tier 1,With Family,9300,0,Own Bike,4,0,2,2,2.4,No,Yes,14,10130,Overspender
+18,Male,1,Arts,Tier 2,PG / Rented,12500,0,Walk / Cycle,2,3,2,1,2.4,No,No,14,9880,Saver
+21,Male,4,Arts,Tier 3,PG / Rented,5600,4900,Own Bike,1,1,1,5,2.8,No,No,9,7230,Saver
+19,Female,1,Arts,Tier 2,PG / Rented,10800,0,Walk / Cycle,1,7,0,1,2.0,No,Yes,8,8770,Balanced
+22,Male,4,Engineering,Tier 1,Hostel,5900,0,Own Bike,1,3,1,3,4.7,No,No,17,7010,Overspender
+22,Female,4,Medical,Tier 2,With Family,5300,0,Walk / Cycle,1,2,3,4,4.9,No,No,12,6100,Overspender
+23,Male,4,Science,Tier 1,With Family,2400,0,Own Bike,3,2,5,5,1.6,No,No,8,6800,Overspender
+21,Male,3,Science,Tier 1,PG / Rented,6700,0,Public Transport,4,4,3,4,5.2,No,No,14,11540,Overspender
+18,Male,1,Commerce,Tier 1,Hostel,9300,0,Public Transport,4,3,1,1,1.6,Yes,Yes,11,9500,Balanced
+19,Female,1,Engineering,Tier 3,With Family,12200,0,Public Transport,3,1,2,3,2.4,No,No,8,10520,Balanced
+23,Male,4,Engineering,Tier 2,Hostel,3600,9500,Walk / Cycle,2,3,3,0,2.6,No,No,15,10020,Saver
+21,Female,3,Commerce,Tier 1,PG / Rented,7700,0,Public Transport,3,3,2,1,1.5,No,No,10,10770,Overspender
+22,Female,4,Engineering,Tier 1,Hostel,11900,3100,Walk / Cycle,2,3,0,5,0.7,No,No,7,9460,Saver
+21,Male,4,Science,Tier 2,Hostel,17700,5800,Walk / Cycle,3,3,4,0,2.8,Yes,No,11,14500,Saver
+19,Female,1,Management,Tier 3,Hostel,6600,0,Own Bike,4,0,1,1,1.0,Yes,No,17,4860,Saver
+24,Male,4,Engineering,Tier 1,PG / Rented,18500,3100,Walk / Cycle,7,1,1,0,6.7,No,No,12,20150,Balanced
+23,Male,4,Commerce,Tier 1,PG / Rented,11600,0,Walk / Cycle,4,7,3,3,1.8,No,No,8,13290,Overspender
+24,Male,4,Science,Tier 3,PG / Rented,6000,0,Public Transport,1,6,0,4,4.3,Yes,Yes,12,6130,Balanced
+23,Male,4,Engineering,Tier 3,With Family,4400,0,Public Transport,1,3,1,0,4.1,No,No,12,3240,Saver
+20,Female,3,Medical,Tier 3,With Family,3100,0,Public Transport,1,0,2,0,1.5,Yes,No,11,2860,Balanced
+19,Female,1,Commerce,Tier 1,Hostel,15000,0,Own Bike,6,4,2,5,1.8,No,No,13,15460,Balanced
+19,Female,1,Engineering,Tier 1,Hostel,5200,0,Public Transport,4,4,0,1,1.8,Yes,No,12,6890,Overspender
+24,Male,4,Engineering,Tier 2,PG / Rented,14900,0,Public Transport,2,0,1,0,3.1,No,Yes,10,11430,Saver
+21,Female,3,Medical,Tier 1,With Family,7700,0,Public Transport,3,3,2,0,10.0,Yes,No,8,8040,Balanced
+21,Male,4,Engineering,Tier 3,PG / Rented,6800,5200,Public Transport,2,5,1,5,3.0,No,Yes,8,9260,Saver
+24,Male,4,Science,Tier 1,Hostel,5200,5200,Own Bike,4,4,2,5,1.7,No,No,11,12350,Overspender
+22,Male,4,Engineering,Tier 2,With Family,3600,0,Public Transport,2,4,0,0,3.2,Yes,No,15,3950,Overspender
+24,Female,4,Engineering,Tier 3,Hostel,10300,5100,Own Bike,3,3,2,1,1.0,Yes,Yes,8,9950,Saver
+24,Other,4,Management,Tier 3,PG / Rented,6800,0,Public Transport,2,1,6,1,1.4,Yes,No,15,7530,Overspender
+18,Male,1,Engineering,Tier 2,Hostel,9100,0,Own Bike,1,7,2,2,6.7,Yes,Yes,15,8660,Balanced
+20,Female,3,Engineering,Tier 3,With Family,2800,0,Public Transport,1,2,3,4,2.1,No,No,17,1000,Saver
+23,Female,4,Arts,Tier 1,PG / Rented,13300,0,Cab / Auto,2,4,2,4,1.3,No,No,14,14920,Overspender
+23,Female,4,Management,Tier 1,With Family,4100,0,Public Transport,4,3,2,2,0.9,No,No,15,7690,Overspender
+19,Female,2,Commerce,Tier 1,Hostel,11300,5000,Public Transport,1,2,4,4,2.5,No,No,13,10030,Saver
+20,Female,2,Engineering,Tier 3,PG / Rented,8900,0,Cab / Auto,2,2,1,1,1.0,No,No,4,7460,Balanced
+21,Female,4,Medical,Tier 3,Hostel,6900,0,Own Bike,2,6,1,5,5.4,Yes,No,17,7920,Overspender
+23,Female,4,Science,Tier 1,With Family,5000,0,Public Transport,4,3,3,3,4.1,No,Yes,13,9650,Overspender
+18,Male,1,Management,Tier 1,Hostel,9300,0,Public Transport,4,4,3,5,1.7,No,No,14,10740,Overspender
+22,Female,4,Science,Tier 1,Hostel,13800,0,Walk / Cycle,2,4,1,1,7.7,Yes,No,13,10740,Saver
+20,Male,2,Science,Tier 1,With Family,6900,0,Own Bike,3,5,3,5,1.8,Yes,Yes,13,9200,Overspender
+19,Female,1,Commerce,Tier 3,Hostel,5300,0,Public Transport,2,1,3,1,2.1,Yes,No,11,4290,Balanced
+21,Male,4,Commerce,Tier 1,Hostel,25400,0,Walk / Cycle,4,3,4,4,1.4,No,No,6,17450,Saver
+20,Male,2,Science,Tier 3,With Family,2700,5600,Walk / Cycle,0,3,1,0,3.9,No,No,15,6130,Saver
+22,Male,4,Science,Tier 2,With Family,9100,0,Cab / Auto,3,4,1,1,1.0,No,No,15,8740,Balanced
+20,Male,2,Medical,Tier 1,With Family,4500,0,Public Transport,6,4,3,3,1.7,Yes,No,10,8110,Overspender
+23,Male,4,Arts,Tier 1,Hostel,14500,7400,Public Transport,4,4,1,3,1.5,Yes,No,7,14250,Saver
+18,Male,1,Engineering,Tier 3,PG / Rented,10300,0,Cab / Auto,1,2,2,0,3.0,No,No,11,9900,Balanced
+24,Male,4,Commerce,Tier 2,With Family,4500,0,Public Transport,1,2,2,0,0.8,No,Yes,10,3880,Balanced
+18,Male,1,Arts,Tier 2,Hostel,4600,0,Own Bike,1,8,1,5,2.3,Yes,No,18,7450,Overspender
+23,Female,4,Commerce,Tier 1,With Family,3100,3100,Own Bike,2,2,1,1,5.4,Yes,Yes,15,5900,Balanced
+20,Female,3,Management,Tier 3,Hostel,4500,0,Public Transport,1,1,3,4,0.9,Yes,No,9,4060,Balanced
+20,Female,3,Arts,Tier 3,With Family,5300,0,Own Bike,3,3,4,1,4.0,No,No,13,6510,Overspender
+18,Male,1,Engineering,Tier 3,PG / Rented,4600,0,Cab / Auto,0,2,1,1,4.6,No,No,9,6340,Overspender
+22,Male,4,Arts,Tier 2,PG / Rented,10400,6900,Walk / Cycle,3,2,1,0,2.2,Yes,No,13,11650,Saver
+19,Female,2,Science,Tier 3,PG / Rented,3900,0,Walk / Cycle,1,5,2,3,0.3,No,Yes,9,5440,Overspender
+22,Male,4,Medical,Tier 1,Hostel,9700,0,Own Bike,3,1,1,3,3.9,No,Yes,18,10670,Overspender
+23,Male,4,Commerce,Tier 2,Hostel,4800,0,Public Transport,1,3,3,3,5.3,Yes,No,13,7190,Overspender
+23,Female,4,Arts,Tier 2,With Family,5400,5800,Public Transport,2,1,4,4,7.3,Yes,No,15,8670,Saver
+22,Female,4,Commerce,Tier 2,PG / Rented,8000,0,Walk / Cycle,6,0,3,3,2.7,No,No,11,9110,Overspender
+20,Male,2,Arts,Tier 3,PG / Rented,4400,0,Own Bike,2,2,1,1,0.5,Yes,No,13,5010,Overspender
+23,Female,4,Engineering,Tier 3,Hostel,4500,2500,Own Bike,1,2,2,2,3.9,Yes,No,6,4980,Saver
+23,Male,4,Management,Tier 2,With Family,3700,1500,Cab / Auto,2,3,0,0,0.6,No,No,12,3640,Saver
+20,Female,2,Medical,Tier 2,PG / Rented,5500,0,Public Transport,3,4,2,3,3.5,No,No,7,7800,Overspender
+18,Male,1,Arts,Tier 3,Hostel,9800,0,Cab / Auto,2,3,2,2,4.3,No,No,14,10350,Overspender
+24,Male,4,Arts,Tier 3,With Family,3600,5100,Public Transport,2,2,3,1,5.5,Yes,No,7,5760,Saver
+19,Female,2,Engineering,Tier 2,PG / Rented,3700,0,Own Bike,0,4,1,5,1.8,No,No,10,5890,Overspender
+22,Male,4,Arts,Tier 1,PG / Rented,10200,0,Own Bike,2,3,1,2,1.2,No,No,15,11510,Overspender
+19,Female,1,Commerce,Tier 1,With Family,11400,0,Public Transport,4,2,1,0,2.7,Yes,No,8,9340,Balanced
+18,Male,1,Science,Tier 3,PG / Rented,5300,0,Public Transport,2,5,2,0,0.8,Yes,No,9,4790,Balanced
+23,Female,4,Engineering,Tier 2,With Family,11000,0,Walk / Cycle,1,1,5,1,1.9,No,Yes,12,10170,Balanced
+19,Female,1,Science,Tier 2,With Family,3800,0,Public Transport,3,2,0,5,1.5,Yes,No,9,4390,Overspender
+22,Male,4,Engineering,Tier 2,PG / Rented,12500,0,Own Bike,4,3,4,0,4.9,No,No,12,13900,Overspender
+22,Female,4,Science,Tier 2,Hostel,12800,0,Walk / Cycle,2,3,2,2,6.4,Yes,No,6,8780,Saver
+18,Male,1,Science,Tier 2,Hostel,9800,0,Own Bike,3,1,1,2,3.7,No,Yes,10,7500,Saver
+19,Male,2,Engineering,Tier 3,PG / Rented,4000,0,Public Transport,2,2,4,3,4.5,Yes,No,14,5920,Overspender
+23,Male,4,Commerce,Tier 1,Hostel,7100,0,Public Transport,3,6,0,3,2.7,Yes,No,13,6870,Balanced
+21,Female,4,Management,Tier 2,Hostel,13500,0,Own Bike,2,7,0,2,2.6,Yes,No,11,10720,Saver
+18,Female,1,Arts,Tier 2,PG / Rented,7000,0,Walk / Cycle,1,2,0,4,0.7,Yes,No,6,4870,Saver
+24,Female,4,Engineering,Tier 3,With Family,6500,0,Cab / Auto,0,1,0,0,3.2,No,No,12,4790,Saver
+19,Female,2,Commerce,Tier 1,Hostel,8900,0,Cab / Auto,4,5,1,2,4.3,No,No,17,11840,Overspender
+18,Female,1,Engineering,Tier 2,With Family,6000,0,Public Transport,3,2,2,0,2.1,No,No,9,6520,Overspender
+24,Male,4,Science,Tier 1,With Family,4100,3300,Public Transport,1,4,3,1,2.1,No,No,16,6320,Balanced
+18,Female,1,Arts,Tier 1,With Family,5700,0,Walk / Cycle,2,5,3,1,0.4,No,No,13,5240,Balanced
+21,Female,4,Engineering,Tier 2,With Family,3800,0,Own Bike,1,2,3,5,2.2,No,No,20,4150,Overspender
+24,Male,4,Arts,Tier 1,With Family,8400,0,Walk / Cycle,6,2,1,4,4.9,Yes,No,7,8170,Balanced
+22,Female,4,Science,Tier 3,Hostel,6300,0,Cab / Auto,0,4,3,1,3.1,No,No,12,6550,Balanced
+22,Male,4,Science,Tier 3,PG / Rented,9200,0,Cab / Auto,1,4,4,3,2.4,No,No,14,9450,Balanced
+20,Male,3,Engineering,Tier 1,With Family,6100,0,Walk / Cycle,4,3,2,4,1.0,Yes,No,8,6360,Balanced
+18,Male,1,Engineering,Tier 3,With Family,2800,3800,Own Bike,3,3,0,1,1.7,No,No,17,4440,Saver
+22,Male,4,Commerce,Tier 2,With Family,6100,6700,Public Transport,1,3,5,3,1.5,No,No,12,8280,Saver
+24,Male,4,Engineering,Tier 2,With Family,3500,3100,Public Transport,1,5,2,2,1.1,Yes,No,15,3970,Saver
+18,Female,1,Commerce,Tier 3,Hostel,9700,12500,Walk / Cycle,2,3,1,5,3.1,No,No,8,13130,Saver
+24,Female,4,Engineering,Tier 2,Hostel,7600,0,Own Bike,3,3,0,2,1.8,No,No,10,6650,Balanced
+20,Female,2,Engineering,Tier 1,PG / Rented,11700,0,Walk / Cycle,5,6,1,4,4.6,No,No,15,14020,Overspender
+21,Male,3,Science,Tier 1,Hostel,13300,5300,Cab / Auto,2,2,1,3,2.4,Yes,No,11,12620,Saver
+19,Male,1,Engineering,Tier 2,PG / Rented,9700,0,Public Transport,5,1,4,1,7.9,Yes,Yes,16,11740,Overspender
+22,Male,4,Science,Tier 3,With Family,2000,0,Own Bike,2,4,5,2,1.7,Yes,Yes,13,6140,Overspender
+19,Female,2,Engineering,Tier 2,PG / Rented,6200,0,Cab / Auto,3,2,4,5,5.3,No,No,10,8520,Overspender
+19,Male,2,Arts,Tier 1,Hostel,17400,0,Own Bike,6,4,2,5,6.1,Yes,No,10,15080,Balanced
+23,Female,4,Commerce,Tier 1,With Family,7900,4600,Public Transport,3,3,4,1,1.6,No,No,12,10360,Balanced
+18,Female,1,Management,Tier 3,Hostel,2800,0,Public Transport,1,0,1,2,2.3,Yes,Yes,13,3150,Overspender
+21,Female,3,Management,Tier 1,With Family,8900,3100,Public Transport,3,3,2,0,1.9,Yes,No,9,8280,Saver
+22,Female,4,Commerce,Tier 2,Hostel,6200,8300,Public Transport,1,1,2,2,1.6,No,No,8,9360,Saver
+18,Male,1,Science,Tier 2,With Family,3800,0,Cab / Auto,1,1,1,5,3.8,No,No,14,5510,Overspender
+20,Female,3,Engineering,Tier 1,PG / Rented,8100,0,Public Transport,4,4,2,4,4.1,No,No,11,10560,Overspender
+20,Female,3,Arts,Tier 1,PG / Rented,21200,8900,Public Transport,3,0,5,2,1.5,No,Yes,11,21360,Saver
+22,Female,4,Engineering,Tier 1,PG / Rented,5600,0,Own Bike,0,1,0,4,1.4,No,No,9,8440,Overspender
+24,Female,4,Commerce,Tier 1,Hostel,7400,7600,Public Transport,1,1,3,3,2.4,Yes,No,7,9500,Saver
+23,Female,4,Engineering,Tier 2,PG / Rented,10600,4300,Cab / Auto,6,3,3,2,2.4,Yes,No,13,14410,Balanced
+19,Other,1,Management,Tier 3,With Family,8500,0,Walk / Cycle,4,2,5,0,0.7,Yes,No,9,7280,Balanced
+18,Male,1,Commerce,Tier 1,With Family,9700,0,Walk / Cycle,3,4,2,0,3.8,No,Yes,7,9450,Balanced
+18,Female,1,Arts,Tier 2,Hostel,5500,5400,Own Bike,2,4,0,3,0.6,Yes,No,13,7380,Saver
+22,Female,4,Commerce,Tier 1,With Family,15000,0,Public Transport,4,4,2,0,1.3,No,Yes,12,12590,Balanced
+19,Male,1,Engineering,Tier 1,With Family,4100,0,Cab / Auto,3,1,2,0,2.8,Yes,No,6,4790,Overspender
+19,Female,1,Engineering,Tier 2,With Family,6300,0,Public Transport,2,0,1,1,3.8,No,No,8,6150,Balanced
+23,Male,4,Medical,Tier 3,PG / Rented,9300,4800,Walk / Cycle,4,1,3,3,1.3,No,No,7,10020,Saver
+24,Female,4,Management,Tier 2,Hostel,5400,0,Public Transport,3,9,2,4,2.2,No,No,9,9500,Overspender
+23,Male,4,Engineering,Tier 1,With Family,10300,0,Public Transport,3,3,4,5,1.8,No,No,10,10800,Balanced
+19,Male,2,Science,Tier 2,PG / Rented,7900,5000,Public Transport,5,1,2,3,0.2,No,No,10,11890,Balanced
+22,Female,4,Commerce,Tier 2,PG / Rented,13700,4400,Public Transport,3,3,3,5,1.8,No,No,7,13280,Saver
+22,Male,4,Engineering,Tier 3,With Family,2000,0,Public Transport,3,1,1,1,1.1,No,No,13,3850,Overspender
+19,Male,1,Arts,Tier 2,Hostel,9300,0,Cab / Auto,1,1,1,3,2.4,Yes,No,4,7090,Saver
+21,Male,4,Engineering,Tier 3,With Family,3500,0,Public Transport,0,1,2,0,0.9,No,No,19,3130,Balanced
+21,Male,4,Engineering,Tier 1,Hostel,18100,0,Own Bike,4,2,0,0,1.7,No,No,13,12660,Saver
+20,Female,2,Science,Tier 2,With Family,5500,6800,Walk / Cycle,1,0,1,3,2.2,No,No,14,6180,Saver
+23,Female,4,Engineering,Tier 2,With Family,9800,0,Own Bike,2,0,0,1,2.5,Yes,No,12,6290,Saver
+22,Male,4,Management,Tier 1,With Family,9500,9000,Public Transport,3,2,1,3,2.0,No,No,7,12050,Saver
+21,Female,3,Science,Tier 2,With Family,5300,0,Public Transport,0,6,3,5,5.2,No,No,10,4700,Balanced
+23,Male,4,Management,Tier 2,With Family,8000,7300,Public Transport,3,2,1,4,2.9,No,No,11,10670,Saver
+23,Female,4,Arts,Tier 3,Hostel,8600,0,Walk / Cycle,2,2,2,2,3.6,Yes,No,12,8260,Balanced
+21,Male,3,Management,Tier 1,With Family,9300,0,Public Transport,1,3,2,4,2.2,Yes,No,16,5920,Saver
+19,Male,2,Commerce,Tier 3,With Family,2000,0,Walk / Cycle,0,2,2,5,0.2,Yes,No,12,2180,Overspender
+23,Male,4,Arts,Tier 2,PG / Rented,6400,0,Cab / Auto,0,1,2,1,0.9,No,No,11,8910,Overspender
+23,Female,4,Arts,Tier 2,PG / Rented,18600,0,Public Transport,3,2,3,3,0.7,No,Yes,12,13950,Saver
+24,Male,4,Medical,Tier 2,Hostel,4500,0,Cab / Auto,0,3,2,4,2.0,Yes,No,15,5480,Overspender
+19,Male,2,Engineering,Tier 1,PG / Rented,20100,0,Public Transport,3,5,1,3,5.9,No,No,12,16800,Balanced
+20,Female,3,Arts,Tier 3,With Family,5800,0,Walk / Cycle,0,2,3,2,2.8,No,No,14,5540,Balanced
+24,Female,4,Science,Tier 3,PG / Rented,5400,4700,Public Transport,2,1,3,2,4.4,No,No,10,10320,Balanced
+21,Male,3,Commerce,Tier 3,PG / Rented,3100,0,Walk / Cycle,1,1,5,3,1.2,No,No,9,4290,Overspender
+24,Female,4,Management,Tier 3,PG / Rented,5800,0,Own Bike,4,7,1,2,2.5,No,No,13,8120,Overspender
+18,Female,1,Commerce,Tier 2,Hostel,20400,0,Walk / Cycle,4,3,3,2,5.2,No,No,17,13550,Saver
+18,Male,1,Engineering,Tier 2,With Family,3800,0,Own Bike,6,6,2,5,4.5,No,No,12,8100,Overspender
+23,Female,4,Arts,Tier 3,Hostel,4200,0,Walk / Cycle,1,1,1,4,1.5,Yes,No,13,3760,Balanced
+20,Male,3,Commerce,Tier 1,Hostel,6900,0,Public Transport,4,1,1,3,2.2,Yes,No,12,7290,Overspender
+21,Female,4,Engineering,Tier 3,Hostel,10400,0,Walk / Cycle,1,2,1,1,4.7,No,No,13,5860,Saver
+20,Male,2,Engineering,Tier 2,With Family,5000,0,Own Bike,0,1,2,3,1.4,No,No,11,3660,Saver
+20,Female,3,Engineering,Tier 2,With Family,4200,0,Public Transport,2,0,1,1,2.1,No,No,15,6120,Overspender
+24,Male,4,Science,Tier 1,Hostel,20400,0,Cab / Auto,2,3,0,0,0.4,No,No,7,12440,Saver
+18,Male,1,Management,Tier 1,Hostel,14000,0,Public Transport,2,2,0,1,4.2,No,Yes,16,11980,Balanced
+23,Female,4,Arts,Tier 1,PG / Rented,8900,0,Walk / Cycle,9,2,2,0,4.0,No,No,8,13270,Overspender
+24,Male,4,Engineering,Tier 2,Hostel,4600,0,Own Bike,7,3,3,4,0.5,Yes,No,13,8090,Overspender
+22,Female,4,Arts,Tier 2,With Family,9400,0,Public Transport,1,5,0,3,2.1,No,No,13,8490,Balanced
+20,Other,3,Management,Tier 1,Hostel,10900,0,Own Bike,2,1,3,4,4.9,No,No,16,10830,Balanced
+19,Female,2,Science,Tier 1,PG / Rented,6700,0,Public Transport,5,3,5,5,1.0,No,No,16,11500,Overspender
+22,Male,4,Engineering,Tier 2,PG / Rented,4500,0,Own Bike,4,5,1,1,3.0,No,No,11,7990,Overspender
+21,Female,4,Engineering,Tier 1,PG / Rented,8200,0,Walk / Cycle,4,3,3,1,1.7,Yes,No,11,10670,Overspender
+19,Male,1,Medical,Tier 3,PG / Rented,4300,0,Cab / Auto,1,7,3,0,4.9,No,No,6,8500,Overspender
+20,Male,2,Management,Tier 1,Hostel,4300,0,Walk / Cycle,4,3,1,0,0.4,Yes,Yes,13,7040,Overspender
+24,Female,4,Engineering,Tier 2,Hostel,4900,0,Own Bike,1,0,0,0,0.4,Yes,Yes,15,4350,Balanced
+19,Female,2,Management,Tier 1,Hostel,7100,0,Walk / Cycle,4,1,1,3,1.4,No,No,11,9530,Overspender
+19,Female,1,Engineering,Tier 2,Hostel,6500,0,Own Bike,1,3,2,4,2.5,Yes,No,19,7920,Overspender
+22,Male,4,Engineering,Tier 2,With Family,12000,0,Own Bike,3,1,1,1,2.5,No,No,9,9280,Saver
+19,Female,1,Science,Tier 2,Hostel,7100,10900,Own Bike,4,3,2,3,0.5,No,No,16,12500,Saver
+24,Female,4,Arts,Tier 2,Hostel,7400,0,Public Transport,7,2,0,1,3.3,No,Yes,15,7130,Balanced
+24,Male,4,Commerce,Tier 2,Hostel,10100,0,Public Transport,4,3,2,4,3.8,Yes,No,20,7800,Saver
+24,Female,4,Medical,Tier 1,With Family,6800,0,Own Bike,5,0,3,4,2.5,Yes,No,16,6340,Balanced
+24,Male,4,Management,Tier 2,With Family,6700,0,Public Transport,4,1,2,4,4.9,No,No,8,6830,Balanced
+19,Male,1,Engineering,Tier 1,With Family,8600,0,Own Bike,4,1,4,3,3.5,No,No,15,10270,Overspender
+19,Female,2,Arts,Tier 2,PG / Rented,10600,0,Walk / Cycle,3,1,3,5,1.7,No,Yes,11,13340,Overspender
+20,Other,2,Science,Tier 2,With Family,19400,0,Public Transport,3,1,1,0,6.0,No,No,7,12680,Saver
+21,Male,3,Arts,Tier 2,PG / Rented,15100,0,Public Transport,2,5,1,2,6.6,Yes,No,8,10640,Saver
+24,Male,4,Medical,Tier 2,With Family,3400,9700,Own Bike,2,5,1,0,3.1,No,No,11,9820,Saver
+23,Male,4,Science,Tier 1,With Family,8900,0,Walk / Cycle,2,2,3,4,1.2,No,Yes,19,9790,Overspender
+22,Female,4,Engineering,Tier 1,Hostel,7600,0,Public Transport,3,2,2,0,4.8,No,No,8,7380,Balanced
+24,Male,4,Engineering,Tier 1,PG / Rented,16500,0,Own Bike,3,5,1,2,0.8,Yes,No,12,12860,Saver
+22,Male,4,Management,Tier 2,Hostel,4300,0,Public Transport,3,1,8,1,1.3,No,No,10,8230,Overspender
+20,Other,3,Medical,Tier 3,Hostel,3600,0,Cab / Auto,2,1,1,4,4.4,No,No,14,7340,Overspender
+20,Male,2,Engineering,Tier 2,With Family,6500,0,Walk / Cycle,2,4,3,2,1.1,No,No,15,5910,Balanced
+21,Female,3,Engineering,Tier 2,Hostel,12500,0,Public Transport,3,3,3,3,5.6,No,No,8,9230,Saver
+18,Male,1,Science,Tier 1,With Family,9500,0,Public Transport,3,3,4,5,1.2,No,Yes,13,9940,Balanced
+23,Female,4,Engineering,Tier 3,With Family,6200,0,Public Transport,1,3,2,5,2.0,No,No,11,5880,Balanced
+22,Male,4,Engineering,Tier 1,PG / Rented,16000,0,Own Bike,5,10,2,2,1.8,Yes,No,9,15690,Balanced
+23,Male,4,Management,Tier 1,PG / Rented,14600,0,Walk / Cycle,0,3,3,2,3.8,Yes,No,8,11320,Saver
+21,Male,4,Management,Tier 3,PG / Rented,6000,0,Public Transport,2,7,2,1,3.7,Yes,No,11,7390,Overspender
+23,Female,4,Management,Tier 1,With Family,10900,0,Walk / Cycle,7,3,0,4,1.8,Yes,No,21,11380,Balanced
+24,Female,4,Science,Tier 1,Hostel,17100,0,Own Bike,1,1,4,5,3.4,No,No,10,13720,Balanced
+21,Male,3,Commerce,Tier 1,Hostel,10500,0,Own Bike,2,1,3,3,2.8,Yes,No,9,8930,Balanced
+21,Male,3,Medical,Tier 2,PG / Rented,9500,4300,Walk / Cycle,2,2,2,3,3.9,Yes,No,9,10180,Saver
+18,Female,1,Engineering,Tier 1,With Family,15500,0,Public Transport,2,2,0,5,3.6,No,No,11,9910,Saver
+23,Male,4,Engineering,Tier 2,Hostel,7900,0,Public Transport,1,6,2,1,1.2,No,No,12,8450,Overspender
+24,Male,4,Management,Tier 2,PG / Rented,10300,0,Own Bike,3,4,4,0,5.6,No,No,7,10510,Balanced
+22,Female,4,Science,Tier 1,With Family,9400,0,Walk / Cycle,3,4,2,0,0.5,No,No,12,6440,Saver
+24,Male,4,Management,Tier 1,Hostel,10300,6600,Public Transport,2,2,3,3,1.9,Yes,No,6,12300,Saver
+24,Male,4,Engineering,Tier 3,Hostel,4100,0,Own Bike,0,3,2,5,3.4,No,Yes,10,5950,Overspender
+23,Male,4,Medical,Tier 1,PG / Rented,16000,0,Public Transport,2,2,6,1,2.4,No,No,7,14020,Balanced
+21,Male,3,Arts,Tier 2,Hostel,7900,0,Own Bike,1,3,0,4,2.2,Yes,Yes,14,8560,Overspender
+18,Female,1,Science,Tier 2,Hostel,18300,0,Public Transport,5,3,0,5,1.9,Yes,No,9,11760,Saver
+18,Female,1,Medical,Tier 1,PG / Rented,19200,0,Cab / Auto,4,4,2,5,1.7,Yes,No,6,17210,Balanced
+19,Female,1,Commerce,Tier 2,With Family,4300,0,Walk / Cycle,3,2,1,4,5.2,Yes,No,11,3550,Balanced
+21,Male,3,Science,Tier 2,PG / Rented,13900,0,Walk / Cycle,3,3,1,2,2.2,Yes,No,9,10600,Saver
+23,Female,4,Science,Tier 2,PG / Rented,11500,0,Public Transport,3,3,3,3,2.2,Yes,No,18,10090,Balanced
+21,Male,4,Management,Tier 3,PG / Rented,13500,2600,Public Transport,5,2,2,3,1.4,No,No,9,12130,Saver
+18,Female,1,Management,Tier 3,PG / Rented,5900,0,Own Bike,1,0,0,2,3.6,Yes,No,19,6070,Balanced
+19,Male,1,Science,Tier 3,With Family,4600,0,Walk / Cycle,2,6,1,4,0.8,No,No,10,4300,Balanced
+24,Female,4,Engineering,Tier 2,With Family,5400,0,Walk / Cycle,1,4,3,4,7.4,Yes,No,9,4750,Balanced
+24,Male,4,Engineering,Tier 2,With Family,5700,7100,Own Bike,3,3,1,4,1.2,No,No,9,9130,Saver
+20,Male,2,Medical,Tier 2,With Family,3800,0,Public Transport,5,3,3,3,2.2,No,No,9,10320,Overspender
+23,Male,4,Medical,Tier 1,With Family,9800,3000,Own Bike,2,2,2,3,3.1,No,Yes,11,10310,Balanced
+23,Male,4,Medical,Tier 3,Hostel,7200,0,Own Bike,4,2,0,1,4.6,Yes,No,16,6380,Balanced
+24,Male,4,Engineering,Tier 3,With Family,7500,0,Walk / Cycle,3,4,3,2,1.9,Yes,No,13,6820,Balanced
+24,Female,4,Commerce,Tier 1,With Family,7500,0,Own Bike,4,2,3,4,1.6,Yes,Yes,13,7530,Balanced
+22,Female,4,Science,Tier 3,Hostel,5000,5400,Own Bike,0,7,6,4,2.6,Yes,Yes,11,10240,Balanced
+20,Male,2,Science,Tier 3,Hostel,8600,0,Own Bike,1,2,2,3,1.4,No,No,14,7570,Balanced
+22,Female,4,Engineering,Tier 2,PG / Rented,7000,0,Walk / Cycle,2,3,3,3,2.0,No,No,5,6490,Balanced
+20,Female,3,Arts,Tier 3,PG / Rented,12200,6500,Public Transport,2,1,3,1,6.1,No,No,14,15850,Balanced
+20,Female,2,Engineering,Tier 1,With Family,12300,3500,Cab / Auto,3,3,1,2,1.2,No,No,18,12130,Saver
+22,Female,4,Commerce,Tier 1,PG / Rented,23800,0,Public Transport,3,3,4,3,0.3,No,No,15,16970,Saver
+21,Female,4,Engineering,Tier 1,Hostel,12800,0,Public Transport,8,3,2,0,1.3,Yes,Yes,15,14360,Overspender
+22,Female,4,Engineering,Tier 2,Hostel,6400,0,Walk / Cycle,2,2,1,0,0.8,No,No,7,4940,Saver
+20,Female,2,Engineering,Tier 1,With Family,7900,6200,Own Bike,3,5,5,3,3.5,Yes,No,8,9880,Saver
+20,Female,3,Medical,Tier 3,Hostel,7100,0,Own Bike,2,6,0,4,1.6,No,No,15,6400,Balanced
+18,Male,1,Science,Tier 1,With Family,5900,0,Cab / Auto,3,3,2,5,4.9,No,No,8,8060,Overspender
+22,Male,4,Medical,Tier 1,Hostel,19700,0,Cab / Auto,4,2,1,2,2.0,No,Yes,8,14560,Saver
+22,Male,4,Commerce,Tier 2,PG / Rented,13000,0,Public Transport,2,2,0,0,0.8,No,No,14,9080,Saver
+24,Female,4,Commerce,Tier 1,PG / Rented,9000,0,Own Bike,3,3,3,3,4.5,No,No,12,10760,Overspender
+21,Male,4,Commerce,Tier 2,Hostel,18700,0,Walk / Cycle,1,3,3,1,1.2,Yes,No,11,10960,Saver
+21,Female,3,Arts,Tier 1,With Family,7900,0,Walk / Cycle,2,3,1,0,0.3,No,No,12,7080,Balanced
+18,Female,1,Commerce,Tier 3,With Family,2600,0,Walk / Cycle,1,4,1,3,3.1,No,No,9,3600,Overspender
+19,Other,2,Science,Tier 2,Hostel,5500,0,Cab / Auto,2,4,2,4,1.4,No,Yes,8,8310,Overspender
+20,Male,2,Management,Tier 1,PG / Rented,26400,0,Walk / Cycle,2,5,2,0,3.2,Yes,No,11,16210,Saver
+20,Female,2,Management,Tier 1,With Family,17200,0,Public Transport,2,3,3,4,4.1,No,No,12,12080,Saver
+20,Female,3,Engineering,Tier 1,With Family,11900,0,Public Transport,1,3,2,3,2.8,No,Yes,10,8240,Saver
+20,Male,3,Arts,Tier 3,PG / Rented,13600,0,Public Transport,2,6,0,4,1.4,No,No,16,8600,Saver
+23,Female,4,Engineering,Tier 2,With Family,9700,5100,Public Transport,3,3,2,3,4.6,Yes,No,6,11120,Saver
+18,Male,1,Engineering,Tier 2,Hostel,10300,0,Walk / Cycle,2,2,2,2,1.1,No,No,12,6780,Saver
+20,Female,3,Science,Tier 1,Hostel,12500,0,Public Transport,2,4,3,2,3.2,Yes,No,13,10700,Balanced
+19,Male,2,Arts,Tier 3,With Family,5400,0,Public Transport,2,6,4,3,3.7,No,No,12,6490,Overspender
+20,Male,2,Science,Tier 1,With Family,10500,0,Own Bike,3,4,2,1,2.4,No,No,13,8610,Balanced
+22,Male,4,Engineering,Tier 2,With Family,4000,6500,Own Bike,3,6,2,3,4.0,No,No,4,10470,Balanced
+18,Male,1,Medical,Tier 2,Hostel,11100,0,Own Bike,1,4,2,4,2.8,No,No,16,8650,Saver
+20,Male,2,Medical,Tier 1,PG / Rented,26000,5200,Public Transport,8,3,4,1,3.1,No,Yes,9,25540,Balanced
+18,Female,1,Commerce,Tier 2,With Family,5100,0,Walk / Cycle,1,1,1,0,4.0,No,No,17,3480,Saver
+24,Male,4,Management,Tier 1,Hostel,9400,0,Public Transport,3,5,4,0,2.7,Yes,No,15,9900,Overspender
+23,Male,4,Engineering,Tier 1,PG / Rented,16700,0,Cab / Auto,0,2,2,3,4.3,No,No,11,13440,Balanced
+19,Female,2,Science,Tier 3,PG / Rented,5600,0,Walk / Cycle,2,7,3,2,5.5,No,No,15,7040,Overspender
+19,Female,2,Management,Tier 2,Hostel,4400,0,Walk / Cycle,1,0,1,3,3.3,No,No,14,3580,Balanced
+18,Female,1,Management,Tier 3,PG / Rented,12600,0,Cab / Auto,3,5,2,4,4.1,No,No,17,12210,Balanced
+21,Female,4,Management,Tier 2,Hostel,6500,0,Cab / Auto,1,3,2,5,2.5,Yes,No,8,6230,Balanced
+23,Male,4,Commerce,Tier 1,With Family,7600,0,Walk / Cycle,5,3,1,1,5.5,Yes,No,17,9570,Overspender
+22,Female,4,Management,Tier 2,Hostel,6100,5800,Own Bike,3,6,0,0,3.0,No,Yes,18,10090,Balanced
+24,Male,4,Science,Tier 2,Hostel,14200,0,Public Transport,1,5,0,4,3.8,Yes,Yes,9,10130,Saver
+20,Female,3,Engineering,Tier 1,Hostel,15900,0,Public Transport,3,3,1,0,0.8,Yes,No,6,10940,Saver
+19,Other,1,Engineering,Tier 2,Hostel,7200,0,Public Transport,2,1,3,3,3.6,No,No,11,7020,Balanced
+21,Female,3,Science,Tier 2,Hostel,4700,0,Cab / Auto,1,2,5,1,2.6,No,No,14,7800,Overspender
+19,Female,1,Science,Tier 2,PG / Rented,8600,0,Walk / Cycle,3,2,3,2,3.5,Yes,No,14,8990,Balanced
+24,Female,4,Arts,Tier 1,Hostel,14000,0,Own Bike,4,3,0,0,3.8,Yes,No,15,11490,Balanced
+19,Male,1,Medical,Tier 3,Hostel,6500,0,Walk / Cycle,1,4,2,0,4.0,No,No,14,6190,Balanced
+21,Female,4,Science,Tier 1,Hostel,11300,0,Own Bike,4,6,3,1,3.7,Yes,Yes,15,10730,Balanced
+21,Female,3,Commerce,Tier 1,PG / Rented,14800,0,Own Bike,6,6,1,2,2.1,Yes,No,16,15100,Balanced
+18,Other,1,Commerce,Tier 1,Hostel,15200,0,Own Bike,5,2,1,1,6.8,Yes,No,9,12090,Saver
+21,Male,3,Arts,Tier 3,PG / Rented,7400,0,Cab / Auto,1,1,3,2,4.9,No,No,10,8130,Overspender
+21,Male,4,Science,Tier 1,With Family,9300,4400,Own Bike,2,4,4,0,2.2,No,No,12,13510,Balanced
+19,Female,2,Arts,Tier 2,With Family,3600,0,Own Bike,5,4,3,0,2.2,Yes,No,9,4560,Overspender
+18,Male,1,Arts,Tier 1,Hostel,34100,0,Public Transport,4,5,0,4,0.2,No,No,13,21020,Saver
+18,Male,1,Science,Tier 2,With Family,4900,0,Cab / Auto,4,2,0,4,1.0,Yes,No,6,5510,Overspender
+18,Male,1,Science,Tier 3,With Family,4600,0,Public Transport,2,5,0,4,1.3,No,No,9,4400,Balanced
+21,Female,4,Management,Tier 1,Hostel,13900,0,Public Transport,4,1,3,5,2.2,Yes,No,10,10820,Saver
+18,Male,1,Engineering,Tier 3,PG / Rented,6200,0,Public Transport,1,6,1,4,5.4,Yes,Yes,7,7360,Overspender
+24,Male,4,Science,Tier 1,With Family,7600,0,Public Transport,4,2,2,0,2.0,No,No,9,7090,Balanced
+19,Male,2,Arts,Tier 1,Hostel,10800,0,Public Transport,2,2,0,4,1.0,Yes,No,14,8420,Saver
+22,Female,4,Engineering,Tier 2,PG / Rented,6600,0,Public Transport,3,1,0,1,3.5,Yes,No,6,6850,Balanced
+22,Female,4,Science,Tier 2,PG / Rented,12200,0,Walk / Cycle,0,3,2,4,3.7,No,No,17,9520,Saver
+21,Male,4,Science,Tier 1,Hostel,5100,0,Cab / Auto,4,1,2,3,2.0,No,No,10,8690,Overspender
+24,Male,4,Arts,Tier 2,With Family,12300,7000,Cab / Auto,2,2,2,5,5.0,No,Yes,17,15340,Saver
+18,Female,1,Management,Tier 1,Hostel,15400,0,Public Transport,1,3,0,5,5.2,No,Yes,15,12080,Saver
+19,Male,2,Engineering,Tier 2,Hostel,10700,0,Cab / Auto,0,1,0,4,0.5,Yes,No,7,7320,Saver
+19,Female,2,Engineering,Tier 2,Hostel,3700,0,Public Transport,0,2,1,5,3.7,No,Yes,9,5350,Overspender
+18,Male,1,Commerce,Tier 3,PG / Rented,5300,0,Public Transport,1,8,0,3,0.3,No,No,10,6150,Overspender
+20,Female,3,Commerce,Tier 2,With Family,10500,0,Cab / Auto,2,8,4,5,2.2,No,No,10,11030,Overspender
+20,Male,2,Science,Tier 2,With Family,36300,0,Own Bike,1,2,2,0,8.9,No,Yes,15,18950,Saver
+23,Female,4,Management,Tier 2,With Family,9600,0,Own Bike,2,6,2,2,3.6,No,No,18,10670,Overspender
+20,Male,2,Science,Tier 1,PG / Rented,21500,0,Public Transport,0,5,1,4,1.5,No,No,8,15280,Saver
+24,Female,4,Engineering,Tier 1,PG / Rented,17100,0,Public Transport,9,2,7,5,3.8,No,No,11,22400,Overspender
+23,Other,4,Commerce,Tier 3,PG / Rented,5100,0,Walk / Cycle,0,5,1,5,1.4,No,No,11,7510,Overspender
+24,Female,4,Engineering,Tier 1,Hostel,16900,8100,Cab / Auto,1,3,4,2,3.0,No,No,15,16320,Saver
+18,Male,1,Science,Tier 3,With Family,2600,0,Walk / Cycle,0,4,3,3,1.2,No,No,13,4140,Overspender
+24,Male,4,Engineering,Tier 1,PG / Rented,7800,5700,Public Transport,3,1,2,0,1.8,No,No,17,12630,Balanced
+22,Female,4,Arts,Tier 3,PG / Rented,4200,0,Walk / Cycle,3,2,2,0,4.9,Yes,No,9,6260,Overspender
+24,Female,4,Management,Tier 1,PG / Rented,20900,0,Own Bike,3,2,3,4,6.7,No,No,16,17340,Balanced
+20,Male,2,Science,Tier 3,With Family,4100,0,Public Transport,0,3,1,1,3.0,No,No,14,4700,Overspender
+24,Male,4,Engineering,Tier 2,Hostel,8400,2000,Own Bike,1,2,0,3,4.1,Yes,Yes,15,6310,Saver
+22,Male,4,Commerce,Tier 1,With Family,7500,0,Public Transport,4,1,1,1,1.6,No,No,12,6850,Balanced
+18,Female,1,Science,Tier 2,With Family,3400,0,Walk / Cycle,4,0,0,4,1.1,No,No,12,4080,Overspender
+20,Female,3,Arts,Tier 2,With Family,4100,0,Walk / Cycle,4,1,3,0,2.8,No,No,9,4640,Overspender
+18,Female,1,Engineering,Tier 1,Hostel,8200,0,Walk / Cycle,3,3,4,3,2.6,No,No,6,7900,Balanced
+24,Female,4,Management,Tier 1,Hostel,5700,0,Own Bike,7,5,3,4,9.2,No,No,13,13350,Overspender
+20,Male,3,Arts,Tier 2,PG / Rented,8000,0,Own Bike,0,4,0,4,2.2,Yes,Yes,9,6850,Balanced
+19,Male,2,Commerce,Tier 2,With Family,3400,0,Public Transport,3,1,2,1,2.1,No,No,23,4340,Overspender
+21,Male,3,Engineering,Tier 1,With Family,9800,7400,Public Transport,1,2,4,2,3.6,Yes,No,16,11840,Saver
+20,Female,2,Commerce,Tier 3,PG / Rented,10100,0,Walk / Cycle,2,4,3,3,1.6,No,No,13,10290,Balanced
+18,Male,1,Commerce,Tier 1,Hostel,6000,0,Cab / Auto,7,2,7,1,1.3,No,No,11,11990,Overspender
+23,Male,4,Engineering,Tier 1,Hostel,9500,0,Cab / Auto,4,4,1,4,3.2,No,No,18,10450,Overspender
+23,Male,4,Arts,Tier 2,PG / Rented,23100,0,Own Bike,2,3,3,4,0.7,Yes,No,7,14440,Saver
+23,Male,4,Commerce,Tier 1,Hostel,6900,2600,Walk / Cycle,3,3,3,4,3.4,No,No,17,10720,Overspender
+22,Female,4,Management,Tier 1,PG / Rented,16400,0,Public Transport,7,5,3,2,1.8,No,No,14,18150,Overspender
+20,Male,2,Medical,Tier 2,With Family,5900,0,Cab / Auto,2,2,3,3,4.0,Yes,No,14,6570,Overspender
+21,Male,4,Engineering,Tier 1,PG / Rented,22100,0,Walk / Cycle,1,3,2,1,5.6,No,No,17,15760,Saver
+21,Female,3,Engineering,Tier 1,PG / Rented,15400,0,Own Bike,2,3,4,1,1.3,No,No,15,12680,Balanced
+19,Male,1,Management,Tier 2,Hostel,6600,0,Cab / Auto,3,3,0,2,2.1,Yes,No,13,7180,Overspender
+18,Male,1,Medical,Tier 2,Hostel,8200,0,Own Bike,0,3,1,1,4.7,No,No,13,7500,Balanced
+19,Male,2,Management,Tier 3,With Family,4400,0,Own Bike,0,3,4,4,3.0,No,No,18,5110,Overspender
+21,Female,3,Engineering,Tier 2,PG / Rented,9600,0,Public Transport,2,2,2,1,6.8,No,No,15,9820,Balanced
+19,Male,2,Engineering,Tier 2,Hostel,4400,0,Cab / Auto,2,3,1,5,3.1,No,No,16,5880,Overspender
+18,Female,1,Engineering,Tier 1,Hostel,18900,5600,Public Transport,5,0,1,2,5.4,Yes,No,12,17180,Saver
+23,Female,4,Management,Tier 3,Hostel,9700,0,Cab / Auto,0,3,3,4,0.9,Yes,Yes,18,7040,Saver
+20,Female,2,Arts,Tier 1,With Family,4700,0,Public Transport,0,2,6,0,1.3,No,No,12,5560,Overspender
+22,Male,4,Arts,Tier 1,PG / Rented,11800,0,Own Bike,3,3,0,4,6.2,No,No,13,12760,Overspender
+21,Female,3,Arts,Tier 3,PG / Rented,6800,0,Cab / Auto,0,0,4,2,1.3,No,No,13,8130,Overspender
+23,Male,4,Engineering,Tier 2,PG / Rented,5900,0,Public Transport,2,7,2,4,6.3,No,No,13,9790,Overspender
+23,Male,4,Arts,Tier 2,Hostel,3500,0,Public Transport,2,2,4,1,1.4,Yes,No,15,5950,Overspender
+20,Female,3,Engineering,Tier 1,PG / Rented,10000,10100,Walk / Cycle,3,4,1,1,0.8,Yes,No,9,14100,Saver
+23,Male,4,Science,Tier 1,Hostel,9200,0,Own Bike,2,4,0,5,2.1,No,No,12,11070,Overspender
+20,Male,3,Science,Tier 2,With Family,2900,5200,Own Bike,3,2,2,3,0.9,Yes,No,16,7660,Balanced
+23,Male,4,Science,Tier 2,Hostel,8700,0,Public Transport,2,3,3,3,3.7,Yes,No,14,7570,Balanced
+20,Male,3,Commerce,Tier 2,PG / Rented,16900,0,Own Bike,1,1,2,3,0.3,No,No,8,12060,Saver
+18,Male,1,Management,Tier 1,Hostel,15800,4200,Cab / Auto,6,2,1,2,7.8,No,No,9,17350,Balanced
+23,Female,4,Science,Tier 1,With Family,7100,0,Cab / Auto,2,2,6,5,2.6,Yes,Yes,11,10140,Overspender
+18,Female,1,Engineering,Tier 2,Hostel,3500,0,Own Bike,2,2,0,3,3.9,No,No,6,3880,Overspender
+23,Male,4,Engineering,Tier 2,With Family,7700,0,Cab / Auto,3,4,5,0,4.2,No,No,13,9230,Overspender
+18,Female,1,Science,Tier 1,Hostel,11500,0,Own Bike,3,3,4,1,2.9,No,Yes,12,9610,Balanced
+19,Male,1,Engineering,Tier 1,With Family,9200,0,Walk / Cycle,5,3,2,5,3.4,Yes,No,14,9030,Balanced
+22,Male,4,Engineering,Tier 1,With Family,18100,0,Cab / Auto,5,4,1,2,1.9,No,No,12,15240,Balanced
+24,Male,4,Engineering,Tier 1,Hostel,7500,0,Public Transport,3,1,0,4,4.2,No,No,13,7600,Balanced
+20,Male,2,Engineering,Tier 2,Hostel,2200,0,Cab / Auto,1,4,0,0,7.0,Yes,No,15,5370,Overspender
+18,Male,1,Commerce,Tier 1,PG / Rented,8400,0,Own Bike,5,2,2,0,1.9,Yes,No,14,11790,Overspender
+19,Male,1,Arts,Tier 2,With Family,7000,0,Own Bike,3,4,1,1,4.6,No,No,13,6290,Balanced
+24,Male,4,Engineering,Tier 2,With Family,5700,0,Public Transport,4,4,3,3,5.1,Yes,No,12,6880,Overspender
+23,Female,4,Science,Tier 3,Hostel,3500,0,Walk / Cycle,4,1,3,3,1.8,Yes,No,11,4570,Overspender
+18,Male,1,Engineering,Tier 3,PG / Rented,4000,0,Public Transport,3,3,4,0,2.5,No,No,9,6230,Overspender
+20,Male,2,Engineering,Tier 1,Hostel,9200,0,Own Bike,4,1,1,5,2.4,No,No,20,10980,Overspender
+19,Male,1,Engineering,Tier 1,Hostel,6200,0,Own Bike,2,2,5,3,2.2,No,No,11,9780,Overspender
+19,Female,2,Management,Tier 1,PG / Rented,17100,0,Walk / Cycle,2,2,4,2,1.5,No,No,12,13980,Balanced
+23,Male,4,Medical,Tier 2,Hostel,6600,0,Walk / Cycle,1,2,1,2,2.5,No,No,10,5840,Balanced
+22,Female,4,Commerce,Tier 1,Hostel,8100,0,Own Bike,1,2,1,3,2.1,No,Yes,14,7340,Balanced
+19,Male,1,Engineering,Tier 1,With Family,5400,0,Public Transport,5,3,2,4,5.7,No,No,9,7660,Overspender
+22,Male,4,Engineering,Tier 1,With Family,8500,0,Walk / Cycle,4,3,1,0,3.0,No,No,9,9570,Overspender
+20,Female,3,Engineering,Tier 1,With Family,7700,0,Walk / Cycle,3,2,2,3,1.6,No,No,20,9720,Overspender
+18,Male,1,Management,Tier 2,Hostel,8800,0,Own Bike,2,1,2,3,6.0,No,No,16,9970,Overspender
+21,Male,3,Engineering,Tier 2,With Family,6100,0,Public Transport,2,1,1,4,5.3,No,No,16,5780,Balanced
+19,Male,1,Medical,Tier 2,PG / Rented,9700,0,Own Bike,1,2,0,2,2.2,No,No,8,8550,Balanced
+19,Other,2,Arts,Tier 3,PG / Rented,4700,0,Public Transport,3,2,2,2,2.9,Yes,No,12,6610,Overspender
+24,Female,4,Arts,Tier 1,Hostel,7800,0,Walk / Cycle,3,2,4,4,5.8,No,Yes,14,11580,Overspender
+22,Female,4,Management,Tier 1,With Family,6300,3400,Own Bike,0,1,3,5,4.4,No,Yes,9,6200,Saver
+18,Other,1,Engineering,Tier 1,PG / Rented,34200,9300,Cab / Auto,4,5,0,4,0.6,Yes,No,14,28230,Saver
+23,Male,4,Science,Tier 2,With Family,3100,0,Public Transport,2,4,2,5,1.2,Yes,No,12,3180,Balanced
+22,Other,4,Engineering,Tier 2,With Family,4600,0,Own Bike,1,2,2,0,1.7,Yes,No,12,5440,Overspender
+24,Male,4,Management,Tier 1,With Family,7900,4300,Own Bike,4,2,2,3,1.8,Yes,No,13,10790,Balanced
+23,Female,4,Arts,Tier 3,With Family,3700,0,Cab / Auto,3,5,0,4,2.4,No,No,23,7130,Overspender
+20,Male,2,Engineering,Tier 1,With Family,12300,0,Public Transport,3,5,4,1,3.3,No,No,20,11620,Balanced
+21,Male,3,Management,Tier 1,Hostel,9400,0,Walk / Cycle,0,6,1,2,2.4,No,No,14,7340,Saver
+21,Female,3,Engineering,Tier 2,Hostel,7200,0,Walk / Cycle,3,3,5,5,5.1,No,No,10,8920,Overspender
+23,Male,4,Engineering,Tier 3,With Family,6100,0,Own Bike,2,2,2,0,1.9,No,No,7,4700,Saver
+19,Other,2,Management,Tier 2,PG / Rented,22600,0,Own Bike,3,5,4,4,5.1,No,No,9,16180,Saver
+20,Male,3,Commerce,Tier 3,PG / Rented,14100,0,Public Transport,2,5,0,1,3.0,No,No,16,8440,Saver
+19,Female,2,Management,Tier 1,With Family,7100,0,Walk / Cycle,4,3,2,5,2.9,No,No,15,7880,Overspender
+20,Female,3,Science,Tier 2,PG / Rented,9800,0,Walk / Cycle,2,4,1,3,4.1,No,No,13,7790,Saver
+19,Male,2,Science,Tier 3,With Family,4300,0,Public Transport,4,4,1,0,3.7,Yes,No,15,5930,Overspender
+18,Female,1,Engineering,Tier 2,Hostel,8500,0,Cab / Auto,1,1,1,0,2.4,No,No,13,5820,Saver
+24,Female,4,Engineering,Tier 1,With Family,5200,6600,Public Transport,6,1,2,4,1.4,No,No,12,10650,Balanced
+18,Female,1,Medical,Tier 3,Hostel,9100,0,Own Bike,2,5,3,4,5.8,Yes,Yes,8,8340,Balanced
+24,Male,4,Engineering,Tier 1,PG / Rented,14800,7800,Public Transport,1,0,2,1,2.8,Yes,No,8,14460,Saver
+18,Female,1,Arts,Tier 2,With Family,5500,0,Cab / Auto,0,6,1,3,2.8,No,No,11,5250,Balanced
+23,Female,4,Engineering,Tier 3,Hostel,3400,0,Own Bike,2,2,2,3,10.0,No,Yes,8,7170,Overspender
+20,Male,2,Engineering,Tier 3,Hostel,6200,0,Walk / Cycle,0,4,0,0,5.2,No,Yes,9,5080,Balanced
+21,Male,4,Arts,Tier 3,Hostel,2600,0,Own Bike,5,3,3,4,2.3,No,No,9,6160,Overspender
+19,Male,2,Management,Tier 3,PG / Rented,5800,0,Own Bike,3,3,2,0,2.6,Yes,No,10,5900,Balanced
+21,Female,3,Science,Tier 1,PG / Rented,10500,0,Cab / Auto,4,2,4,2,1.3,No,No,11,13250,Overspender
+21,Male,3,Management,Tier 3,Hostel,6800,0,Public Transport,5,4,0,0,1.0,No,No,11,7750,Overspender
+21,Female,3,Engineering,Tier 2,With Family,13000,0,Walk / Cycle,0,2,1,1,2.3,No,Yes,11,9880,Saver
+20,Other,2,Commerce,Tier 2,Hostel,10300,0,Public Transport,4,7,2,5,3.6,No,Yes,12,10690,Balanced
+21,Male,3,Engineering,Tier 1,PG / Rented,25900,0,Own Bike,7,5,1,3,1.4,Yes,No,15,19980,Saver
+23,Male,4,Science,Tier 3,PG / Rented,10000,6000,Public Transport,0,3,2,4,4.4,No,Yes,12,9870,Saver
+21,Female,3,Engineering,Tier 2,Hostel,13300,0,Cab / Auto,1,6,5,1,1.1,No,No,22,12740,Balanced
+20,Male,2,Arts,Tier 3,Hostel,13800,0,Walk / Cycle,3,7,3,0,2.3,Yes,No,7,8350,Saver
+18,Female,1,Engineering,Tier 1,With Family,5400,0,Cab / Auto,7,0,3,3,4.2,Yes,No,13,9020,Overspender
+20,Female,3,Management,Tier 1,With Family,5300,0,Public Transport,1,0,1,1,8.2,No,No,17,5980,Overspender
+18,Female,1,Management,Tier 2,Hostel,10800,0,Walk / Cycle,2,4,0,0,6.4,No,No,15,7770,Saver
+19,Male,2,Management,Tier 1,With Family,7500,0,Public Transport,2,1,2,2,5.5,Yes,No,11,5290,Saver
+24,Female,4,Engineering,Tier 2,PG / Rented,11000,0,Own Bike,3,2,0,2,2.8,No,No,8,11100,Balanced
+18,Female,1,Medical,Tier 1,Hostel,9700,0,Own Bike,4,6,2,0,4.6,No,No,15,12300,Overspender
+21,Male,3,Engineering,Tier 2,With Family,4300,0,Public Transport,7,2,4,3,2.1,No,No,17,7140,Overspender
+23,Female,4,Engineering,Tier 1,PG / Rented,28000,0,Walk / Cycle,5,0,0,2,4.0,No,No,9,19330,Saver
+24,Female,4,Engineering,Tier 1,Hostel,6600,0,Cab / Auto,2,4,4,5,0.9,Yes,No,21,8420,Overspender
+19,Female,2,Engineering,Tier 2,With Family,7600,0,Public Transport,2,0,3,0,3.3,Yes,Yes,6,8390,Overspender
+19,Male,1,Arts,Tier 1,Hostel,13700,0,Public Transport,2,4,2,2,0.9,No,No,15,10840,Saver
+20,Male,2,Engineering,Tier 1,Hostel,5300,5000,Cab / Auto,5,3,0,4,5.3,Yes,No,10,12000,Overspender
+21,Male,3,Commerce,Tier 1,Hostel,7400,0,Walk / Cycle,3,1,1,2,4.4,Yes,No,15,6360,Balanced
+24,Male,4,Science,Tier 1,With Family,5600,0,Walk / Cycle,3,2,0,1,6.8,Yes,No,12,5690,Balanced
+19,Male,1,Management,Tier 2,With Family,7200,0,Public Transport,5,6,0,5,1.0,Yes,No,15,7120,Balanced
+19,Other,2,Science,Tier 1,With Family,6400,0,Own Bike,1,3,3,1,10.0,No,No,8,7780,Overspender
+19,Male,2,Arts,Tier 1,Hostel,10400,6800,Public Transport,2,3,1,5,2.6,No,No,8,11860,Saver
+24,Female,4,Engineering,Tier 2,With Family,2900,0,Cab / Auto,4,0,1,5,5.2,Yes,No,11,3040,Balanced
+18,Male,1,Management,Tier 2,PG / Rented,28500,0,Public Transport,0,2,2,4,1.3,Yes,No,15,16630,Saver
+20,Male,3,Engineering,Tier 2,Hostel,8300,0,Cab / Auto,0,1,4,4,3.5,No,Yes,20,9330,Overspender
+18,Male,1,Engineering,Tier 1,Hostel,13500,0,Walk / Cycle,8,2,5,3,2.4,No,No,10,13550,Balanced
+19,Male,2,Engineering,Tier 3,With Family,3300,0,Walk / Cycle,2,5,2,4,4.4,No,No,17,3990,Overspender
+24,Female,4,Science,Tier 2,Hostel,6000,0,Walk / Cycle,3,5,3,1,0.5,No,Yes,15,6740,Overspender
+18,Female,1,Commerce,Tier 1,PG / Rented,31900,0,Walk / Cycle,5,4,1,0,1.2,Yes,No,12,19100,Saver
+20,Female,2,Science,Tier 3,PG / Rented,3200,0,Public Transport,7,4,1,3,5.6,No,No,11,8200,Overspender
+24,Male,4,Commerce,Tier 2,Hostel,9100,0,Own Bike,4,1,1,4,1.2,No,No,2,8880,Balanced
+22,Female,4,Commerce,Tier 2,With Family,3200,0,Own Bike,3,3,0,5,2.4,Yes,No,12,3230,Balanced
+18,Male,1,Commerce,Tier 3,With Family,3500,0,Own Bike,1,4,2,4,2.2,No,No,7,6900,Overspender
+21,Female,3,Engineering,Tier 1,PG / Rented,10100,0,Walk / Cycle,3,5,1,5,3.2,No,No,13,10750,Overspender
+24,Male,4,Commerce,Tier 3,With Family,2700,4100,Own Bike,1,2,3,3,1.4,No,No,10,6850,Balanced
+20,Male,2,Science,Tier 2,PG / Rented,10200,0,Public Transport,1,1,5,1,5.9,Yes,No,4,8690,Balanced
+21,Male,4,Arts,Tier 1,With Family,2400,0,Own Bike,4,2,0,1,3.3,Yes,No,16,3700,Overspender
+21,Male,3,Engineering,Tier 1,Hostel,9400,0,Own Bike,2,1,1,1,6.3,No,No,12,9020,Balanced
+22,Male,4,Science,Tier 1,PG / Rented,13000,0,Walk / Cycle,3,1,3,5,4.4,Yes,Yes,17,12610,Balanced
+19,Female,2,Engineering,Tier 3,Hostel,3300,0,Public Transport,3,3,4,5,3.2,Yes,No,14,5140,Overspender
+23,Female,4,Engineering,Tier 1,PG / Rented,26700,0,Cab / Auto,2,1,3,4,0.2,No,No,22,20490,Saver
+24,Female,4,Engineering,Tier 1,PG / Rented,10300,0,Public Transport,2,6,6,5,4.0,Yes,No,11,12930,Overspender
+18,Male,1,Commerce,Tier 2,Hostel,7200,0,Own Bike,2,2,1,2,3.9,Yes,No,13,7290,Balanced
+23,Female,4,Engineering,Tier 2,With Family,4300,0,Cab / Auto,4,2,2,4,6.2,Yes,No,6,6160,Overspender
+23,Male,4,Science,Tier 1,Hostel,10400,0,Public Transport,1,4,3,1,3.0,Yes,No,13,8730,Balanced
+23,Female,4,Engineering,Tier 3,Hostel,10800,0,Public Transport,3,3,1,0,0.2,Yes,No,8,7310,Saver
+20,Male,2,Science,Tier 2,PG / Rented,30400,0,Public Transport,3,1,1,3,2.8,No,Yes,17,20030,Saver
+21,Male,3,Engineering,Tier 3,PG / Rented,10500,0,Own Bike,2,2,6,4,4.1,No,No,18,9230,Balanced
+23,Female,4,Science,Tier 1,Hostel,17600,0,Public Transport,2,3,2,3,2.8,Yes,No,8,9480,Saver
+19,Male,1,Management,Tier 1,PG / Rented,29200,0,Public Transport,2,1,1,2,1.9,No,No,14,19870,Saver
+23,Male,4,Commerce,Tier 2,With Family,6300,0,Walk / Cycle,1,3,0,3,4.6,Yes,No,11,4580,Saver
+24,Female,4,Engineering,Tier 1,Hostel,21900,1500,Cab / Auto,0,5,1,2,0.4,Yes,No,18,14910,Saver
+22,Male,4,Arts,Tier 2,With Family,8000,0,Cab / Auto,2,4,2,1,2.7,No,No,3,7140,Balanced
+20,Female,2,Medical,Tier 1,Hostel,11500,0,Own Bike,5,3,1,1,2.0,No,No,20,11650,Balanced
+21,Male,3,Medical,Tier 2,PG / Rented,11700,0,Cab / Auto,0,4,2,2,1.2,Yes,No,8,11010,Balanced
+18,Female,1,Engineering,Tier 3,Hostel,2600,0,Own Bike,0,2,0,1,3.2,No,Yes,15,3960,Overspender
+24,Female,4,Science,Tier 3,With Family,4800,0,Cab / Auto,0,3,2,0,6.8,Yes,No,11,6810,Overspender
+20,Female,3,Commerce,Tier 3,With Family,2100,0,Walk / Cycle,5,3,1,3,1.3,No,Yes,5,5360,Overspender
+18,Female,1,Engineering,Tier 3,Hostel,2900,0,Walk / Cycle,2,3,3,2,4.0,No,No,10,3780,Overspender
+23,Female,4,Science,Tier 2,Hostel,8700,0,Cab / Auto,5,2,4,0,3.6,No,No,12,10380,Overspender
+22,Female,4,Arts,Tier 1,Hostel,6500,0,Public Transport,3,2,3,5,1.0,No,No,14,9930,Overspender
+22,Male,4,Arts,Tier 3,Hostel,6000,0,Public Transport,3,5,3,3,3.6,No,No,16,7680,Overspender
+18,Male,1,Management,Tier 3,With Family,4500,0,Own Bike,0,4,4,0,2.1,No,No,16,5040,Overspender
+23,Female,4,Commerce,Tier 3,PG / Rented,8100,0,Own Bike,3,7,2,0,1.6,No,Yes,20,10820,Overspender
+22,Male,4,Science,Tier 2,PG / Rented,6700,0,Public Transport,0,4,2,0,1.6,No,No,15,5280,Saver
+23,Male,4,Commerce,Tier 1,With Family,11300,0,Public Transport,3,0,2,2,10.0,No,No,10,9870,Balanced
+23,Male,4,Engineering,Tier 3,With Family,4000,0,Public Transport,1,5,3,1,0.6,No,No,13,5810,Overspender
+19,Female,1,Commerce,Tier 3,With Family,5100,0,Walk / Cycle,0,2,2,5,5.4,No,Yes,9,4100,Balanced
+19,Male,1,Medical,Tier 2,Hostel,4700,0,Walk / Cycle,2,2,1,2,2.3,No,No,8,6380,Overspender
+24,Female,4,Commerce,Tier 3,Hostel,5500,0,Public Transport,2,3,3,4,1.3,No,Yes,15,7170,Overspender
+21,Female,3,Engineering,Tier 2,Hostel,13100,0,Own Bike,3,3,4,1,2.0,Yes,No,13,8970,Saver
+21,Female,3,Science,Tier 3,Hostel,9300,0,Public Transport,1,2,3,0,5.7,Yes,No,21,7790,Balanced
+20,Male,3,Medical,Tier 1,PG / Rented,9400,0,Public Transport,3,1,3,2,5.9,Yes,No,6,10330,Overspender
+22,Female,4,Medical,Tier 3,Hostel,4700,0,Own Bike,1,4,1,4,1.2,Yes,No,11,4900,Balanced
+23,Female,4,Arts,Tier 1,PG / Rented,8700,0,Walk / Cycle,2,5,3,4,3.5,Yes,No,7,10510,Overspender
+18,Male,1,Commerce,Tier 1,PG / Rented,10000,0,Public Transport,4,5,2,1,3.3,No,No,6,11670,Overspender
+21,Female,4,Arts,Tier 1,Hostel,5800,0,Walk / Cycle,1,6,6,1,2.2,No,No,8,9280,Overspender
+24,Male,4,Management,Tier 2,Hostel,7500,0,Own Bike,1,2,2,2,3.7,Yes,No,11,5870,Saver
+19,Other,1,Management,Tier 1,PG / Rented,18000,0,Walk / Cycle,3,3,4,2,4.4,Yes,Yes,12,18160,Balanced
+19,Male,1,Management,Tier 3,PG / Rented,5300,8000,Public Transport,1,0,3,1,1.2,Yes,No,7,9880,Saver

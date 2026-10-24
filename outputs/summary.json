@@ -1,0 +1,50 @@
+{
+  "regression": {
+    "best": "Linear Regression",
+    "results": {
+      "Linear Regression": {
+        "CV_R2": 0.9347,
+        "Test_R2": 0.9386,
+        "MAE": 817.3,
+        "RMSE": 1013.8
+      },
+      "Random Forest": {
+        "CV_R2": 0.8701,
+        "Test_R2": 0.8986,
+        "MAE": 1040.9,
+        "RMSE": 1302.7
+      },
+      "Gradient Boosting": {
+        "CV_R2": 0.9188,
+        "Test_R2": 0.9286,
+        "MAE": 858.8,
+        "RMSE": 1093.2
+      }
+    }
+  },
+  "classification": {
+    "best": "Logistic Regression",
+    "results": {
+      "Logistic Regression": {
+        "CV_Accuracy": 0.7588,
+        "Test_Accuracy": 0.775,
+        "F1_macro": 0.7695
+      },
+      "Decision Tree": {
+        "CV_Accuracy": 0.6325,
+        "Test_Accuracy": 0.6675,
+        "F1_macro": 0.6669
+      },
+      "Random Forest": {
+        "CV_Accuracy": 0.69,
+        "Test_Accuracy": 0.69,
+        "F1_macro": 0.6763
+      },
+      "Gradient Boosting": {
+        "CV_Accuracy": 0.7262,
+        "Test_Accuracy": 0.7275,
+        "F1_macro": 0.724
+      }
+    }
+  }
+}
